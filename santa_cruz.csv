@@ -1,4 +1,2988 @@
 fecha,cod_ine,municipio,confirmados
+2020-03-15,70101,Santa Cruz de la Sierra,1
+2020-03-18,70101,Santa Cruz de la Sierra,1
+2020-03-20,70101,Santa Cruz de la Sierra,1
+2020-03-20,70103,Porongo,1
+2020-03-21,70101,Santa Cruz de la Sierra,2
+2020-03-21,71001,Montero,1
+2020-03-22,70101,Santa Cruz de la Sierra,6
+2020-03-23,70101,Santa Cruz de la Sierra,1
+2020-03-24,70101,Santa Cruz de la Sierra,2
+2020-03-25,70101,Santa Cruz de la Sierra,5
+2020-03-25,70801,Vallegrande,1
+2020-03-26,70101,Santa Cruz de la Sierra,5
+2020-03-26,70503,Roboré,2
+2020-03-26,70801,Vallegrande,1
+2020-03-26,71001,Montero,2
+2020-03-27,70101,Santa Cruz de la Sierra,4
+2020-03-27,70801,Vallegrande,2
+2020-03-28,70801,Vallegrande,2
+2020-03-29,70101,Santa Cruz de la Sierra,7
+2020-03-29,71001,Montero,1
+2020-03-30,70101,Santa Cruz de la Sierra,4
+2020-03-30,70201,Warnes,1
+2020-03-30,71001,Montero,2
+2020-03-31,70101,Santa Cruz de la Sierra,4
+2020-03-31,70503,Roboré,2
+2020-03-31,71001,Montero,1
+2020-04-01,70101,Santa Cruz de la Sierra,3
+2020-04-01,71101,Concepción,1
+2020-04-02,70101,Santa Cruz de la Sierra,2
+2020-04-03,70101,Santa Cruz de la Sierra,4
+2020-04-03,71001,Montero,1
+2020-04-04,70101,Santa Cruz de la Sierra,10
+2020-04-04,71001,Montero,5
+2020-04-05,70101,Santa Cruz de la Sierra,3
+2020-04-05,71001,Montero,5
+2020-04-06,70101,Santa Cruz de la Sierra,2
+2020-04-06,71001,Montero,1
+2020-04-07,70101,Santa Cruz de la Sierra,2
+2020-04-07,71001,Montero,1
+2020-04-08,70101,Santa Cruz de la Sierra,10
+2020-04-08,70104,La Guardia,2
+2020-04-08,70503,Roboré,2
+2020-04-08,71001,Montero,10
+2020-04-09,70101,Santa Cruz de la Sierra,3
+2020-04-10,70101,Santa Cruz de la Sierra,2
+2020-04-10,71001,Montero,2
+2020-04-11,70101,Santa Cruz de la Sierra,9
+2020-04-11,71001,Montero,4
+2020-04-12,70101,Santa Cruz de la Sierra,11
+2020-04-12,70102,Cotoca,1
+2020-04-12,71001,Montero,3
+2020-04-12,71005,San Pedro,1
+2020-04-13,71001,Montero,12
+2020-04-13,71101,Concepción,1
+2020-04-14,70104,La Guardia,4
+2020-04-14,71001,Montero,9
+2020-04-15,70101,Santa Cruz de la Sierra,15
+2020-04-15,70102,Cotoca,4
+2020-04-15,70104,La Guardia,1
+2020-04-15,70201,Warnes,1
+2020-04-15,71001,Montero,5
+2020-04-16,70101,Santa Cruz de la Sierra,1
+2020-04-16,71001,Montero,2
+2020-04-17,70101,Santa Cruz de la Sierra,6
+2020-04-17,70102,Cotoca,3
+2020-04-17,70201,Warnes,2
+2020-04-17,70503,Roboré,2
+2020-04-17,71001,Montero,5
+2020-04-18,70101,Santa Cruz de la Sierra,8
+2020-04-18,70201,Warnes,2
+2020-04-18,71001,Montero,8
+2020-04-18,71005,San Pedro,1
+2020-04-19,70101,Santa Cruz de la Sierra,18
+2020-04-19,70104,La Guardia,6
+2020-04-19,71001,Montero,6
+2020-04-19,71002,General Saavedra,4
+2020-04-20,70101,Santa Cruz de la Sierra,20
+2020-04-20,70201,Warnes,6
+2020-04-20,70801,Vallegrande,1
+2020-04-21,70101,Santa Cruz de la Sierra,5
+2020-04-21,71001,Montero,2
+2020-04-22,70101,Santa Cruz de la Sierra,26
+2020-04-22,70102,Cotoca,1
+2020-04-22,70104,La Guardia,2
+2020-04-22,70602,Santa Rosa,7
+2020-04-22,70801,Vallegrande,1
+2020-04-22,71001,Montero,10
+2020-04-23,70101,Santa Cruz de la Sierra,5
+2020-04-23,70201,Warnes,3
+2020-04-23,71001,Montero,6
+2020-04-24,70101,Santa Cruz de la Sierra,21
+2020-04-24,70104,La Guardia,4
+2020-04-24,70105,El Torno,1
+2020-04-24,70201,Warnes,1
+2020-04-24,70503,Roboré,3
+2020-04-24,70602,Santa Rosa,10
+2020-04-24,71001,Montero,19
+2020-04-24,71002,General Saavedra,1
+2020-04-24,71003,Mineros,1
+2020-04-25,70101,Santa Cruz de la Sierra,34
+2020-04-25,70201,Warnes,1
+2020-04-25,70502,Pailón,2
+2020-04-25,71001,Montero,3
+2020-04-26,70101,Santa Cruz de la Sierra,9
+2020-04-26,70104,La Guardia,3
+2020-04-26,70105,El Torno,2
+2020-04-26,70201,Warnes,2
+2020-04-26,70401,Buena Vista,1
+2020-04-26,70903,Mairana,1
+2020-04-26,71001,Montero,21
+2020-04-27,70101,Santa Cruz de la Sierra,13
+2020-04-27,70104,La Guardia,5
+2020-04-27,70105,El Torno,2
+2020-04-27,70201,Warnes,1
+2020-04-27,71001,Montero,5
+2020-04-28,70101,Santa Cruz de la Sierra,24
+2020-04-28,70104,La Guardia,3
+2020-04-28,70502,Pailón,1
+2020-04-28,71001,Montero,9
+2020-04-29,70101,Santa Cruz de la Sierra,8
+2020-04-29,70104,La Guardia,3
+2020-04-29,70201,Warnes,7
+2020-04-29,71001,Montero,7
+2020-04-30,70101,Santa Cruz de la Sierra,33
+2020-04-30,70104,La Guardia,3
+2020-04-30,70201,Warnes,4
+2020-04-30,70502,Pailón,1
+2020-04-30,71001,Montero,2
+2020-05-01,70101,Santa Cruz de la Sierra,26
+2020-05-01,70502,Pailón,3
+2020-05-01,71001,Montero,2
+2020-05-01,71003,Mineros,5
+2020-05-01,71503,El Puente,1
+2020-05-02,70101,Santa Cruz de la Sierra,46
+2020-05-02,70104,La Guardia,3
+2020-05-02,70602,Santa Rosa,1
+2020-05-02,71001,Montero,61
+2020-05-02,71003,Mineros,2
+2020-05-03,70101,Santa Cruz de la Sierra,49
+2020-05-03,70102,Cotoca,1
+2020-05-03,70104,La Guardia,10
+2020-05-03,70105,El Torno,7
+2020-05-03,70201,Warnes,4
+2020-05-03,70601,Portachuelo,2
+2020-05-03,70706,Camiri,2
+2020-05-03,71001,Montero,21
+2020-05-03,71003,Mineros,2
+2020-05-04,70101,Santa Cruz de la Sierra,50
+2020-05-04,70104,La Guardia,4
+2020-05-04,70105,El Torno,2
+2020-05-04,70201,Warnes,2
+2020-05-04,70703,Cabezas,2
+2020-05-04,71001,Montero,12
+2020-05-04,71003,Mineros,2
+2020-05-04,71401,Puerto Suarez,1
+2020-05-05,70101,Santa Cruz de la Sierra,63
+2020-05-05,70104,La Guardia,7
+2020-05-05,70201,Warnes,5
+2020-05-05,70503,Roboré,1
+2020-05-05,70803,Moromoro,1
+2020-05-05,70901,Samaipata,1
+2020-05-05,70903,Mairana,2
+2020-05-05,71001,Montero,22
+2020-05-05,71104,San Antonio de Lomerio,2
+2020-05-06,70101,Santa Cruz de la Sierra,42
+2020-05-06,70104,La Guardia,3
+2020-05-06,70105,El Torno,1
+2020-05-06,70201,Warnes,6
+2020-05-06,71001,Montero,24
+2020-05-06,71106,Cuatro Cañadas,1
+2020-05-07,70101,Santa Cruz de la Sierra,108
+2020-05-07,70104,La Guardia,9
+2020-05-07,70105,El Torno,4
+2020-05-07,70201,Warnes,2
+2020-05-07,70502,Pailón,1
+2020-05-07,70601,Portachuelo,1
+2020-05-07,70903,Mairana,2
+2020-05-07,71001,Montero,17
+2020-05-07,71002,General Saavedra,2
+2020-05-07,71003,Mineros,2
+2020-05-07,71004,Fernández Alonso,1
+2020-05-07,71005,San Pedro,7
+2020-05-07,71106,Cuatro Cañadas,2
+2020-05-08,70101,Santa Cruz de la Sierra,49
+2020-05-08,70103,Porongo,1
+2020-05-08,70104,La Guardia,2
+2020-05-08,70105,El Torno,4
+2020-05-08,70601,Portachuelo,5
+2020-05-08,71001,Montero,4
+2020-05-08,71003,Mineros,4
+2020-05-09,70101,Santa Cruz de la Sierra,78
+2020-05-09,70105,El Torno,5
+2020-05-09,70201,Warnes,3
+2020-05-09,70403,Yapacaní,7
+2020-05-09,70601,Portachuelo,1
+2020-05-09,70603,Colpa Bélgica,1
+2020-05-09,70706,Camiri,1
+2020-05-09,70803,Moromoro,1
+2020-05-09,71001,Montero,48
+2020-05-09,71002,General Saavedra,1
+2020-05-09,71003,Mineros,3
+2020-05-09,71005,San Pedro,1
+2020-05-10,70101,Santa Cruz de la Sierra,45
+2020-05-10,70102,Cotoca,1
+2020-05-10,70104,La Guardia,7
+2020-05-10,70201,Warnes,14
+2020-05-10,70601,Portachuelo,5
+2020-05-10,70801,Vallegrande,1
+2020-05-10,70903,Mairana,1
+2020-05-10,71001,Montero,20
+2020-05-10,71005,San Pedro,2
+2020-05-11,70101,Santa Cruz de la Sierra,117
+2020-05-11,70102,Cotoca,2
+2020-05-11,70104,La Guardia,5
+2020-05-11,70201,Warnes,9
+2020-05-11,70601,Portachuelo,3
+2020-05-11,70602,Santa Rosa,3
+2020-05-11,70603,Colpa Bélgica,4
+2020-05-11,70706,Camiri,2
+2020-05-11,70903,Mairana,9
+2020-05-11,71001,Montero,20
+2020-05-11,71003,Mineros,1
+2020-05-11,71004,Fernández Alonso,9
+2020-05-11,71005,San Pedro,5
+2020-05-11,71101,Concepción,1
+2020-05-12,70101,Santa Cruz de la Sierra,56
+2020-05-12,70104,La Guardia,2
+2020-05-12,70105,El Torno,5
+2020-05-12,70201,Warnes,11
+2020-05-12,70601,Portachuelo,1
+2020-05-12,70603,Colpa Bélgica,1
+2020-05-12,70703,Cabezas,1
+2020-05-12,71001,Montero,19
+2020-05-12,71002,General Saavedra,3
+2020-05-12,71003,Mineros,2
+2020-05-12,71004,Fernández Alonso,1
+2020-05-13,70101,Santa Cruz de la Sierra,91
+2020-05-13,70103,Porongo,1
+2020-05-13,70104,La Guardia,2
+2020-05-13,70105,El Torno,1
+2020-05-13,70201,Warnes,5
+2020-05-13,70401,Buena Vista,2
+2020-05-13,70601,Portachuelo,6
+2020-05-13,70603,Colpa Bélgica,3
+2020-05-13,71001,Montero,2
+2020-05-13,71004,Fernández Alonso,3
+2020-05-14,70101,Santa Cruz de la Sierra,55
+2020-05-14,70104,La Guardia,4
+2020-05-14,70105,El Torno,2
+2020-05-14,70201,Warnes,2
+2020-05-14,70401,Buena Vista,1
+2020-05-14,70403,Yapacaní,2
+2020-05-14,70601,Portachuelo,1
+2020-05-14,70706,Camiri,1
+2020-05-14,70803,Moromoro,4
+2020-05-14,70901,Samaipata,1
+2020-05-14,71001,Montero,47
+2020-05-14,71005,San Pedro,2
+2020-05-15,70101,Santa Cruz de la Sierra,93
+2020-05-15,70104,La Guardia,2
+2020-05-15,70201,Warnes,3
+2020-05-15,70601,Portachuelo,1
+2020-05-15,70603,Colpa Bélgica,5
+2020-05-15,70803,Moromoro,2
+2020-05-15,71001,Montero,15
+2020-05-15,71002,General Saavedra,4
+2020-05-15,71003,Mineros,1
+2020-05-15,71005,San Pedro,8
+2020-05-16,70101,Santa Cruz de la Sierra,128
+2020-05-16,70104,La Guardia,7
+2020-05-16,70105,El Torno,7
+2020-05-16,70201,Warnes,1
+2020-05-16,70202,Okinawa Uno,1
+2020-05-16,70403,Yapacaní,4
+2020-05-16,70502,Pailón,1
+2020-05-16,70503,Roboré,1
+2020-05-16,70601,Portachuelo,8
+2020-05-16,70706,Camiri,1
+2020-05-16,70902,Pampa Grande,1
+2020-05-16,70903,Mairana,4
+2020-05-16,71001,Montero,38
+2020-05-16,71003,Mineros,3
+2020-05-16,71004,Fernández Alonso,9
+2020-05-16,71005,San Pedro,6
+2020-05-16,71106,Cuatro Cañadas,1
+2020-05-17,70101,Santa Cruz de la Sierra,163
+2020-05-17,70104,La Guardia,11
+2020-05-17,70105,El Torno,16
+2020-05-17,70201,Warnes,5
+2020-05-17,70202,Okinawa Uno,1
+2020-05-17,70401,Buena Vista,1
+2020-05-17,70403,Yapacaní,3
+2020-05-17,70502,Pailón,5
+2020-05-17,70601,Portachuelo,5
+2020-05-17,70603,Colpa Bélgica,5
+2020-05-17,70903,Mairana,1
+2020-05-17,71001,Montero,20
+2020-05-17,71003,Mineros,6
+2020-05-17,71004,Fernández Alonso,3
+2020-05-18,70101,Santa Cruz de la Sierra,62
+2020-05-18,70103,Porongo,2
+2020-05-18,70104,La Guardia,6
+2020-05-18,70601,Portachuelo,18
+2020-05-18,71001,Montero,40
+2020-05-18,71003,Mineros,1
+2020-05-18,71004,Fernández Alonso,1
+2020-05-18,71106,Cuatro Cañadas,1
+2020-05-19,70101,Santa Cruz de la Sierra,73
+2020-05-19,70105,El Torno,1
+2020-05-19,70401,Buena Vista,1
+2020-05-19,70502,Pailón,1
+2020-05-19,70601,Portachuelo,1
+2020-05-19,71001,Montero,4
+2020-05-19,71003,Mineros,2
+2020-05-19,71005,San Pedro,5
+2020-05-20,70101,Santa Cruz de la Sierra,148
+2020-05-20,70103,Porongo,2
+2020-05-20,70104,La Guardia,9
+2020-05-20,70105,El Torno,2
+2020-05-20,70201,Warnes,1
+2020-05-20,70202,Okinawa Uno,1
+2020-05-20,70403,Yapacaní,2
+2020-05-20,70404,San Juan,1
+2020-05-20,70501,San José,1
+2020-05-20,70601,Portachuelo,26
+2020-05-20,70701,Lagunillas,4
+2020-05-20,70703,Cabezas,5
+2020-05-20,70803,Moromoro,1
+2020-05-20,70903,Mairana,2
+2020-05-20,71001,Montero,40
+2020-05-20,71002,General Saavedra,1
+2020-05-20,71004,Fernández Alonso,4
+2020-05-20,71005,San Pedro,3
+2020-05-20,71106,Cuatro Cañadas,3
+2020-05-20,71401,Puerto Suarez,1
+2020-05-20,71502,Urubicha,1
+2020-05-20,71503,El Puente,1
+2020-05-21,70101,Santa Cruz de la Sierra,139
+2020-05-21,70103,Porongo,1
+2020-05-21,70104,La Guardia,15
+2020-05-21,70201,Warnes,1
+2020-05-21,70403,Yapacaní,1
+2020-05-21,70502,Pailón,1
+2020-05-21,70903,Mairana,2
+2020-05-21,71001,Montero,5
+2020-05-21,71005,San Pedro,7
+2020-05-21,71104,San Antonio de Lomerio,1
+2020-05-22,70101,Santa Cruz de la Sierra,130
+2020-05-22,70102,Cotoca,10
+2020-05-22,70103,Porongo,1
+2020-05-22,70104,La Guardia,11
+2020-05-22,70105,El Torno,8
+2020-05-22,70201,Warnes,11
+2020-05-22,70401,Buena Vista,5
+2020-05-22,70402,San Carlos,1
+2020-05-22,70403,Yapacaní,3
+2020-05-22,70502,Pailón,2
+2020-05-22,70602,Santa Rosa,1
+2020-05-22,70803,Moromoro,3
+2020-05-22,70902,Pampa Grande,4
+2020-05-22,70903,Mairana,1
+2020-05-22,71001,Montero,43
+2020-05-22,71002,General Saavedra,7
+2020-05-22,71005,San Pedro,8
+2020-05-22,71106,Cuatro Cañadas,1
+2020-05-22,71401,Puerto Suarez,1
+2020-05-23,70101,Santa Cruz de la Sierra,209
+2020-05-23,70102,Cotoca,4
+2020-05-23,70104,La Guardia,7
+2020-05-23,70201,Warnes,1
+2020-05-23,70403,Yapacaní,2
+2020-05-23,70501,San José,1
+2020-05-23,70601,Portachuelo,2
+2020-05-23,70603,Colpa Bélgica,3
+2020-05-23,70902,Pampa Grande,1
+2020-05-23,71001,Montero,5
+2020-05-24,70101,Santa Cruz de la Sierra,189
+2020-05-24,70102,Cotoca,1
+2020-05-24,70104,La Guardia,6
+2020-05-24,70105,El Torno,2
+2020-05-24,70401,Buena Vista,2
+2020-05-24,70402,San Carlos,2
+2020-05-24,70601,Portachuelo,5
+2020-05-24,70602,Santa Rosa,1
+2020-05-24,70603,Colpa Bélgica,1
+2020-05-24,70703,Cabezas,2
+2020-05-24,71001,Montero,76
+2020-05-24,71003,Mineros,5
+2020-05-24,71005,San Pedro,2
+2020-05-24,71106,Cuatro Cañadas,2
+2020-05-24,71501,Ascención de Guarayos,3
+2020-05-25,70101,Santa Cruz de la Sierra,226
+2020-05-25,70102,Cotoca,5
+2020-05-25,70103,Porongo,1
+2020-05-25,70104,La Guardia,16
+2020-05-25,70105,El Torno,4
+2020-05-25,70201,Warnes,5
+2020-05-25,70301,San Ignacio,2
+2020-05-25,70402,San Carlos,2
+2020-05-25,70403,Yapacaní,3
+2020-05-25,70501,San José,1
+2020-05-25,70502,Pailón,6
+2020-05-25,70601,Portachuelo,19
+2020-05-25,70602,Santa Rosa,2
+2020-05-25,70603,Colpa Bélgica,1
+2020-05-25,70706,Camiri,2
+2020-05-25,70903,Mairana,1
+2020-05-25,71001,Montero,23
+2020-05-25,71003,Mineros,2
+2020-05-25,71004,Fernández Alonso,5
+2020-05-25,71005,San Pedro,2
+2020-05-26,70101,Santa Cruz de la Sierra,243
+2020-05-26,70102,Cotoca,5
+2020-05-26,70103,Porongo,6
+2020-05-26,70104,La Guardia,6
+2020-05-26,70105,El Torno,5
+2020-05-26,70201,Warnes,5
+2020-05-26,70402,San Carlos,4
+2020-05-26,70403,Yapacaní,2
+2020-05-26,70501,San José,2
+2020-05-26,70601,Portachuelo,16
+2020-05-26,70603,Colpa Bélgica,1
+2020-05-26,70703,Cabezas,3
+2020-05-26,70706,Camiri,1
+2020-05-26,70803,Moromoro,6
+2020-05-26,71001,Montero,45
+2020-05-26,71002,General Saavedra,2
+2020-05-26,71003,Mineros,1
+2020-05-26,71004,Fernández Alonso,1
+2020-05-26,71005,San Pedro,3
+2020-05-26,71101,Concepción,2
+2020-05-26,71104,San Antonio de Lomerio,1
+2020-05-26,71501,Ascención de Guarayos,1
+2020-05-27,70101,Santa Cruz de la Sierra,319
+2020-05-27,70102,Cotoca,8
+2020-05-27,70103,Porongo,2
+2020-05-27,70104,La Guardia,24
+2020-05-27,70105,El Torno,12
+2020-05-27,70201,Warnes,4
+2020-05-27,70202,Okinawa Uno,2
+2020-05-27,70403,Yapacaní,4
+2020-05-27,70501,San José,1
+2020-05-27,70601,Portachuelo,2
+2020-05-27,70703,Cabezas,1
+2020-05-27,70706,Camiri,3
+2020-05-27,70801,Vallegrande,1
+2020-05-27,70903,Mairana,1
+2020-05-27,71001,Montero,69
+2020-05-27,71002,General Saavedra,1
+2020-05-27,71003,Mineros,17
+2020-05-27,71004,Fernández Alonso,6
+2020-05-27,71401,Puerto Suarez,1
+2020-05-28,70101,Santa Cruz de la Sierra,246
+2020-05-28,70102,Cotoca,1
+2020-05-28,70103,Porongo,5
+2020-05-28,70104,La Guardia,26
+2020-05-28,70105,El Torno,15
+2020-05-28,70201,Warnes,13
+2020-05-28,70202,Okinawa Uno,3
+2020-05-28,70404,San Juan,2
+2020-05-28,70501,San José,9
+2020-05-28,70502,Pailón,10
+2020-05-28,70703,Cabezas,1
+2020-05-28,71001,Montero,36
+2020-05-28,71003,Mineros,1
+2020-05-28,71004,Fernández Alonso,1
+2020-05-28,71005,San Pedro,25
+2020-05-28,71104,San Antonio de Lomerio,6
+2020-05-28,71106,Cuatro Cañadas,4
+2020-05-28,71501,Ascención de Guarayos,4
+2020-05-29,70101,Santa Cruz de la Sierra,131
+2020-05-29,70102,Cotoca,1
+2020-05-29,70403,Yapacaní,3
+2020-05-29,70601,Portachuelo,5
+2020-05-29,70603,Colpa Bélgica,6
+2020-05-29,70706,Camiri,3
+2020-05-29,71001,Montero,21
+2020-05-29,71105,San Ramón,2
+2020-05-30,70101,Santa Cruz de la Sierra,407
+2020-05-30,70102,Cotoca,8
+2020-05-30,70103,Porongo,4
+2020-05-30,70104,La Guardia,25
+2020-05-30,70105,El Torno,12
+2020-05-30,70201,Warnes,13
+2020-05-30,70202,Okinawa Uno,1
+2020-05-30,70403,Yapacaní,5
+2020-05-30,70501,San José,1
+2020-05-30,70602,Santa Rosa,1
+2020-05-30,70603,Colpa Bélgica,6
+2020-05-30,70803,Moromoro,1
+2020-05-30,70901,Samaipata,2
+2020-05-30,71001,Montero,41
+2020-05-30,71002,General Saavedra,8
+2020-05-30,71003,Mineros,7
+2020-05-30,71004,Fernández Alonso,5
+2020-05-30,71005,San Pedro,44
+2020-05-30,71104,San Antonio de Lomerio,1
+2020-05-30,71106,Cuatro Cañadas,1
+2020-05-30,71201,San Matías,3
+2020-05-31,70101,Santa Cruz de la Sierra,120
+2020-05-31,70102,Cotoca,1
+2020-05-31,70103,Porongo,1
+2020-05-31,70104,La Guardia,7
+2020-05-31,70105,El Torno,2
+2020-05-31,70201,Warnes,1
+2020-05-31,70401,Buena Vista,1
+2020-05-31,70402,San Carlos,4
+2020-05-31,70403,Yapacaní,1
+2020-05-31,70502,Pailón,1
+2020-05-31,70601,Portachuelo,6
+2020-05-31,70602,Santa Rosa,1
+2020-05-31,70603,Colpa Bélgica,2
+2020-05-31,70902,Pampa Grande,1
+2020-05-31,71001,Montero,11
+2020-05-31,71003,Mineros,3
+2020-05-31,71106,Cuatro Cañadas,3
+2020-05-31,71501,Ascención de Guarayos,3
+2020-06-01,70101,Santa Cruz de la Sierra,219
+2020-06-01,70104,La Guardia,2
+2020-06-01,70105,El Torno,7
+2020-06-01,70201,Warnes,8
+2020-06-01,70301,San Ignacio,3
+2020-06-01,70402,San Carlos,2
+2020-06-01,70403,Yapacaní,11
+2020-06-01,70404,San Juan,9
+2020-06-01,70501,San José,2
+2020-06-01,70502,Pailón,1
+2020-06-01,70703,Cabezas,5
+2020-06-01,70706,Camiri,5
+2020-06-01,70803,Moromoro,2
+2020-06-01,70901,Samaipata,2
+2020-06-01,71001,Montero,16
+2020-06-01,71104,San Antonio de Lomerio,2
+2020-06-01,71105,San Ramón,4
+2020-06-01,71106,Cuatro Cañadas,4
+2020-06-01,71501,Ascención de Guarayos,3
+2020-06-02,70101,Santa Cruz de la Sierra,132
+2020-06-02,70103,Porongo,1
+2020-06-02,70104,La Guardia,9
+2020-06-02,70105,El Torno,3
+2020-06-02,70201,Warnes,3
+2020-06-02,70301,San Ignacio,1
+2020-06-02,70403,Yapacaní,4
+2020-06-02,70404,San Juan,5
+2020-06-02,70501,San José,7
+2020-06-02,70603,Colpa Bélgica,8
+2020-06-02,70706,Camiri,2
+2020-06-02,71001,Montero,34
+2020-06-02,71003,Mineros,3
+2020-06-02,71004,Fernández Alonso,1
+2020-06-02,71101,Concepción,1
+2020-06-02,71104,San Antonio de Lomerio,3
+2020-06-03,70101,Santa Cruz de la Sierra,376
+2020-06-03,70603,Colpa Bélgica,1
+2020-06-03,71001,Montero,4
+2020-06-03,71004,Fernández Alonso,21
+2020-06-04,70101,Santa Cruz de la Sierra,237
+2020-06-04,70103,Porongo,2
+2020-06-04,70104,La Guardia,4
+2020-06-04,70105,El Torno,3
+2020-06-04,70201,Warnes,5
+2020-06-04,70403,Yapacaní,9
+2020-06-04,70501,San José,13
+2020-06-04,70502,Pailón,4
+2020-06-04,70601,Portachuelo,6
+2020-06-04,70603,Colpa Bélgica,1
+2020-06-04,70706,Camiri,1
+2020-06-04,70901,Samaipata,2
+2020-06-04,71001,Montero,19
+2020-06-04,71004,Fernández Alonso,2
+2020-06-04,71005,San Pedro,1
+2020-06-04,71106,Cuatro Cañadas,3
+2020-06-04,71401,Puerto Suarez,2
+2020-06-04,71402,Puerto Quijarro,1
+2020-06-05,70101,Santa Cruz de la Sierra,132
+2020-06-05,70102,Cotoca,1
+2020-06-05,70103,Porongo,6
+2020-06-05,70104,La Guardia,1
+2020-06-05,70105,El Torno,4
+2020-06-05,70201,Warnes,2
+2020-06-05,70502,Pailón,9
+2020-06-05,70603,Colpa Bélgica,1
+2020-06-05,70801,Vallegrande,2
+2020-06-05,71001,Montero,28
+2020-06-05,71005,San Pedro,6
+2020-06-06,70101,Santa Cruz de la Sierra,361
+2020-06-06,70102,Cotoca,6
+2020-06-06,70103,Porongo,1
+2020-06-06,70104,La Guardia,3
+2020-06-06,70105,El Torno,2
+2020-06-06,70201,Warnes,5
+2020-06-06,70402,San Carlos,5
+2020-06-06,70403,Yapacaní,8
+2020-06-06,70502,Pailón,1
+2020-06-06,70602,Santa Rosa,1
+2020-06-06,70706,Camiri,3
+2020-06-06,71001,Montero,11
+2020-06-06,71005,San Pedro,5
+2020-06-07,70101,Santa Cruz de la Sierra,116
+2020-06-07,71001,Montero,4
+2020-06-08,70101,Santa Cruz de la Sierra,99
+2020-06-08,70105,El Torno,5
+2020-06-08,70403,Yapacaní,1
+2020-06-08,70502,Pailón,10
+2020-06-08,70702,Charagua,1
+2020-06-08,71001,Montero,18
+2020-06-08,71104,San Antonio de Lomerio,1
+2020-06-09,70101,Santa Cruz de la Sierra,311
+2020-06-09,70102,Cotoca,2
+2020-06-09,70104,La Guardia,3
+2020-06-09,70201,Warnes,3
+2020-06-09,70202,Okinawa Uno,1
+2020-06-09,70301,San Ignacio,3
+2020-06-09,70403,Yapacaní,15
+2020-06-09,70502,Pailón,10
+2020-06-09,70801,Vallegrande,1
+2020-06-09,71001,Montero,53
+2020-06-09,71003,Mineros,9
+2020-06-09,71102,San Javier,1
+2020-06-09,71105,San Ramón,1
+2020-06-10,70101,Santa Cruz de la Sierra,313
+2020-06-10,70102,Cotoca,3
+2020-06-10,70103,Porongo,1
+2020-06-10,70104,La Guardia,3
+2020-06-10,70105,El Torno,3
+2020-06-10,70301,San Ignacio,1
+2020-06-10,70403,Yapacaní,2
+2020-06-10,70502,Pailón,1
+2020-06-10,70602,Santa Rosa,1
+2020-06-10,70603,Colpa Bélgica,1
+2020-06-10,70706,Camiri,4
+2020-06-10,71001,Montero,15
+2020-06-10,71104,San Antonio de Lomerio,2
+2020-06-10,71402,Puerto Quijarro,7
+2020-06-10,71501,Ascención de Guarayos,12
+2020-06-10,71502,Urubicha,1
+2020-06-11,70101,Santa Cruz de la Sierra,448
+2020-06-11,70102,Cotoca,10
+2020-06-11,70104,La Guardia,29
+2020-06-11,70105,El Torno,21
+2020-06-11,70201,Warnes,2
+2020-06-11,70403,Yapacaní,3
+2020-06-11,70501,San José,7
+2020-06-11,70502,Pailón,3
+2020-06-11,70903,Mairana,3
+2020-06-11,71001,Montero,1
+2020-06-11,71004,Fernández Alonso,1
+2020-06-11,71104,San Antonio de Lomerio,1
+2020-06-11,71501,Ascención de Guarayos,2
+2020-06-11,71502,Urubicha,2
+2020-06-12,70101,Santa Cruz de la Sierra,273
+2020-06-12,70102,Cotoca,15
+2020-06-12,70103,Porongo,2
+2020-06-12,70104,La Guardia,6
+2020-06-12,70105,El Torno,1
+2020-06-12,70201,Warnes,7
+2020-06-12,70301,San Ignacio,31
+2020-06-12,70401,Buena Vista,1
+2020-06-12,70403,Yapacaní,1
+2020-06-12,70501,San José,1
+2020-06-12,70503,Roboré,6
+2020-06-12,70802,Trigal,1
+2020-06-12,71001,Montero,33
+2020-06-12,71002,General Saavedra,3
+2020-06-12,71004,Fernández Alonso,1
+2020-06-12,71005,San Pedro,9
+2020-06-12,71104,San Antonio de Lomerio,2
+2020-06-12,71105,San Ramón,16
+2020-06-13,70101,Santa Cruz de la Sierra,498
+2020-06-13,70102,Cotoca,12
+2020-06-13,70103,Porongo,4
+2020-06-13,70104,La Guardia,31
+2020-06-13,70105,El Torno,1
+2020-06-13,70201,Warnes,5
+2020-06-13,70202,Okinawa Uno,1
+2020-06-13,70401,Buena Vista,1
+2020-06-13,70403,Yapacaní,1
+2020-06-13,70501,San José,4
+2020-06-13,70503,Roboré,3
+2020-06-13,70602,Santa Rosa,4
+2020-06-13,70603,Colpa Bélgica,7
+2020-06-13,70902,Pampa Grande,1
+2020-06-13,70903,Mairana,1
+2020-06-13,71001,Montero,16
+2020-06-13,71002,General Saavedra,5
+2020-06-13,71005,San Pedro,1
+2020-06-13,71101,Concepción,1
+2020-06-13,71104,San Antonio de Lomerio,7
+2020-06-13,71106,Cuatro Cañadas,7
+2020-06-13,71401,Puerto Suarez,2
+2020-06-13,71501,Ascención de Guarayos,5
+2020-06-14,70101,Santa Cruz de la Sierra,188
+2020-06-14,70103,Porongo,4
+2020-06-14,70104,La Guardia,2
+2020-06-14,70201,Warnes,5
+2020-06-14,70501,San José,14
+2020-06-14,70603,Colpa Bélgica,1
+2020-06-14,70902,Pampa Grande,3
+2020-06-14,70903,Mairana,4
+2020-06-14,71001,Montero,38
+2020-06-14,71003,Mineros,7
+2020-06-14,71005,San Pedro,3
+2020-06-14,71106,Cuatro Cañadas,1
+2020-06-15,70101,Santa Cruz de la Sierra,298
+2020-06-15,70103,Porongo,4
+2020-06-15,70104,La Guardia,3
+2020-06-15,70201,Warnes,3
+2020-06-15,70803,Moromoro,1
+2020-06-15,71001,Montero,4
+2020-06-15,71003,Mineros,4
+2020-06-16,70101,Santa Cruz de la Sierra,509
+2020-06-16,70102,Cotoca,1
+2020-06-16,70104,La Guardia,13
+2020-06-16,70105,El Torno,1
+2020-06-16,70201,Warnes,1
+2020-06-16,70202,Okinawa Uno,1
+2020-06-16,70401,Buena Vista,6
+2020-06-16,70402,San Carlos,3
+2020-06-16,70403,Yapacaní,28
+2020-06-16,70404,San Juan,2
+2020-06-16,70501,San José,1
+2020-06-16,70502,Pailón,3
+2020-06-16,70602,Santa Rosa,10
+2020-06-16,70801,Vallegrande,3
+2020-06-16,70802,Trigal,1
+2020-06-16,71001,Montero,11
+2020-06-16,71002,General Saavedra,2
+2020-06-16,71005,San Pedro,8
+2020-06-16,71104,San Antonio de Lomerio,8
+2020-06-16,71106,Cuatro Cañadas,1
+2020-06-16,71402,Puerto Quijarro,11
+2020-06-16,71501,Ascención de Guarayos,1
+2020-06-17,70101,Santa Cruz de la Sierra,307
+2020-06-17,70102,Cotoca,2
+2020-06-17,70103,Porongo,1
+2020-06-17,70104,La Guardia,5
+2020-06-17,70201,Warnes,2
+2020-06-17,70301,San Ignacio,1
+2020-06-17,70402,San Carlos,9
+2020-06-17,70403,Yapacaní,2
+2020-06-17,70501,San José,3
+2020-06-17,70502,Pailón,3
+2020-06-17,70602,Santa Rosa,4
+2020-06-17,71001,Montero,11
+2020-06-17,71104,San Antonio de Lomerio,1
+2020-06-17,71301,Comarapa,2
+2020-06-17,71401,Puerto Suarez,1
+2020-06-17,71501,Ascención de Guarayos,4
+2020-06-17,71502,Urubicha,1
+2020-06-18,70101,Santa Cruz de la Sierra,187
+2020-06-18,70104,La Guardia,6
+2020-06-18,70301,San Ignacio,1
+2020-06-18,70402,San Carlos,11
+2020-06-18,70501,San José,1
+2020-06-18,70502,Pailón,12
+2020-06-18,70603,Colpa Bélgica,1
+2020-06-18,70801,Vallegrande,1
+2020-06-18,71001,Montero,41
+2020-06-18,71104,San Antonio de Lomerio,1
+2020-06-18,71301,Comarapa,1
+2020-06-19,70101,Santa Cruz de la Sierra,1219
+2020-06-19,70102,Cotoca,8
+2020-06-19,70103,Porongo,9
+2020-06-19,70104,La Guardia,57
+2020-06-19,70105,El Torno,14
+2020-06-19,70201,Warnes,1
+2020-06-19,70301,San Ignacio,12
+2020-06-19,70303,San Rafael,10
+2020-06-19,70402,San Carlos,12
+2020-06-19,70403,Yapacaní,19
+2020-06-19,70501,San José,9
+2020-06-19,70502,Pailón,1
+2020-06-19,70503,Roboré,2
+2020-06-19,70601,Portachuelo,1
+2020-06-19,70602,Santa Rosa,2
+2020-06-19,70603,Colpa Bélgica,8
+2020-06-19,70801,Vallegrande,4
+2020-06-19,70901,Samaipata,1
+2020-06-19,71001,Montero,19
+2020-06-19,71103,San Julián,3
+2020-06-19,71106,Cuatro Cañadas,9
+2020-06-19,71403,El Carmen Rivero Tórrez,2
+2020-06-20,70101,Santa Cruz de la Sierra,467
+2020-06-20,70102,Cotoca,1
+2020-06-20,70104,La Guardia,6
+2020-06-20,70105,El Torno,20
+2020-06-20,70201,Warnes,6
+2020-06-20,70202,Okinawa Uno,4
+2020-06-20,70301,San Ignacio,21
+2020-06-20,70403,Yapacaní,5
+2020-06-20,70501,San José,2
+2020-06-20,70502,Pailón,3
+2020-06-20,70601,Portachuelo,1
+2020-06-20,70602,Santa Rosa,11
+2020-06-20,70603,Colpa Bélgica,3
+2020-06-20,70706,Camiri,1
+2020-06-20,70801,Vallegrande,1
+2020-06-20,71001,Montero,45
+2020-06-20,71003,Mineros,1
+2020-06-20,71004,Fernández Alonso,1
+2020-06-20,71005,San Pedro,4
+2020-06-20,71101,Concepción,5
+2020-06-20,71102,San Javier,7
+2020-06-20,71104,San Antonio de Lomerio,1
+2020-06-20,71401,Puerto Suarez,3
+2020-06-20,71402,Puerto Quijarro,7
+2020-06-21,70101,Santa Cruz de la Sierra,268
+2020-06-21,70102,Cotoca,1
+2020-06-21,70104,La Guardia,3
+2020-06-21,70105,El Torno,1
+2020-06-21,70201,Warnes,10
+2020-06-21,70301,San Ignacio,1
+2020-06-21,70302,San Miguel,1
+2020-06-21,70502,Pailón,4
+2020-06-21,70602,Santa Rosa,1
+2020-06-21,70801,Vallegrande,2
+2020-06-21,71001,Montero,25
+2020-06-21,71004,Fernández Alonso,7
+2020-06-21,71005,San Pedro,2
+2020-06-21,71101,Concepción,4
+2020-06-21,71301,Comarapa,1
+2020-06-21,71401,Puerto Suarez,1
+2020-06-21,71501,Ascención de Guarayos,1
+2020-06-21,71502,Urubicha,1
+2020-06-22,70101,Santa Cruz de la Sierra,414
+2020-06-22,70102,Cotoca,14
+2020-06-22,70105,El Torno,1
+2020-06-22,70201,Warnes,32
+2020-06-22,70402,San Carlos,1
+2020-06-22,70403,Yapacaní,7
+2020-06-22,70503,Roboré,1
+2020-06-22,70601,Portachuelo,20
+2020-06-22,70706,Camiri,1
+2020-06-22,71001,Montero,39
+2020-06-22,71002,General Saavedra,1
+2020-06-22,71401,Puerto Suarez,2
+2020-06-22,71402,Puerto Quijarro,33
+2020-06-22,71501,Ascención de Guarayos,2
+2020-06-23,70101,Santa Cruz de la Sierra,334
+2020-06-23,70102,Cotoca,9
+2020-06-23,70103,Porongo,3
+2020-06-23,70104,La Guardia,1
+2020-06-23,70201,Warnes,1
+2020-06-23,70601,Portachuelo,1
+2020-06-23,70702,Charagua,1
+2020-06-23,71001,Montero,16
+2020-06-23,71101,Concepción,2
+2020-06-23,71102,San Javier,6
+2020-06-23,71402,Puerto Quijarro,1
+2020-06-24,70101,Santa Cruz de la Sierra,391
+2020-06-24,70102,Cotoca,16
+2020-06-24,70104,La Guardia,13
+2020-06-24,70105,El Torno,1
+2020-06-24,70201,Warnes,18
+2020-06-24,70202,Okinawa Uno,3
+2020-06-24,70402,San Carlos,18
+2020-06-24,70502,Pailón,2
+2020-06-24,70601,Portachuelo,2
+2020-06-24,71001,Montero,35
+2020-06-24,71002,General Saavedra,6
+2020-06-24,71004,Fernández Alonso,3
+2020-06-24,71005,San Pedro,2
+2020-06-24,71101,Concepción,4
+2020-06-24,71104,San Antonio de Lomerio,2
+2020-06-24,71106,Cuatro Cañadas,6
+2020-06-24,71401,Puerto Suarez,1
+2020-06-24,71402,Puerto Quijarro,1
+2020-06-24,71403,El Carmen Rivero Tórrez,2
+2020-06-24,71501,Ascención de Guarayos,15
+2020-06-24,71503,El Puente,1
+2020-06-25,70101,Santa Cruz de la Sierra,392
+2020-06-25,70103,Porongo,3
+2020-06-25,70104,La Guardia,17
+2020-06-25,70105,El Torno,8
+2020-06-25,70201,Warnes,9
+2020-06-25,70402,San Carlos,5
+2020-06-25,70403,Yapacaní,7
+2020-06-25,70404,San Juan,11
+2020-06-25,70501,San José,1
+2020-06-25,70502,Pailón,8
+2020-06-25,70503,Roboré,4
+2020-06-25,70601,Portachuelo,4
+2020-06-25,70801,Vallegrande,1
+2020-06-25,70802,Trigal,1
+2020-06-25,71001,Montero,48
+2020-06-25,71003,Mineros,2
+2020-06-25,71004,Fernández Alonso,1
+2020-06-25,71005,San Pedro,4
+2020-06-25,71103,San Julián,3
+2020-06-25,71104,San Antonio de Lomerio,5
+2020-06-25,71301,Comarapa,7
+2020-06-25,71401,Puerto Suarez,4
+2020-06-25,71402,Puerto Quijarro,26
+2020-06-26,70101,Santa Cruz de la Sierra,163
+2020-06-26,70102,Cotoca,3
+2020-06-26,70103,Porongo,2
+2020-06-26,70104,La Guardia,2
+2020-06-26,70201,Warnes,4
+2020-06-26,70202,Okinawa Uno,12
+2020-06-26,70403,Yapacaní,1
+2020-06-26,70404,San Juan,1
+2020-06-26,70501,San José,3
+2020-06-26,70502,Pailón,3
+2020-06-26,70503,Roboré,2
+2020-06-26,70802,Trigal,4
+2020-06-26,71001,Montero,3
+2020-06-26,71002,General Saavedra,4
+2020-06-26,71003,Mineros,7
+2020-06-26,71102,San Javier,4
+2020-06-26,71104,San Antonio de Lomerio,2
+2020-06-26,71502,Urubicha,2
+2020-06-27,70101,Santa Cruz de la Sierra,508
+2020-06-27,70102,Cotoca,7
+2020-06-27,70103,Porongo,4
+2020-06-27,70104,La Guardia,20
+2020-06-27,70105,El Torno,5
+2020-06-27,70201,Warnes,13
+2020-06-27,70202,Okinawa Uno,1
+2020-06-27,70301,San Ignacio,9
+2020-06-27,70402,San Carlos,17
+2020-06-27,70403,Yapacaní,16
+2020-06-27,70404,San Juan,13
+2020-06-27,70501,San José,2
+2020-06-27,70502,Pailón,1
+2020-06-27,70601,Portachuelo,10
+2020-06-27,70603,Colpa Bélgica,2
+2020-06-27,70703,Cabezas,1
+2020-06-27,70706,Camiri,1
+2020-06-27,70902,Pampa Grande,4
+2020-06-27,70903,Mairana,1
+2020-06-27,71001,Montero,10
+2020-06-27,71002,General Saavedra,1
+2020-06-27,71101,Concepción,7
+2020-06-27,71102,San Javier,9
+2020-06-27,71104,San Antonio de Lomerio,6
+2020-06-27,71105,San Ramón,5
+2020-06-27,71106,Cuatro Cañadas,4
+2020-06-27,71403,El Carmen Rivero Tórrez,1
+2020-06-28,70101,Santa Cruz de la Sierra,353
+2020-06-28,70102,Cotoca,4
+2020-06-28,70103,Porongo,1
+2020-06-28,70104,La Guardia,11
+2020-06-28,70105,El Torno,3
+2020-06-28,70201,Warnes,3
+2020-06-28,70403,Yapacaní,1
+2020-06-28,70501,San José,17
+2020-06-28,70502,Pailón,1
+2020-06-28,70601,Portachuelo,2
+2020-06-28,70706,Camiri,1
+2020-06-28,71001,Montero,12
+2020-06-28,71003,Mineros,5
+2020-06-28,71004,Fernández Alonso,1
+2020-06-28,71005,San Pedro,1
+2020-06-28,71201,San Matías,2
+2020-06-29,70101,Santa Cruz de la Sierra,178
+2020-06-29,70102,Cotoca,3
+2020-06-29,70103,Porongo,5
+2020-06-29,70104,La Guardia,29
+2020-06-29,70105,El Torno,2
+2020-06-29,70201,Warnes,5
+2020-06-29,70202,Okinawa Uno,1
+2020-06-29,70303,San Rafael,4
+2020-06-29,70403,Yapacaní,2
+2020-06-29,70501,San José,11
+2020-06-29,70502,Pailón,4
+2020-06-29,70602,Santa Rosa,12
+2020-06-29,70603,Colpa Bélgica,1
+2020-06-29,70702,Charagua,3
+2020-06-29,70802,Trigal,1
+2020-06-29,70903,Mairana,4
+2020-06-29,71001,Montero,24
+2020-06-29,71004,Fernández Alonso,1
+2020-06-29,71005,San Pedro,18
+2020-06-29,71101,Concepción,1
+2020-06-29,71102,San Javier,7
+2020-06-29,71103,San Julián,4
+2020-06-29,71104,San Antonio de Lomerio,9
+2020-06-29,71301,Comarapa,1
+2020-06-29,71502,Urubicha,8
+2020-06-30,70101,Santa Cruz de la Sierra,473
+2020-06-30,70102,Cotoca,11
+2020-06-30,70103,Porongo,1
+2020-06-30,70104,La Guardia,15
+2020-06-30,70105,El Torno,1
+2020-06-30,70201,Warnes,13
+2020-06-30,70403,Yapacaní,18
+2020-06-30,70404,San Juan,10
+2020-06-30,70501,San José,21
+2020-06-30,70502,Pailón,4
+2020-06-30,70503,Roboré,8
+2020-06-30,70601,Portachuelo,1
+2020-06-30,70602,Santa Rosa,1
+2020-06-30,70703,Cabezas,2
+2020-06-30,71001,Montero,80
+2020-06-30,71002,General Saavedra,3
+2020-06-30,71003,Mineros,1
+2020-06-30,71005,San Pedro,2
+2020-06-30,71102,San Javier,1
+2020-06-30,71104,San Antonio de Lomerio,4
+2020-07-01,70101,Santa Cruz de la Sierra,240
+2020-07-01,70104,La Guardia,4
+2020-07-01,70105,El Torno,1
+2020-07-01,70201,Warnes,4
+2020-07-01,70302,San Miguel,1
+2020-07-01,70404,San Juan,8
+2020-07-01,70502,Pailón,8
+2020-07-01,70601,Portachuelo,9
+2020-07-01,70602,Santa Rosa,3
+2020-07-01,70603,Colpa Bélgica,2
+2020-07-01,70703,Cabezas,1
+2020-07-01,71001,Montero,21
+2020-07-01,71005,San Pedro,1
+2020-07-01,71101,Concepción,20
+2020-07-01,71102,San Javier,12
+2020-07-01,71106,Cuatro Cañadas,7
+2020-07-01,71301,Comarapa,6
+2020-07-01,71402,Puerto Quijarro,27
+2020-07-01,71403,El Carmen Rivero Tórrez,1
+2020-07-02,70101,Santa Cruz de la Sierra,488
+2020-07-02,70102,Cotoca,20
+2020-07-02,70105,El Torno,1
+2020-07-02,70201,Warnes,4
+2020-07-02,70202,Okinawa Uno,7
+2020-07-02,70301,San Ignacio,53
+2020-07-02,70302,San Miguel,8
+2020-07-02,70303,San Rafael,5
+2020-07-02,70402,San Carlos,21
+2020-07-02,70403,Yapacaní,38
+2020-07-02,70404,San Juan,16
+2020-07-02,70503,Roboré,1
+2020-07-02,70602,Santa Rosa,10
+2020-07-02,70801,Vallegrande,7
+2020-07-02,70901,Samaipata,2
+2020-07-02,70903,Mairana,4
+2020-07-02,71001,Montero,44
+2020-07-02,71004,Fernández Alonso,1
+2020-07-02,71103,San Julián,1
+2020-07-02,71503,El Puente,3
+2020-07-03,70101,Santa Cruz de la Sierra,378
+2020-07-03,70103,Porongo,6
+2020-07-03,70104,La Guardia,8
+2020-07-03,70105,El Torno,3
+2020-07-03,70201,Warnes,16
+2020-07-03,70301,San Ignacio,3
+2020-07-03,70401,Buena Vista,2
+2020-07-03,70402,San Carlos,15
+2020-07-03,70403,Yapacaní,31
+2020-07-03,70404,San Juan,5
+2020-07-03,70503,Roboré,5
+2020-07-03,70603,Colpa Bélgica,2
+2020-07-03,70706,Camiri,10
+2020-07-03,70801,Vallegrande,7
+2020-07-03,70901,Samaipata,5
+2020-07-03,70902,Pampa Grande,2
+2020-07-03,71001,Montero,28
+2020-07-03,71004,Fernández Alonso,2
+2020-07-03,71101,Concepción,2
+2020-07-03,71102,San Javier,1
+2020-07-03,71103,San Julián,3
+2020-07-03,71104,San Antonio de Lomerio,1
+2020-07-03,71106,Cuatro Cañadas,18
+2020-07-03,71301,Comarapa,1
+2020-07-03,71401,Puerto Suarez,5
+2020-07-03,71402,Puerto Quijarro,6
+2020-07-03,71403,El Carmen Rivero Tórrez,2
+2020-07-04,70101,Santa Cruz de la Sierra,517
+2020-07-04,70104,La Guardia,1
+2020-07-04,70105,El Torno,12
+2020-07-04,70201,Warnes,10
+2020-07-04,70403,Yapacaní,68
+2020-07-04,70503,Roboré,1
+2020-07-04,70603,Colpa Bélgica,2
+2020-07-04,71001,Montero,16
+2020-07-04,71002,General Saavedra,2
+2020-07-04,71101,Concepción,1
+2020-07-04,71401,Puerto Suarez,2
+2020-07-05,70101,Santa Cruz de la Sierra,329
+2020-07-05,70102,Cotoca,4
+2020-07-05,70103,Porongo,3
+2020-07-05,70104,La Guardia,23
+2020-07-05,70105,El Torno,34
+2020-07-05,70201,Warnes,14
+2020-07-05,70202,Okinawa Uno,3
+2020-07-05,70301,San Ignacio,1
+2020-07-05,70303,San Rafael,1
+2020-07-05,70401,Buena Vista,7
+2020-07-05,70402,San Carlos,5
+2020-07-05,70403,Yapacaní,3
+2020-07-05,70501,San José,13
+2020-07-05,70502,Pailón,4
+2020-07-05,70601,Portachuelo,1
+2020-07-05,70603,Colpa Bélgica,2
+2020-07-05,70703,Cabezas,1
+2020-07-05,70706,Camiri,5
+2020-07-05,70801,Vallegrande,1
+2020-07-05,71001,Montero,75
+2020-07-05,71002,General Saavedra,1
+2020-07-05,71102,San Javier,2
+2020-07-05,71103,San Julián,2
+2020-07-05,71104,San Antonio de Lomerio,2
+2020-07-05,71106,Cuatro Cañadas,8
+2020-07-05,71301,Comarapa,2
+2020-07-05,71401,Puerto Suarez,12
+2020-07-05,71402,Puerto Quijarro,2
+2020-07-05,71501,Ascención de Guarayos,2
+2020-07-06,70101,Santa Cruz de la Sierra,120
+2020-07-06,70102,Cotoca,11
+2020-07-06,70104,La Guardia,24
+2020-07-06,70201,Warnes,3
+2020-07-06,70202,Okinawa Uno,7
+2020-07-06,70402,San Carlos,5
+2020-07-06,70403,Yapacaní,7
+2020-07-06,70502,Pailón,1
+2020-07-06,70601,Portachuelo,5
+2020-07-06,70706,Camiri,1
+2020-07-06,70903,Mairana,2
+2020-07-06,71001,Montero,3
+2020-07-06,71004,Fernández Alonso,6
+2020-07-06,71005,San Pedro,2
+2020-07-06,71104,San Antonio de Lomerio,2
+2020-07-06,71106,Cuatro Cañadas,1
+2020-07-06,71401,Puerto Suarez,1
+2020-07-07,70101,Santa Cruz de la Sierra,244
+2020-07-07,70102,Cotoca,11
+2020-07-07,70104,La Guardia,4
+2020-07-07,70105,El Torno,20
+2020-07-07,70201,Warnes,10
+2020-07-07,70301,San Ignacio,5
+2020-07-07,70401,Buena Vista,4
+2020-07-07,70402,San Carlos,22
+2020-07-07,70403,Yapacaní,42
+2020-07-07,70502,Pailón,26
+2020-07-07,70601,Portachuelo,2
+2020-07-07,70603,Colpa Bélgica,4
+2020-07-07,71001,Montero,6
+2020-07-07,71004,Fernández Alonso,1
+2020-07-07,71005,San Pedro,14
+2020-07-07,71104,San Antonio de Lomerio,4
+2020-07-07,71105,San Ramón,3
+2020-07-07,71106,Cuatro Cañadas,4
+2020-07-07,71401,Puerto Suarez,12
+2020-07-07,71402,Puerto Quijarro,7
+2020-07-08,70102,Cotoca,18
+2020-07-08,70103,Porongo,1
+2020-07-08,70104,La Guardia,6
+2020-07-08,70105,El Torno,21
+2020-07-08,70201,Warnes,9
+2020-07-08,70202,Okinawa Uno,3
+2020-07-08,70301,San Ignacio,2
+2020-07-08,70401,Buena Vista,1
+2020-07-08,70402,San Carlos,312
+2020-07-08,70403,Yapacaní,2
+2020-07-08,70404,San Juan,4
+2020-07-08,70502,Pailón,22
+2020-07-08,70503,Roboré,1
+2020-07-08,70602,Santa Rosa,1
+2020-07-08,70603,Colpa Bélgica,4
+2020-07-08,70703,Cabezas,1
+2020-07-08,70706,Camiri,2
+2020-07-08,70801,Vallegrande,2
+2020-07-08,71001,Montero,69
+2020-07-08,71002,General Saavedra,6
+2020-07-08,71004,Fernández Alonso,14
+2020-07-08,71103,San Julián,1
+2020-07-08,71104,San Antonio de Lomerio,1
+2020-07-08,71105,San Ramón,3
+2020-07-08,71106,Cuatro Cañadas,6
+2020-07-08,71301,Comarapa,2
+2020-07-08,71401,Puerto Suarez,3
+2020-07-08,71402,Puerto Quijarro,6
+2020-07-08,71403,El Carmen Rivero Tórrez,5
+2020-07-09,70101,Santa Cruz de la Sierra,232
+2020-07-09,70102,Cotoca,37
+2020-07-09,70103,Porongo,3
+2020-07-09,70104,La Guardia,15
+2020-07-09,70105,El Torno,26
+2020-07-09,70201,Warnes,26
+2020-07-09,70202,Okinawa Uno,11
+2020-07-09,70301,San Ignacio,9
+2020-07-09,70303,San Rafael,1
+2020-07-09,70403,Yapacaní,24
+2020-07-09,70404,San Juan,6
+2020-07-09,70501,San José,6
+2020-07-09,70502,Pailón,13
+2020-07-09,70706,Camiri,2
+2020-07-09,70801,Vallegrande,1
+2020-07-09,70902,Pampa Grande,2
+2020-07-09,71001,Montero,30
+2020-07-09,71003,Mineros,8
+2020-07-09,71004,Fernández Alonso,1
+2020-07-09,71101,Concepción,10
+2020-07-09,71103,San Julián,1
+2020-07-09,71104,San Antonio de Lomerio,10
+2020-07-09,71106,Cuatro Cañadas,4
+2020-07-09,71401,Puerto Suarez,1
+2020-07-09,71402,Puerto Quijarro,2
+2020-07-09,71403,El Carmen Rivero Tórrez,1
+2020-07-09,71502,Urubicha,1
+2020-07-09,71503,El Puente,2
+2020-07-10,70101,Santa Cruz de la Sierra,357
+2020-07-10,70102,Cotoca,9
+2020-07-10,70103,Porongo,1
+2020-07-10,70104,La Guardia,14
+2020-07-10,70105,El Torno,12
+2020-07-10,70201,Warnes,7
+2020-07-10,70301,San Ignacio,4
+2020-07-10,70302,San Miguel,8
+2020-07-10,70401,Buena Vista,1
+2020-07-10,70402,San Carlos,2
+2020-07-10,70403,Yapacaní,26
+2020-07-10,70501,San José,3
+2020-07-10,70502,Pailón,15
+2020-07-10,70503,Roboré,16
+2020-07-10,70603,Colpa Bélgica,2
+2020-07-10,70703,Cabezas,1
+2020-07-10,70706,Camiri,4
+2020-07-10,70901,Samaipata,1
+2020-07-10,70902,Pampa Grande,1
+2020-07-10,71001,Montero,57
+2020-07-10,71003,Mineros,3
+2020-07-10,71004,Fernández Alonso,3
+2020-07-10,71005,San Pedro,25
+2020-07-10,71102,San Javier,3
+2020-07-10,71103,San Julián,7
+2020-07-10,71104,San Antonio de Lomerio,4
+2020-07-10,71106,Cuatro Cañadas,1
+2020-07-10,71402,Puerto Quijarro,22
+2020-07-10,71501,Ascención de Guarayos,1
+2020-07-10,71503,El Puente,4
+2020-07-11,70101,Santa Cruz de la Sierra,362
+2020-07-11,70103,Porongo,3
+2020-07-11,70104,La Guardia,51
+2020-07-11,70105,El Torno,16
+2020-07-11,70201,Warnes,2
+2020-07-11,70202,Okinawa Uno,6
+2020-07-11,70402,San Carlos,2
+2020-07-11,70403,Yapacaní,16
+2020-07-11,70404,San Juan,5
+2020-07-11,70501,San José,5
+2020-07-11,70502,Pailón,11
+2020-07-11,70503,Roboré,3
+2020-07-11,70603,Colpa Bélgica,6
+2020-07-11,70705,Gutiérrez,2
+2020-07-11,70801,Vallegrande,6
+2020-07-11,70901,Samaipata,1
+2020-07-11,70902,Pampa Grande,1
+2020-07-11,71001,Montero,48
+2020-07-11,71003,Mineros,1
+2020-07-11,71005,San Pedro,22
+2020-07-11,71101,Concepción,6
+2020-07-11,71104,San Antonio de Lomerio,4
+2020-07-11,71106,Cuatro Cañadas,3
+2020-07-11,71201,San Matías,6
+2020-07-11,71401,Puerto Suarez,6
+2020-07-11,71403,El Carmen Rivero Tórrez,6
+2020-07-12,70101,Santa Cruz de la Sierra,124
+2020-07-12,70103,Porongo,4
+2020-07-12,70104,La Guardia,22
+2020-07-12,70105,El Torno,14
+2020-07-12,70201,Warnes,15
+2020-07-12,70301,San Ignacio,9
+2020-07-12,70404,San Juan,1
+2020-07-12,70501,San José,5
+2020-07-12,70502,Pailón,1
+2020-07-12,70601,Portachuelo,2
+2020-07-12,70602,Santa Rosa,12
+2020-07-12,71001,Montero,27
+2020-07-12,71004,Fernández Alonso,6
+2020-07-12,71005,San Pedro,17
+2020-07-12,71101,Concepción,2
+2020-07-12,71103,San Julián,1
+2020-07-12,71104,San Antonio de Lomerio,10
+2020-07-12,71106,Cuatro Cañadas,1
+2020-07-12,71502,Urubicha,2
+2020-07-13,70101,Santa Cruz de la Sierra,221
+2020-07-13,70102,Cotoca,8
+2020-07-13,70104,La Guardia,18
+2020-07-13,70105,El Torno,1
+2020-07-13,70201,Warnes,11
+2020-07-13,70202,Okinawa Uno,3
+2020-07-13,70301,San Ignacio,1
+2020-07-13,70402,San Carlos,3
+2020-07-13,70403,Yapacaní,30
+2020-07-13,70501,San José,3
+2020-07-13,70502,Pailón,10
+2020-07-13,70601,Portachuelo,12
+2020-07-13,70603,Colpa Bélgica,3
+2020-07-13,70703,Cabezas,1
+2020-07-13,70706,Camiri,1
+2020-07-13,70902,Pampa Grande,2
+2020-07-13,71001,Montero,15
+2020-07-13,71003,Mineros,5
+2020-07-13,71005,San Pedro,1
+2020-07-13,71104,San Antonio de Lomerio,5
+2020-07-13,71106,Cuatro Cañadas,5
+2020-07-13,71302,Saipina,1
+2020-07-14,70101,Santa Cruz de la Sierra,618
+2020-07-14,70102,Cotoca,14
+2020-07-14,70104,La Guardia,48
+2020-07-14,70105,El Torno,12
+2020-07-14,70201,Warnes,33
+2020-07-14,70202,Okinawa Uno,2
+2020-07-14,70301,San Ignacio,3
+2020-07-14,70401,Buena Vista,11
+2020-07-14,70404,San Juan,2
+2020-07-14,70502,Pailón,4
+2020-07-14,70503,Roboré,7
+2020-07-14,70603,Colpa Bélgica,3
+2020-07-14,70802,Trigal,1
+2020-07-14,70901,Samaipata,1
+2020-07-14,70903,Mairana,4
+2020-07-14,71001,Montero,59
+2020-07-14,71003,Mineros,1
+2020-07-14,71004,Fernández Alonso,5
+2020-07-14,71005,San Pedro,9
+2020-07-14,71103,San Julián,2
+2020-07-14,71104,San Antonio de Lomerio,17
+2020-07-14,71106,Cuatro Cañadas,3
+2020-07-14,71301,Comarapa,5
+2020-07-15,70101,Santa Cruz de la Sierra,327
+2020-07-15,70102,Cotoca,40
+2020-07-15,70103,Porongo,3
+2020-07-15,70104,La Guardia,40
+2020-07-15,70105,El Torno,45
+2020-07-15,70201,Warnes,18
+2020-07-15,70403,Yapacaní,5
+2020-07-15,70501,San José,3
+2020-07-15,70502,Pailón,8
+2020-07-15,70503,Roboré,18
+2020-07-15,70603,Colpa Bélgica,9
+2020-07-15,70902,Pampa Grande,1
+2020-07-15,70903,Mairana,1
+2020-07-15,71001,Montero,11
+2020-07-15,71003,Mineros,1
+2020-07-15,71004,Fernández Alonso,5
+2020-07-15,71005,San Pedro,1
+2020-07-15,71101,Concepción,1
+2020-07-15,71104,San Antonio de Lomerio,5
+2020-07-15,71401,Puerto Suarez,3
+2020-07-15,71402,Puerto Quijarro,1
+2020-07-15,71403,El Carmen Rivero Tórrez,1
+2020-07-16,70101,Santa Cruz de la Sierra,610
+2020-07-16,70102,Cotoca,8
+2020-07-16,70104,La Guardia,20
+2020-07-16,70105,El Torno,14
+2020-07-16,70201,Warnes,14
+2020-07-16,70301,San Ignacio,16
+2020-07-16,70403,Yapacaní,3
+2020-07-16,70502,Pailón,14
+2020-07-16,70503,Roboré,12
+2020-07-16,70601,Portachuelo,16
+2020-07-16,70602,Santa Rosa,27
+2020-07-16,70603,Colpa Bélgica,7
+2020-07-16,71001,Montero,278
+2020-07-16,71004,Fernández Alonso,19
+2020-07-16,71005,San Pedro,10
+2020-07-16,71104,San Antonio de Lomerio,5
+2020-07-17,70101,Santa Cruz de la Sierra,1118
+2020-07-17,70102,Cotoca,10
+2020-07-17,70103,Porongo,4
+2020-07-17,70104,La Guardia,6
+2020-07-17,70105,El Torno,19
+2020-07-17,70201,Warnes,5
+2020-07-17,70202,Okinawa Uno,7
+2020-07-17,70301,San Ignacio,3
+2020-07-17,70402,San Carlos,1
+2020-07-17,70403,Yapacaní,2
+2020-07-17,70501,San José,3
+2020-07-17,70502,Pailón,7
+2020-07-17,70503,Roboré,12
+2020-07-17,70601,Portachuelo,2
+2020-07-17,70602,Santa Rosa,3
+2020-07-17,70603,Colpa Bélgica,6
+2020-07-17,70706,Camiri,9
+2020-07-17,71001,Montero,6
+2020-07-17,71004,Fernández Alonso,3
+2020-07-17,71005,San Pedro,3
+2020-07-17,71104,San Antonio de Lomerio,11
+2020-07-17,71401,Puerto Suarez,4
+2020-07-17,71403,El Carmen Rivero Tórrez,1
+2020-07-18,70101,Santa Cruz de la Sierra,331
+2020-07-18,70102,Cotoca,17
+2020-07-18,70103,Porongo,1
+2020-07-18,70104,La Guardia,20
+2020-07-18,70105,El Torno,18
+2020-07-18,70201,Warnes,4
+2020-07-18,70301,San Ignacio,17
+2020-07-18,70402,San Carlos,2
+2020-07-18,70502,Pailón,1
+2020-07-18,70503,Roboré,2
+2020-07-18,70703,Cabezas,2
+2020-07-18,70706,Camiri,2
+2020-07-18,70801,Vallegrande,1
+2020-07-18,71001,Montero,54
+2020-07-18,71002,General Saavedra,2
+2020-07-18,71104,San Antonio de Lomerio,4
+2020-07-18,71106,Cuatro Cañadas,4
+2020-07-18,71301,Comarapa,9
+2020-07-18,71302,Saipina,2
+2020-07-18,71503,El Puente,2
+2020-07-19,70101,Santa Cruz de la Sierra,124
+2020-07-19,70102,Cotoca,41
+2020-07-19,70103,Porongo,5
+2020-07-19,70104,La Guardia,22
+2020-07-19,70105,El Torno,9
+2020-07-19,70201,Warnes,29
+2020-07-19,70401,Buena Vista,1
+2020-07-19,70403,Yapacaní,4
+2020-07-19,70502,Pailón,1
+2020-07-19,70603,Colpa Bélgica,4
+2020-07-19,70801,Vallegrande,1
+2020-07-19,70903,Mairana,3
+2020-07-19,71001,Montero,5
+2020-07-19,71101,Concepción,15
+2020-07-19,71104,San Antonio de Lomerio,2
+2020-07-19,71106,Cuatro Cañadas,1
+2020-07-19,71401,Puerto Suarez,2
+2020-07-19,71403,El Carmen Rivero Tórrez,1
+2020-07-20,70101,Santa Cruz de la Sierra,344
+2020-07-20,70102,Cotoca,30
+2020-07-20,70104,La Guardia,4
+2020-07-20,70105,El Torno,5
+2020-07-20,70201,Warnes,12
+2020-07-20,70401,Buena Vista,6
+2020-07-20,70403,Yapacaní,62
+2020-07-20,70501,San José,9
+2020-07-20,70602,Santa Rosa,18
+2020-07-20,71001,Montero,18
+2020-07-20,71004,Fernández Alonso,4
+2020-07-20,71101,Concepción,8
+2020-07-20,71103,San Julián,4
+2020-07-20,71104,San Antonio de Lomerio,4
+2020-07-20,71201,San Matías,27
+2020-07-21,70101,Santa Cruz de la Sierra,289
+2020-07-21,70102,Cotoca,61
+2020-07-21,70103,Porongo,4
+2020-07-21,70104,La Guardia,13
+2020-07-21,70105,El Torno,15
+2020-07-21,70201,Warnes,36
+2020-07-21,70202,Okinawa Uno,4
+2020-07-21,70301,San Ignacio,4
+2020-07-21,70401,Buena Vista,11
+2020-07-21,70402,San Carlos,17
+2020-07-21,70403,Yapacaní,7
+2020-07-21,70404,San Juan,3
+2020-07-21,70501,San José,4
+2020-07-21,70502,Pailón,13
+2020-07-21,70503,Roboré,11
+2020-07-21,70602,Santa Rosa,7
+2020-07-21,70603,Colpa Bélgica,4
+2020-07-21,70706,Camiri,4
+2020-07-21,70801,Vallegrande,2
+2020-07-21,70802,Trigal,1
+2020-07-21,70902,Pampa Grande,2
+2020-07-21,70903,Mairana,3
+2020-07-21,71001,Montero,9
+2020-07-21,71002,General Saavedra,2
+2020-07-21,71003,Mineros,2
+2020-07-21,71004,Fernández Alonso,4
+2020-07-21,71005,San Pedro,13
+2020-07-21,71101,Concepción,4
+2020-07-21,71103,San Julián,3
+2020-07-21,71104,San Antonio de Lomerio,10
+2020-07-21,71106,Cuatro Cañadas,4
+2020-07-21,71301,Comarapa,1
+2020-07-21,71401,Puerto Suarez,4
+2020-07-21,71402,Puerto Quijarro,2
+2020-07-21,71502,Urubicha,1
+2020-07-22,70101,Santa Cruz de la Sierra,312
+2020-07-22,70102,Cotoca,1
+2020-07-22,70103,Porongo,1
+2020-07-22,70104,La Guardia,27
+2020-07-22,70105,El Torno,18
+2020-07-22,70201,Warnes,20
+2020-07-22,70202,Okinawa Uno,4
+2020-07-22,70401,Buena Vista,1
+2020-07-22,70403,Yapacaní,2
+2020-07-22,70501,San José,5
+2020-07-22,70502,Pailón,8
+2020-07-22,70503,Roboré,1
+2020-07-22,70601,Portachuelo,8
+2020-07-22,70603,Colpa Bélgica,1
+2020-07-22,70703,Cabezas,2
+2020-07-22,70706,Camiri,14
+2020-07-22,70901,Samaipata,2
+2020-07-22,70903,Mairana,2
+2020-07-22,71001,Montero,44
+2020-07-22,71005,San Pedro,1
+2020-07-22,71101,Concepción,23
+2020-07-22,71104,San Antonio de Lomerio,5
+2020-07-22,71402,Puerto Quijarro,3
+2020-07-22,71403,El Carmen Rivero Tórrez,1
+2020-07-22,71503,El Puente,5
+2020-07-23,70101,Santa Cruz de la Sierra,172
+2020-07-23,70102,Cotoca,1
+2020-07-23,70103,Porongo,7
+2020-07-23,70104,La Guardia,2
+2020-07-23,70105,El Torno,2
+2020-07-23,70201,Warnes,9
+2020-07-23,70301,San Ignacio,11
+2020-07-23,70402,San Carlos,2
+2020-07-23,70404,San Juan,3
+2020-07-23,70503,Roboré,12
+2020-07-23,70601,Portachuelo,10
+2020-07-23,70603,Colpa Bélgica,2
+2020-07-23,71001,Montero,14
+2020-07-23,71004,Fernández Alonso,3
+2020-07-23,71101,Concepción,1
+2020-07-23,71104,San Antonio de Lomerio,1
+2020-07-23,71106,Cuatro Cañadas,1
+2020-07-23,71501,Ascención de Guarayos,3
+2020-07-24,70101,Santa Cruz de la Sierra,104
+2020-07-24,70102,Cotoca,2
+2020-07-24,70103,Porongo,1
+2020-07-24,70104,La Guardia,6
+2020-07-24,70105,El Torno,2
+2020-07-24,70201,Warnes,9
+2020-07-24,70301,San Ignacio,2
+2020-07-24,70401,Buena Vista,2
+2020-07-24,70502,Pailón,5
+2020-07-24,70503,Roboré,4
+2020-07-24,70601,Portachuelo,1
+2020-07-24,70602,Santa Rosa,11
+2020-07-24,70703,Cabezas,1
+2020-07-24,70706,Camiri,11
+2020-07-24,70801,Vallegrande,1
+2020-07-24,70902,Pampa Grande,2
+2020-07-24,70903,Mairana,3
+2020-07-24,71001,Montero,4
+2020-07-24,71004,Fernández Alonso,1
+2020-07-24,71005,San Pedro,3
+2020-07-24,71101,Concepción,3
+2020-07-24,71103,San Julián,2
+2020-07-24,71301,Comarapa,4
+2020-07-24,71402,Puerto Quijarro,2
+2020-07-24,71502,Urubicha,4
+2020-07-25,70101,Santa Cruz de la Sierra,178
+2020-07-25,70103,Porongo,2
+2020-07-25,70105,El Torno,12
+2020-07-25,70201,Warnes,3
+2020-07-25,70202,Okinawa Uno,2
+2020-07-25,70401,Buena Vista,2
+2020-07-25,70402,San Carlos,5
+2020-07-25,70403,Yapacaní,2
+2020-07-25,70501,San José,21
+2020-07-25,70502,Pailón,2
+2020-07-25,70503,Roboré,7
+2020-07-25,70602,Santa Rosa,5
+2020-07-25,70801,Vallegrande,1
+2020-07-25,70901,Samaipata,4
+2020-07-25,71001,Montero,16
+2020-07-25,71003,Mineros,2
+2020-07-25,71103,San Julián,5
+2020-07-25,71106,Cuatro Cañadas,2
+2020-07-25,71302,Saipina,11
+2020-07-25,71402,Puerto Quijarro,3
+2020-07-25,71503,El Puente,7
+2020-07-26,70101,Santa Cruz de la Sierra,142
+2020-07-26,70102,Cotoca,4
+2020-07-26,70103,Porongo,4
+2020-07-26,70104,La Guardia,5
+2020-07-26,70105,El Torno,8
+2020-07-26,70201,Warnes,5
+2020-07-26,70303,San Rafael,16
+2020-07-26,70404,San Juan,3
+2020-07-26,70501,San José,2
+2020-07-26,70503,Roboré,8
+2020-07-26,70603,Colpa Bélgica,2
+2020-07-26,70706,Camiri,10
+2020-07-26,71001,Montero,8
+2020-07-26,71101,Concepción,12
+2020-07-26,71104,San Antonio de Lomerio,2
+2020-07-26,71401,Puerto Suarez,3
+2020-07-27,70101,Santa Cruz de la Sierra,200
+2020-07-27,70102,Cotoca,13
+2020-07-27,70104,La Guardia,11
+2020-07-27,70105,El Torno,12
+2020-07-27,70301,San Ignacio,5
+2020-07-27,70402,San Carlos,3
+2020-07-27,70403,Yapacaní,1
+2020-07-27,70501,San José,2
+2020-07-27,70503,Roboré,10
+2020-07-27,70601,Portachuelo,1
+2020-07-27,70706,Camiri,1
+2020-07-27,71001,Montero,16
+2020-07-27,71101,Concepción,4
+2020-07-27,71103,San Julián,1
+2020-07-27,71401,Puerto Suarez,1
+2020-07-28,70101,Santa Cruz de la Sierra,243
+2020-07-28,70102,Cotoca,49
+2020-07-28,70103,Porongo,2
+2020-07-28,70104,La Guardia,3
+2020-07-28,70105,El Torno,5
+2020-07-28,70201,Warnes,10
+2020-07-28,70202,Okinawa Uno,6
+2020-07-28,70401,Buena Vista,3
+2020-07-28,70402,San Carlos,1
+2020-07-28,70403,Yapacaní,15
+2020-07-28,70501,San José,6
+2020-07-28,70502,Pailón,2
+2020-07-28,70503,Roboré,7
+2020-07-28,70706,Camiri,6
+2020-07-28,70801,Vallegrande,2
+2020-07-28,70902,Pampa Grande,1
+2020-07-28,70903,Mairana,5
+2020-07-28,71001,Montero,50
+2020-07-28,71005,San Pedro,1
+2020-07-28,71103,San Julián,9
+2020-07-28,71104,San Antonio de Lomerio,2
+2020-07-28,71302,Saipina,1
+2020-07-28,71503,El Puente,2
+2020-07-29,70101,Santa Cruz de la Sierra,251
+2020-07-29,70102,Cotoca,44
+2020-07-29,70103,Porongo,5
+2020-07-29,70104,La Guardia,13
+2020-07-29,70105,El Torno,41
+2020-07-29,70201,Warnes,25
+2020-07-29,70202,Okinawa Uno,3
+2020-07-29,70302,San Miguel,2
+2020-07-29,70401,Buena Vista,5
+2020-07-29,70402,San Carlos,4
+2020-07-29,70502,Pailón,7
+2020-07-29,70603,Colpa Bélgica,2
+2020-07-29,70702,Charagua,1
+2020-07-29,70703,Cabezas,4
+2020-07-29,70706,Camiri,1
+2020-07-29,70903,Mairana,3
+2020-07-29,70904,Quirusillas,1
+2020-07-29,71001,Montero,15
+2020-07-29,71004,Fernández Alonso,2
+2020-07-29,71005,San Pedro,1
+2020-07-29,71101,Concepción,24
+2020-07-29,71102,San Javier,3
+2020-07-29,71103,San Julián,6
+2020-07-29,71302,Saipina,1
+2020-07-29,71503,El Puente,2
+2020-07-30,70101,Santa Cruz de la Sierra,200
+2020-07-30,70102,Cotoca,23
+2020-07-30,70103,Porongo,1
+2020-07-30,70104,La Guardia,32
+2020-07-30,70105,El Torno,32
+2020-07-30,70201,Warnes,29
+2020-07-30,70202,Okinawa Uno,2
+2020-07-30,70301,San Ignacio,28
+2020-07-30,70401,Buena Vista,4
+2020-07-30,70402,San Carlos,11
+2020-07-30,70403,Yapacaní,26
+2020-07-30,70502,Pailón,4
+2020-07-30,70503,Roboré,2
+2020-07-30,70602,Santa Rosa,3
+2020-07-30,70703,Cabezas,1
+2020-07-30,70706,Camiri,4
+2020-07-30,70902,Pampa Grande,2
+2020-07-30,70903,Mairana,2
+2020-07-30,70904,Quirusillas,1
+2020-07-30,71001,Montero,8
+2020-07-30,71101,Concepción,2
+2020-07-30,71102,San Javier,2
+2020-07-30,71103,San Julián,9
+2020-07-30,71104,San Antonio de Lomerio,4
+2020-07-30,71402,Puerto Quijarro,8
+2020-07-31,70101,Santa Cruz de la Sierra,194
+2020-07-31,70102,Cotoca,1
+2020-07-31,70103,Porongo,2
+2020-07-31,70104,La Guardia,31
+2020-07-31,70105,El Torno,55
+2020-07-31,70201,Warnes,21
+2020-07-31,70401,Buena Vista,1
+2020-07-31,70402,San Carlos,14
+2020-07-31,70403,Yapacaní,17
+2020-07-31,70502,Pailón,21
+2020-07-31,70601,Portachuelo,1
+2020-07-31,70703,Cabezas,5
+2020-07-31,70706,Camiri,5
+2020-07-31,70801,Vallegrande,2
+2020-07-31,70803,Moromoro,3
+2020-07-31,70903,Mairana,5
+2020-07-31,70904,Quirusillas,3
+2020-07-31,71001,Montero,3
+2020-07-31,71005,San Pedro,5
+2020-07-31,71103,San Julián,4
+2020-07-31,71104,San Antonio de Lomerio,4
+2020-07-31,71106,Cuatro Cañadas,1
+2020-07-31,71301,Comarapa,8
+2020-07-31,71401,Puerto Suarez,1
+2020-07-31,71402,Puerto Quijarro,6
+2020-07-31,71403,El Carmen Rivero Tórrez,2
+2020-07-31,71501,Ascención de Guarayos,1
+2020-07-31,71502,Urubicha,3
+2020-07-31,71503,El Puente,7
+2020-08-01,70101,Santa Cruz de la Sierra,200
+2020-08-01,70102,Cotoca,1
+2020-08-01,70103,Porongo,1
+2020-08-01,70104,La Guardia,13
+2020-08-01,70105,El Torno,1
+2020-08-01,70201,Warnes,13
+2020-08-01,70301,San Ignacio,5
+2020-08-01,70401,Buena Vista,2
+2020-08-01,70404,San Juan,6
+2020-08-01,70502,Pailón,5
+2020-08-01,70603,Colpa Bélgica,1
+2020-08-01,70703,Cabezas,1
+2020-08-01,70706,Camiri,26
+2020-08-01,70801,Vallegrande,1
+2020-08-01,70901,Samaipata,1
+2020-08-01,70902,Pampa Grande,3
+2020-08-01,71001,Montero,9
+2020-08-01,71005,San Pedro,3
+2020-08-01,71102,San Javier,1
+2020-08-01,71103,San Julián,12
+2020-08-01,71104,San Antonio de Lomerio,1
+2020-08-01,71106,Cuatro Cañadas,1
+2020-08-01,71301,Comarapa,6
+2020-08-01,71302,Saipina,3
+2020-08-01,71402,Puerto Quijarro,6
+2020-08-02,70101,Santa Cruz de la Sierra,65
+2020-08-02,70102,Cotoca,37
+2020-08-02,70104,La Guardia,9
+2020-08-02,70105,El Torno,4
+2020-08-02,70201,Warnes,3
+2020-08-02,70202,Okinawa Uno,5
+2020-08-02,70303,San Rafael,3
+2020-08-02,70501,San José,5
+2020-08-02,70502,Pailón,6
+2020-08-02,70503,Roboré,27
+2020-08-02,70706,Camiri,14
+2020-08-02,70903,Mairana,1
+2020-08-02,71001,Montero,32
+2020-08-02,71004,Fernández Alonso,5
+2020-08-02,71101,Concepción,9
+2020-08-02,71401,Puerto Suarez,1
+2020-08-02,71402,Puerto Quijarro,8
+2020-08-03,70101,Santa Cruz de la Sierra,109
+2020-08-03,70102,Cotoca,89
+2020-08-03,70104,La Guardia,34
+2020-08-03,70105,El Torno,11
+2020-08-03,70201,Warnes,15
+2020-08-03,70401,Buena Vista,7
+2020-08-03,70402,San Carlos,10
+2020-08-03,70403,Yapacaní,6
+2020-08-03,70503,Roboré,1
+2020-08-03,70703,Cabezas,1
+2020-08-03,70706,Camiri,5
+2020-08-03,70901,Samaipata,1
+2020-08-03,70903,Mairana,1
+2020-08-03,70904,Quirusillas,4
+2020-08-03,71001,Montero,1
+2020-08-03,71005,San Pedro,2
+2020-08-03,71101,Concepción,3
+2020-08-03,71102,San Javier,4
+2020-08-03,71106,Cuatro Cañadas,2
+2020-08-03,71402,Puerto Quijarro,8
+2020-08-03,71501,Ascención de Guarayos,10
+2020-08-04,70101,Santa Cruz de la Sierra,226
+2020-08-04,70102,Cotoca,2
+2020-08-04,70103,Porongo,5
+2020-08-04,70104,La Guardia,25
+2020-08-04,70105,El Torno,44
+2020-08-04,70201,Warnes,18
+2020-08-04,70202,Okinawa Uno,2
+2020-08-04,70402,San Carlos,10
+2020-08-04,70403,Yapacaní,54
+2020-08-04,70501,San José,2
+2020-08-04,70502,Pailón,6
+2020-08-04,70503,Roboré,21
+2020-08-04,70706,Camiri,3
+2020-08-04,70801,Vallegrande,2
+2020-08-04,70902,Pampa Grande,2
+2020-08-04,71001,Montero,2
+2020-08-04,71005,San Pedro,1
+2020-08-04,71101,Concepción,14
+2020-08-04,71103,San Julián,9
+2020-08-04,71104,San Antonio de Lomerio,7
+2020-08-04,71106,Cuatro Cañadas,2
+2020-08-04,71402,Puerto Quijarro,3
+2020-08-04,71501,Ascención de Guarayos,1
+2020-08-04,71503,El Puente,2
+2020-08-05,70101,Santa Cruz de la Sierra,166
+2020-08-05,70102,Cotoca,9
+2020-08-05,70103,Porongo,3
+2020-08-05,70104,La Guardia,8
+2020-08-05,70105,El Torno,23
+2020-08-05,70201,Warnes,7
+2020-08-05,70202,Okinawa Uno,1
+2020-08-05,70301,San Ignacio,15
+2020-08-05,70401,Buena Vista,4
+2020-08-05,70402,San Carlos,9
+2020-08-05,70403,Yapacaní,6
+2020-08-05,70501,San José,1
+2020-08-05,70502,Pailón,2
+2020-08-05,70503,Roboré,5
+2020-08-05,70603,Colpa Bélgica,1
+2020-08-05,70703,Cabezas,2
+2020-08-05,70706,Camiri,20
+2020-08-05,70707,Boyuibe,6
+2020-08-05,70902,Pampa Grande,1
+2020-08-05,70903,Mairana,1
+2020-08-05,70904,Quirusillas,1
+2020-08-05,71001,Montero,2
+2020-08-05,71005,San Pedro,11
+2020-08-05,71103,San Julián,12
+2020-08-05,71402,Puerto Quijarro,6
+2020-08-06,70101,Santa Cruz de la Sierra,86
+2020-08-06,70102,Cotoca,47
+2020-08-06,70103,Porongo,17
+2020-08-06,70104,La Guardia,43
+2020-08-06,70105,El Torno,45
+2020-08-06,70201,Warnes,13
+2020-08-06,70202,Okinawa Uno,2
+2020-08-06,70301,San Ignacio,10
+2020-08-06,70401,Buena Vista,1
+2020-08-06,70402,San Carlos,2
+2020-08-06,70403,Yapacaní,2
+2020-08-06,70501,San José,1
+2020-08-06,70502,Pailón,6
+2020-08-06,70503,Roboré,11
+2020-08-06,70603,Colpa Bélgica,1
+2020-08-06,70703,Cabezas,1
+2020-08-06,70706,Camiri,8
+2020-08-06,70901,Samaipata,3
+2020-08-06,70902,Pampa Grande,4
+2020-08-06,70903,Mairana,5
+2020-08-06,71001,Montero,7
+2020-08-06,71004,Fernández Alonso,6
+2020-08-06,71005,San Pedro,4
+2020-08-06,71101,Concepción,18
+2020-08-06,71102,San Javier,7
+2020-08-06,71103,San Julián,13
+2020-08-06,71104,San Antonio de Lomerio,12
+2020-08-06,71402,Puerto Quijarro,3
+2020-08-07,70101,Santa Cruz de la Sierra,114
+2020-08-07,70102,Cotoca,48
+2020-08-07,70103,Porongo,2
+2020-08-07,70104,La Guardia,2
+2020-08-07,70105,El Torno,8
+2020-08-07,70201,Warnes,1
+2020-08-07,70202,Okinawa Uno,1
+2020-08-07,70402,San Carlos,3
+2020-08-07,70403,Yapacaní,4
+2020-08-07,70404,San Juan,1
+2020-08-07,70502,Pailón,8
+2020-08-07,70503,Roboré,3
+2020-08-07,70705,Gutiérrez,3
+2020-08-07,70706,Camiri,5
+2020-08-07,70803,Moromoro,2
+2020-08-07,71001,Montero,4
+2020-08-07,71004,Fernández Alonso,3
+2020-08-07,71005,San Pedro,4
+2020-08-07,71104,San Antonio de Lomerio,2
+2020-08-07,71105,San Ramón,2
+2020-08-07,71402,Puerto Quijarro,9
+2020-08-08,70101,Santa Cruz de la Sierra,120
+2020-08-08,70102,Cotoca,6
+2020-08-08,70103,Porongo,4
+2020-08-08,70104,La Guardia,10
+2020-08-08,70105,El Torno,14
+2020-08-08,70201,Warnes,2
+2020-08-08,70202,Okinawa Uno,3
+2020-08-08,70301,San Ignacio,4
+2020-08-08,70401,Buena Vista,4
+2020-08-08,70402,San Carlos,9
+2020-08-08,70403,Yapacaní,28
+2020-08-08,70502,Pailón,5
+2020-08-08,70601,Portachuelo,2
+2020-08-08,70801,Vallegrande,1
+2020-08-08,70902,Pampa Grande,3
+2020-08-08,70903,Mairana,2
+2020-08-08,71001,Montero,10
+2020-08-08,71004,Fernández Alonso,4
+2020-08-08,71005,San Pedro,2
+2020-08-08,71103,San Julián,2
+2020-08-08,71104,San Antonio de Lomerio,1
+2020-08-09,70101,Santa Cruz de la Sierra,87
+2020-08-09,70104,La Guardia,12
+2020-08-09,70201,Warnes,4
+2020-08-09,70301,San Ignacio,3
+2020-08-09,70501,San José,1
+2020-08-09,70705,Gutiérrez,2
+2020-08-09,70901,Samaipata,3
+2020-08-09,70902,Pampa Grande,1
+2020-08-09,71001,Montero,6
+2020-08-09,71101,Concepción,3
+2020-08-09,71104,San Antonio de Lomerio,2
+2020-08-09,71402,Puerto Quijarro,2
+2020-08-09,71403,El Carmen Rivero Tórrez,3
+2020-08-09,71503,El Puente,4
+2020-08-10,70101,Santa Cruz de la Sierra,180
+2020-08-10,70102,Cotoca,22
+2020-08-10,70104,La Guardia,16
+2020-08-10,70105,El Torno,26
+2020-08-10,70202,Okinawa Uno,2
+2020-08-10,70401,Buena Vista,1
+2020-08-10,70502,Pailón,5
+2020-08-10,70705,Gutiérrez,1
+2020-08-10,70706,Camiri,24
+2020-08-10,70707,Boyuibe,9
+2020-08-10,70903,Mairana,5
+2020-08-10,71001,Montero,7
+2020-08-10,71005,San Pedro,7
+2020-08-10,71101,Concepción,12
+2020-08-10,71103,San Julián,10
+2020-08-10,71104,San Antonio de Lomerio,1
+2020-08-10,71106,Cuatro Cañadas,1
+2020-08-10,71401,Puerto Suarez,1
+2020-08-10,71502,Urubicha,5
+2020-08-11,70101,Santa Cruz de la Sierra,159
+2020-08-11,70103,Porongo,3
+2020-08-11,70104,La Guardia,13
+2020-08-11,70105,El Torno,7
+2020-08-11,70501,San José,5
+2020-08-11,70502,Pailón,1
+2020-08-11,70503,Roboré,4
+2020-08-11,70703,Cabezas,2
+2020-08-11,70903,Mairana,1
+2020-08-11,71001,Montero,2
+2020-08-11,71004,Fernández Alonso,2
+2020-08-11,71005,San Pedro,1
+2020-08-11,71101,Concepción,2
+2020-08-11,71103,San Julián,2
+2020-08-11,71104,San Antonio de Lomerio,3
+2020-08-12,70101,Santa Cruz de la Sierra,162
+2020-08-12,70102,Cotoca,18
+2020-08-12,70103,Porongo,1
+2020-08-12,70104,La Guardia,9
+2020-08-12,70105,El Torno,7
+2020-08-12,70201,Warnes,1
+2020-08-12,70501,San José,1
+2020-08-12,70502,Pailón,1
+2020-08-12,70706,Camiri,18
+2020-08-12,70902,Pampa Grande,6
+2020-08-12,71001,Montero,6
+2020-08-12,71005,San Pedro,1
+2020-08-12,71104,San Antonio de Lomerio,1
+2020-08-13,70101,Santa Cruz de la Sierra,127
+2020-08-13,70102,Cotoca,24
+2020-08-13,70104,La Guardia,3
+2020-08-13,70105,El Torno,6
+2020-08-13,70201,Warnes,9
+2020-08-13,70301,San Ignacio,1
+2020-08-13,70402,San Carlos,1
+2020-08-13,70403,Yapacaní,2
+2020-08-13,70501,San José,1
+2020-08-13,70706,Camiri,7
+2020-08-13,71001,Montero,4
+2020-08-14,70101,Santa Cruz de la Sierra,104
+2020-08-14,70104,La Guardia,10
+2020-08-14,70105,El Torno,6
+2020-08-14,70201,Warnes,2
+2020-08-14,70401,Buena Vista,1
+2020-08-14,70402,San Carlos,3
+2020-08-14,70403,Yapacaní,3
+2020-08-14,70502,Pailón,5
+2020-08-14,70503,Roboré,1
+2020-08-14,70602,Santa Rosa,1
+2020-08-14,70706,Camiri,20
+2020-08-14,70902,Pampa Grande,2
+2020-08-14,71001,Montero,3
+2020-08-14,71004,Fernández Alonso,3
+2020-08-14,71005,San Pedro,5
+2020-08-14,71104,San Antonio de Lomerio,2
+2020-08-15,70101,Santa Cruz de la Sierra,65
+2020-08-15,70102,Cotoca,2
+2020-08-15,70104,La Guardia,7
+2020-08-15,70105,El Torno,13
+2020-08-15,70201,Warnes,1
+2020-08-15,70401,Buena Vista,1
+2020-08-15,70503,Roboré,4
+2020-08-15,70602,Santa Rosa,2
+2020-08-15,70703,Cabezas,1
+2020-08-15,70803,Moromoro,2
+2020-08-15,70902,Pampa Grande,1
+2020-08-15,71001,Montero,1
+2020-08-15,71004,Fernández Alonso,3
+2020-08-15,71301,Comarapa,8
+2020-08-15,71402,Puerto Quijarro,1
+2020-08-15,71403,El Carmen Rivero Tórrez,1
+2020-08-15,71501,Ascención de Guarayos,1
+2020-08-16,70101,Santa Cruz de la Sierra,57
+2020-08-16,70104,La Guardia,9
+2020-08-16,70105,El Torno,9
+2020-08-16,70301,San Ignacio,7
+2020-08-16,70501,San José,1
+2020-08-16,70502,Pailón,1
+2020-08-16,70503,Roboré,3
+2020-08-16,70703,Cabezas,1
+2020-08-16,70705,Gutiérrez,2
+2020-08-16,70706,Camiri,13
+2020-08-16,70801,Vallegrande,1
+2020-08-16,71001,Montero,1
+2020-08-16,71105,San Ramón,1
+2020-08-16,71106,Cuatro Cañadas,1
+2020-08-16,71302,Saipina,1
+2020-08-16,71501,Ascención de Guarayos,1
+2020-08-16,71503,El Puente,6
+2020-08-17,70101,Santa Cruz de la Sierra,59
+2020-08-17,70102,Cotoca,10
+2020-08-17,70104,La Guardia,4
+2020-08-17,70502,Pailón,1
+2020-08-17,70602,Santa Rosa,1
+2020-08-17,70705,Gutiérrez,2
+2020-08-17,71101,Concepción,16
+2020-08-17,71104,San Antonio de Lomerio,1
+2020-08-17,71106,Cuatro Cañadas,1
+2020-08-18,70101,Santa Cruz de la Sierra,55
+2020-08-18,70103,Porongo,1
+2020-08-18,70706,Camiri,13
+2020-08-19,70101,Santa Cruz de la Sierra,104
+2020-08-19,70102,Cotoca,164
+2020-08-19,70706,Camiri,8
+2020-08-19,71001,Montero,3
+2020-08-19,71004,Fernández Alonso,1
+2020-08-19,71101,Concepción,2
+2020-08-20,70101,Santa Cruz de la Sierra,91
+2020-08-20,70201,Warnes,4
+2020-08-20,70706,Camiri,6
+2020-08-20,71001,Montero,6
+2020-08-21,70101,Santa Cruz de la Sierra,104
+2020-08-21,70104,La Guardia,3
+2020-08-21,70105,El Torno,7
+2020-08-21,70301,San Ignacio,2
+2020-08-21,70403,Yapacaní,1
+2020-08-21,70602,Santa Rosa,3
+2020-08-21,70706,Camiri,15
+2020-08-21,70902,Pampa Grande,2
+2020-08-21,70903,Mairana,1
+2020-08-21,71001,Montero,2
+2020-08-21,71004,Fernández Alonso,3
+2020-08-21,71005,San Pedro,1
+2020-08-22,70101,Santa Cruz de la Sierra,116
+2020-08-22,70104,La Guardia,17
+2020-08-22,70105,El Torno,6
+2020-08-22,70202,Okinawa Uno,1
+2020-08-22,70301,San Ignacio,3
+2020-08-22,70703,Cabezas,1
+2020-08-22,70705,Gutiérrez,1
+2020-08-22,70706,Camiri,11
+2020-08-22,70707,Boyuibe,1
+2020-08-22,70903,Mairana,3
+2020-08-22,71001,Montero,3
+2020-08-22,71101,Concepción,6
+2020-08-22,71103,San Julián,1
+2020-08-22,71105,San Ramón,1
+2020-08-22,71106,Cuatro Cañadas,1
+2020-08-22,71301,Comarapa,1
+2020-08-23,70101,Santa Cruz de la Sierra,35
+2020-08-23,70104,La Guardia,3
+2020-08-23,70301,San Ignacio,2
+2020-08-23,70501,San José,1
+2020-08-23,70502,Pailón,3
+2020-08-23,70702,Charagua,4
+2020-08-23,70705,Gutiérrez,1
+2020-08-23,70706,Camiri,18
+2020-08-23,70801,Vallegrande,2
+2020-08-23,70903,Mairana,1
+2020-08-23,70904,Quirusillas,2
+2020-08-23,71101,Concepción,1
+2020-08-23,71102,San Javier,1
+2020-08-23,71301,Comarapa,2
+2020-08-23,71302,Saipina,2
+2020-08-23,71403,El Carmen Rivero Tórrez,3
+2020-08-23,71502,Urubicha,3
+2020-08-23,71503,El Puente,3
+2020-08-24,70101,Santa Cruz de la Sierra,59
+2020-08-24,70104,La Guardia,1
+2020-08-24,70401,Buena Vista,1
+2020-08-24,70706,Camiri,1
+2020-08-24,71001,Montero,2
+2020-08-25,70101,Santa Cruz de la Sierra,113
+2020-08-25,70103,Porongo,2
+2020-08-25,70104,La Guardia,6
+2020-08-25,70105,El Torno,17
+2020-08-25,70201,Warnes,2
+2020-08-25,70502,Pailón,1
+2020-08-25,70706,Camiri,23
+2020-08-25,70902,Pampa Grande,5
+2020-08-25,71001,Montero,3
+2020-08-25,71004,Fernández Alonso,1
+2020-08-25,71005,San Pedro,5
+2020-08-25,71104,San Antonio de Lomerio,1
+2020-08-26,70101,Santa Cruz de la Sierra,161
+2020-08-26,70102,Cotoca,25
+2020-08-26,70103,Porongo,1
+2020-08-26,70104,La Guardia,12
+2020-08-26,70105,El Torno,21
+2020-08-26,70201,Warnes,2
+2020-08-26,70301,San Ignacio,1
+2020-08-26,70401,Buena Vista,1
+2020-08-26,70501,San José,1
+2020-08-26,70503,Roboré,9
+2020-08-26,70706,Camiri,5
+2020-08-26,70801,Vallegrande,4
+2020-08-26,70802,Trigal,1
+2020-08-26,71001,Montero,3
+2020-08-26,71101,Concepción,7
+2020-08-26,71102,San Javier,3
+2020-08-26,71401,Puerto Suarez,2
+2020-08-26,71402,Puerto Quijarro,1
+2020-08-26,71403,El Carmen Rivero Tórrez,2
+2020-08-27,70101,Santa Cruz de la Sierra,97
+2020-08-27,70102,Cotoca,2
+2020-08-27,70104,La Guardia,1
+2020-08-27,70105,El Torno,2
+2020-08-27,70201,Warnes,1
+2020-08-27,70301,San Ignacio,1
+2020-08-27,70501,San José,2
+2020-08-27,70703,Cabezas,1
+2020-08-27,70706,Camiri,14
+2020-08-27,70801,Vallegrande,3
+2020-08-27,70903,Mairana,2
+2020-08-27,71101,Concepción,4
+2020-08-27,71103,San Julián,3
+2020-08-27,71106,Cuatro Cañadas,3
+2020-08-28,70101,Santa Cruz de la Sierra,66
+2020-08-28,70104,La Guardia,8
+2020-08-28,70105,El Torno,12
+2020-08-28,70201,Warnes,6
+2020-08-28,70301,San Ignacio,10
+2020-08-28,70402,San Carlos,1
+2020-08-28,70403,Yapacaní,10
+2020-08-28,70501,San José,1
+2020-08-28,70503,Roboré,2
+2020-08-28,70602,Santa Rosa,2
+2020-08-28,70706,Camiri,19
+2020-08-28,70801,Vallegrande,2
+2020-08-28,70902,Pampa Grande,2
+2020-08-28,70903,Mairana,2
+2020-08-28,71001,Montero,5
+2020-08-28,71004,Fernández Alonso,8
+2020-08-28,71101,Concepción,6
+2020-08-29,70101,Santa Cruz de la Sierra,45
+2020-08-29,70103,Porongo,1
+2020-08-29,70104,La Guardia,2
+2020-08-29,70105,El Torno,4
+2020-08-29,70301,San Ignacio,2
+2020-08-29,70502,Pailón,1
+2020-08-29,70503,Roboré,1
+2020-08-29,70702,Charagua,1
+2020-08-29,70703,Cabezas,1
+2020-08-29,70705,Gutiérrez,2
+2020-08-29,70706,Camiri,21
+2020-08-29,70707,Boyuibe,2
+2020-08-29,70801,Vallegrande,1
+2020-08-29,70901,Samaipata,1
+2020-08-29,70902,Pampa Grande,1
+2020-08-29,71001,Montero,1
+2020-08-29,71005,San Pedro,1
+2020-08-29,71101,Concepción,1
+2020-08-29,71401,Puerto Suarez,1
+2020-08-29,71503,El Puente,4
+2020-08-30,70101,Santa Cruz de la Sierra,19
+2020-08-30,70403,Yapacaní,2
+2020-08-30,70706,Camiri,1
+2020-08-30,71001,Montero,1
+2020-08-31,70101,Santa Cruz de la Sierra,107
+2020-08-31,70102,Cotoca,2
+2020-08-31,70103,Porongo,3
+2020-08-31,70104,La Guardia,8
+2020-08-31,70105,El Torno,9
+2020-08-31,70201,Warnes,2
+2020-08-31,70401,Buena Vista,1
+2020-08-31,70402,San Carlos,1
+2020-08-31,70403,Yapacaní,1
+2020-08-31,70603,Colpa Bélgica,2
+2020-08-31,70705,Gutiérrez,1
+2020-08-31,70706,Camiri,7
+2020-08-31,70707,Boyuibe,4
+2020-08-31,71301,Comarapa,4
+2020-09-01,70101,Santa Cruz de la Sierra,135
+2020-09-01,70102,Cotoca,1
+2020-09-01,70103,Porongo,1
+2020-09-01,70104,La Guardia,17
+2020-09-01,70105,El Torno,6
+2020-09-01,70201,Warnes,2
+2020-09-01,70301,San Ignacio,2
+2020-09-01,70302,San Miguel,3
+2020-09-01,70502,Pailón,3
+2020-09-01,70702,Charagua,1
+2020-09-01,70706,Camiri,14
+2020-09-01,70902,Pampa Grande,2
+2020-09-01,71001,Montero,5
+2020-09-01,71101,Concepción,1
+2020-09-02,70101,Santa Cruz de la Sierra,107
+2020-09-02,70103,Porongo,1
+2020-09-02,70104,La Guardia,7
+2020-09-02,70105,El Torno,12
+2020-09-02,70201,Warnes,3
+2020-09-02,70202,Okinawa Uno,1
+2020-09-02,70502,Pailón,1
+2020-09-02,70601,Portachuelo,1
+2020-09-02,70702,Charagua,1
+2020-09-02,70705,Gutiérrez,2
+2020-09-02,70706,Camiri,11
+2020-09-02,70801,Vallegrande,1
+2020-09-02,70902,Pampa Grande,1
+2020-09-02,71001,Montero,1
+2020-09-02,71403,El Carmen Rivero Tórrez,4
+2020-09-03,70101,Santa Cruz de la Sierra,61
+2020-09-03,70102,Cotoca,1
+2020-09-03,70104,La Guardia,1
+2020-09-03,70201,Warnes,1
+2020-09-03,70602,Santa Rosa,2
+2020-09-03,70603,Colpa Bélgica,2
+2020-09-03,70706,Camiri,8
+2020-09-03,70801,Vallegrande,3
+2020-09-03,70903,Mairana,1
+2020-09-03,71001,Montero,2
+2020-09-03,71106,Cuatro Cañadas,4
+2020-09-03,71403,El Carmen Rivero Tórrez,1
+2020-09-03,71502,Urubicha,4
+2020-09-03,71503,El Puente,2
+2020-09-04,70101,Santa Cruz de la Sierra,59
+2020-09-04,70102,Cotoca,2
+2020-09-04,70103,Porongo,3
+2020-09-04,70104,La Guardia,2
+2020-09-04,70105,El Torno,7
+2020-09-04,70201,Warnes,4
+2020-09-04,70301,San Ignacio,1
+2020-09-04,70401,Buena Vista,1
+2020-09-04,70502,Pailón,1
+2020-09-04,70503,Roboré,7
+2020-09-04,70701,Lagunillas,1
+2020-09-04,70705,Gutiérrez,2
+2020-09-04,70706,Camiri,16
+2020-09-04,70902,Pampa Grande,5
+2020-09-04,71001,Montero,3
+2020-09-04,71004,Fernández Alonso,3
+2020-09-04,71005,San Pedro,5
+2020-09-05,70101,Santa Cruz de la Sierra,27
+2020-09-05,70102,Cotoca,1
+2020-09-05,70103,Porongo,1
+2020-09-05,70105,El Torno,2
+2020-09-05,70503,Roboré,1
+2020-09-05,70701,Lagunillas,11
+2020-09-05,70702,Charagua,7
+2020-09-05,70705,Gutiérrez,1
+2020-09-05,70706,Camiri,9
+2020-09-05,70801,Vallegrande,4
+2020-09-05,71001,Montero,4
+2020-09-05,71005,San Pedro,7
+2020-09-05,71103,San Julián,2
+2020-09-05,71106,Cuatro Cañadas,1
+2020-09-06,70101,Santa Cruz de la Sierra,15
+2020-09-06,70105,El Torno,1
+2020-09-06,70705,Gutiérrez,3
+2020-09-06,70707,Boyuibe,2
+2020-09-06,70801,Vallegrande,2
+2020-09-06,70903,Mairana,2
+2020-09-06,71301,Comarapa,2
+2020-09-07,70101,Santa Cruz de la Sierra,76
+2020-09-07,70104,La Guardia,3
+2020-09-07,70301,San Ignacio,2
+2020-09-07,70701,Lagunillas,1
+2020-09-07,70903,Mairana,2
+2020-09-07,71001,Montero,1
+2020-09-08,70101,Santa Cruz de la Sierra,83
+2020-09-08,70102,Cotoca,2
+2020-09-08,70706,Camiri,22
+2020-09-08,70801,Vallegrande,4
+2020-09-08,71101,Concepción,2
+2020-09-08,71103,San Julián,3
+2020-09-09,70101,Santa Cruz de la Sierra,73
+2020-09-09,70102,Cotoca,1
+2020-09-09,70103,Porongo,3
+2020-09-09,70105,El Torno,7
+2020-09-09,70201,Warnes,3
+2020-09-09,70202,Okinawa Uno,1
+2020-09-09,70403,Yapacaní,1
+2020-09-09,70703,Cabezas,1
+2020-09-09,70705,Gutiérrez,4
+2020-09-09,70706,Camiri,10
+2020-09-09,70801,Vallegrande,1
+2020-09-09,70902,Pampa Grande,5
+2020-09-09,71001,Montero,4
+2020-09-09,71004,Fernández Alonso,1
+2020-09-09,71101,Concepción,1
+2020-09-10,70101,Santa Cruz de la Sierra,71
+2020-09-10,70104,La Guardia,7
+2020-09-10,70105,El Torno,5
+2020-09-10,70403,Yapacaní,2
+2020-09-10,70503,Roboré,5
+2020-09-10,70702,Charagua,13
+2020-09-10,70706,Camiri,12
+2020-09-10,71001,Montero,1
+2020-09-10,71005,San Pedro,3
+2020-09-10,71101,Concepción,1
+2020-09-10,71102,San Javier,3
+2020-09-10,71103,San Julián,2
+2020-09-11,70101,Santa Cruz de la Sierra,61
+2020-09-11,70102,Cotoca,2
+2020-09-11,70104,La Guardia,1
+2020-09-11,70105,El Torno,2
+2020-09-11,70201,Warnes,3
+2020-09-11,70302,San Miguel,2
+2020-09-11,70401,Buena Vista,1
+2020-09-11,70402,San Carlos,4
+2020-09-11,70403,Yapacaní,1
+2020-09-11,70705,Gutiérrez,1
+2020-09-11,70706,Camiri,8
+2020-09-11,70801,Vallegrande,1
+2020-09-11,71001,Montero,4
+2020-09-11,71005,San Pedro,3
+2020-09-11,71106,Cuatro Cañadas,2
+2020-09-11,71503,El Puente,2
+2020-09-12,70101,Santa Cruz de la Sierra,33
+2020-09-12,70105,El Torno,1
+2020-09-12,70706,Camiri,2
+2020-09-12,71001,Montero,1
+2020-09-12,71302,Saipina,1
+2020-09-13,70101,Santa Cruz de la Sierra,7
+2020-09-13,70105,El Torno,1
+2020-09-13,70301,San Ignacio,1
+2020-09-13,70702,Charagua,11
+2020-09-13,70705,Gutiérrez,2
+2020-09-13,70706,Camiri,19
+2020-09-13,70707,Boyuibe,23
+2020-09-13,71301,Comarapa,3
+2020-09-13,71401,Puerto Suarez,1
+2020-09-14,70101,Santa Cruz de la Sierra,51
+2020-09-14,70104,La Guardia,7
+2020-09-14,70105,El Torno,1
+2020-09-14,70202,Okinawa Uno,1
+2020-09-15,70101,Santa Cruz de la Sierra,82
+2020-09-15,70103,Porongo,1
+2020-09-15,70104,La Guardia,5
+2020-09-15,70301,San Ignacio,1
+2020-09-15,70706,Camiri,9
+2020-09-15,70902,Pampa Grande,4
+2020-09-15,71001,Montero,2
+2020-09-16,70101,Santa Cruz de la Sierra,43
+2020-09-16,70102,Cotoca,1
+2020-09-16,70103,Porongo,2
+2020-09-16,70104,La Guardia,2
+2020-09-16,70105,El Torno,5
+2020-09-16,70201,Warnes,2
+2020-09-16,70403,Yapacaní,1
+2020-09-16,70502,Pailón,1
+2020-09-16,70602,Santa Rosa,1
+2020-09-16,70706,Camiri,7
+2020-09-16,70801,Vallegrande,1
+2020-09-16,71106,Cuatro Cañadas,2
+2020-09-17,70101,Santa Cruz de la Sierra,54
+2020-09-17,70103,Porongo,1
+2020-09-17,70104,La Guardia,2
+2020-09-17,70105,El Torno,1
+2020-09-17,70501,San José,1
+2020-09-17,70502,Pailón,1
+2020-09-17,70503,Roboré,3
+2020-09-17,70706,Camiri,2
+2020-09-17,70902,Pampa Grande,2
+2020-09-17,71001,Montero,6
+2020-09-18,70101,Santa Cruz de la Sierra,28
+2020-09-18,70104,La Guardia,1
+2020-09-18,70403,Yapacaní,1
+2020-09-18,70706,Camiri,5
+2020-09-18,71001,Montero,1
+2020-09-19,70101,Santa Cruz de la Sierra,30
+2020-09-19,70104,La Guardia,2
+2020-09-19,70105,El Torno,2
+2020-09-19,70201,Warnes,1
+2020-09-19,70301,San Ignacio,1
+2020-09-19,70502,Pailón,1
+2020-09-19,70705,Gutiérrez,2
+2020-09-19,70706,Camiri,6
+2020-09-19,70801,Vallegrande,1
+2020-09-19,71001,Montero,4
+2020-09-19,71302,Saipina,3
+2020-09-20,70101,Santa Cruz de la Sierra,6
+2020-09-20,70502,Pailón,2
+2020-09-20,70702,Charagua,13
+2020-09-20,70706,Camiri,3
+2020-09-20,71103,San Julián,1
+2020-09-21,70101,Santa Cruz de la Sierra,28
+2020-09-21,70104,La Guardia,1
+2020-09-21,70105,El Torno,5
+2020-09-21,70502,Pailón,1
+2020-09-21,70705,Gutiérrez,1
+2020-09-21,70706,Camiri,2
+2020-09-21,70707,Boyuibe,5
+2020-09-21,70902,Pampa Grande,1
+2020-09-21,71106,Cuatro Cañadas,1
+2020-09-21,71301,Comarapa,3
+2020-09-22,70101,Santa Cruz de la Sierra,28
+2020-09-22,70103,Porongo,4
+2020-09-22,70104,La Guardia,9
+2020-09-22,70105,El Torno,3
+2020-09-22,70502,Pailón,1
+2020-09-22,70706,Camiri,3
+2020-09-22,71001,Montero,1
+2020-09-22,71005,San Pedro,1
+2020-09-23,70101,Santa Cruz de la Sierra,50
+2020-09-23,70103,Porongo,1
+2020-09-23,70104,La Guardia,3
+2020-09-23,70706,Camiri,4
+2020-09-23,71001,Montero,2
+2020-09-24,70101,Santa Cruz de la Sierra,24
+2020-09-24,70105,El Torno,1
+2020-09-24,70502,Pailón,3
+2020-09-24,70603,Colpa Bélgica,1
+2020-09-24,70706,Camiri,6
+2020-09-24,70902,Pampa Grande,2
+2020-09-24,71402,Puerto Quijarro,1
+2020-09-25,70101,Santa Cruz de la Sierra,41
+2020-09-25,70104,La Guardia,2
+2020-09-25,70105,El Torno,14
+2020-09-25,70202,Okinawa Uno,1
+2020-09-25,70301,San Ignacio,3
+2020-09-25,70603,Colpa Bélgica,2
+2020-09-25,70702,Charagua,36
+2020-09-25,70706,Camiri,25
+2020-09-25,71001,Montero,2
+2020-09-25,71302,Saipina,4
+2020-09-25,71502,Urubicha,4
+2020-09-26,70101,Santa Cruz de la Sierra,18
+2020-09-26,70105,El Torno,1
+2020-09-26,70503,Roboré,9
+2020-09-26,70706,Camiri,4
+2020-09-26,70801,Vallegrande,1
+2020-09-26,71001,Montero,2
+2020-09-26,71102,San Javier,1
+2020-09-27,70101,Santa Cruz de la Sierra,18
+2020-09-27,70302,San Miguel,1
+2020-09-27,70303,San Rafael,2
+2020-09-27,70502,Pailón,2
+2020-09-27,70701,Lagunillas,19
+2020-09-27,70705,Gutiérrez,2
+2020-09-28,70101,Santa Cruz de la Sierra,26
+2020-09-28,70104,La Guardia,2
+2020-09-28,70105,El Torno,1
+2020-09-28,70201,Warnes,1
+2020-09-28,70302,San Miguel,1
+2020-09-28,70303,San Rafael,1
+2020-09-28,70701,Lagunillas,3
+2020-09-28,70705,Gutiérrez,1
+2020-09-28,71102,San Javier,1
+2020-09-29,70101,Santa Cruz de la Sierra,38
+2020-09-29,70102,Cotoca,1
+2020-09-29,70104,La Guardia,2
+2020-09-29,70105,El Torno,6
+2020-09-29,70603,Colpa Bélgica,8
+2020-09-29,70902,Pampa Grande,2
+2020-09-29,71001,Montero,1
+2020-09-29,71101,Concepción,1
+2020-09-30,70101,Santa Cruz de la Sierra,28
+2020-09-30,70103,Porongo,1
+2020-09-30,70104,La Guardia,3
+2020-09-30,70105,El Torno,2
+2020-09-30,70902,Pampa Grande,1
+2020-09-30,71301,Comarapa,2
+2020-10-01,70101,Santa Cruz de la Sierra,16
+2020-10-01,70105,El Torno,1
+2020-10-01,70402,San Carlos,1
+2020-10-01,70706,Camiri,2
+2020-10-01,70801,Vallegrande,2
+2020-10-01,71001,Montero,3
+2020-10-02,70101,Santa Cruz de la Sierra,63
+2020-10-02,70103,Porongo,2
+2020-10-02,70104,La Guardia,2
+2020-10-02,70105,El Torno,3
+2020-10-02,70201,Warnes,1
+2020-10-02,70202,Okinawa Uno,1
+2020-10-02,70301,San Ignacio,4
+2020-10-02,70503,Roboré,3
+2020-10-02,70603,Colpa Bélgica,2
+2020-10-02,70706,Camiri,4
+2020-10-02,70801,Vallegrande,3
+2020-10-02,70901,Samaipata,5
+2020-10-02,70902,Pampa Grande,1
+2020-10-02,71001,Montero,6
+2020-10-02,71101,Concepción,1
+2020-10-03,70101,Santa Cruz de la Sierra,28
+2020-10-03,70103,Porongo,1
+2020-10-03,70104,La Guardia,3
+2020-10-03,70105,El Torno,2
+2020-10-03,70902,Pampa Grande,1
+2020-10-03,71301,Comarapa,2
+2020-10-04,70101,Santa Cruz de la Sierra,35
+2020-10-04,70503,Roboré,1
+2020-10-04,70706,Camiri,4
+2020-10-04,70801,Vallegrande,1
+2020-10-04,71001,Montero,2
+2020-10-05,70101,Santa Cruz de la Sierra,7
+2020-10-05,70103,Porongo,1
+2020-10-05,70104,La Guardia,1
+2020-10-05,70105,El Torno,5
+2020-10-05,70202,Okinawa Uno,1
+2020-10-05,70502,Pailón,1
+2020-10-05,70503,Roboré,1
+2020-10-05,70603,Colpa Bélgica,1
+2020-10-05,70702,Charagua,4
+2020-10-05,70706,Camiri,2
+2020-10-05,71302,Saipina,1
+2020-10-06,70101,Santa Cruz de la Sierra,54
+2020-10-06,70103,Porongo,3
+2020-10-06,70603,Colpa Bélgica,2
+2020-10-06,70702,Charagua,1
+2020-10-06,70705,Gutiérrez,2
+2020-10-06,70706,Camiri,1
+2020-10-06,70802,Trigal,1
+2020-10-06,70902,Pampa Grande,1
+2020-10-06,71001,Montero,3
+2020-10-06,71005,San Pedro,1
+2020-10-07,70101,Santa Cruz de la Sierra,41
+2020-10-07,70104,La Guardia,2
+2020-10-07,70105,El Torno,2
+2020-10-07,70801,Vallegrande,1
+2020-10-07,71001,Montero,5
+2020-10-07,71301,Comarapa,1
+2020-10-07,71302,Saipina,1
+2020-10-08,70101,Santa Cruz de la Sierra,34
+2020-10-08,70102,Cotoca,1
+2020-10-08,70104,La Guardia,2
+2020-10-08,70105,El Torno,1
+2020-10-08,70202,Okinawa Uno,1
+2020-10-08,70706,Camiri,6
+2020-10-08,70902,Pampa Grande,1
+2020-10-08,71001,Montero,1
+2020-10-09,70101,Santa Cruz de la Sierra,58
+2020-10-09,70102,Cotoca,1
+2020-10-09,70104,La Guardia,1
+2020-10-09,70105,El Torno,4
+2020-10-09,70402,San Carlos,1
+2020-10-09,70706,Camiri,1
+2020-10-09,70801,Vallegrande,3
+2020-10-09,71001,Montero,1
+2020-10-10,70101,Santa Cruz de la Sierra,31
+2020-10-10,70402,San Carlos,1
+2020-10-10,70706,Camiri,1
+2020-10-11,70101,Santa Cruz de la Sierra,8
+2020-10-11,70706,Camiri,2
+2020-10-11,70801,Vallegrande,1
+2020-10-12,70101,Santa Cruz de la Sierra,20
+2020-10-12,70105,El Torno,3
+2020-10-12,70702,Charagua,3
+2020-10-12,71001,Montero,1
+2020-10-13,70101,Santa Cruz de la Sierra,33
+2020-10-13,70102,Cotoca,2
+2020-10-13,70104,La Guardia,2
+2020-10-13,70202,Okinawa Uno,2
+2020-10-13,70301,San Ignacio,2
+2020-10-13,70707,Boyuibe,2
+2020-10-14,70101,Santa Cruz de la Sierra,80
+2020-10-14,70104,La Guardia,1
+2020-10-14,70105,El Torno,5
+2020-10-14,70503,Roboré,1
+2020-10-14,70703,Cabezas,2
+2020-10-14,70706,Camiri,1
+2020-10-14,70801,Vallegrande,1
+2020-10-14,71501,Ascención de Guarayos,1
+2020-10-15,70101,Santa Cruz de la Sierra,33
+2020-10-15,70104,La Guardia,1
+2020-10-15,70105,El Torno,2
+2020-10-15,70202,Okinawa Uno,1
+2020-10-15,70702,Charagua,3
+2020-10-15,70706,Camiri,2
+2020-10-15,71001,Montero,1
+2020-10-16,70101,Santa Cruz de la Sierra,33
+2020-10-16,70104,La Guardia,2
+2020-10-16,70503,Roboré,1
+2020-10-16,70706,Camiri,7
+2020-10-16,70902,Pampa Grande,1
+2020-10-16,71401,Puerto Suarez,1
+2020-10-17,70101,Santa Cruz de la Sierra,13
+2020-10-17,70105,El Torno,1
+2020-10-18,70101,Santa Cruz de la Sierra,21
+2020-10-19,70101,Santa Cruz de la Sierra,22
+2020-10-19,70104,La Guardia,2
+2020-10-19,70105,El Torno,9
+2020-10-19,70503,Roboré,2
+2020-10-20,70101,Santa Cruz de la Sierra,23
+2020-10-20,70102,Cotoca,2
+2020-10-20,70104,La Guardia,2
+2020-10-20,70105,El Torno,9
+2020-10-21,70101,Santa Cruz de la Sierra,38
+2020-10-21,70103,Porongo,2
+2020-10-21,70104,La Guardia,3
+2020-10-21,70105,El Torno,6
+2020-10-21,70201,Warnes,1
+2020-10-21,70202,Okinawa Uno,1
+2020-10-21,70402,San Carlos,3
+2020-10-21,70403,Yapacaní,2
+2020-10-21,70503,Roboré,1
+2020-10-21,70706,Camiri,1
+2020-10-21,71001,Montero,3
+2020-10-22,70101,Santa Cruz de la Sierra,43
+2020-10-22,70104,La Guardia,9
+2020-10-22,70105,El Torno,3
+2020-10-22,70402,San Carlos,2
+2020-10-22,70403,Yapacaní,2
+2020-10-22,71005,San Pedro,4
+2020-10-23,70101,Santa Cruz de la Sierra,31
+2020-10-23,70102,Cotoca,1
+2020-10-23,70104,La Guardia,5
+2020-10-23,70105,El Torno,3
+2020-10-23,70502,Pailón,1
+2020-10-23,70503,Roboré,1
+2020-10-23,71001,Montero,2
+2020-10-24,70101,Santa Cruz de la Sierra,20
+2020-10-24,70201,Warnes,2
+2020-10-24,70706,Camiri,2
+2020-10-25,70101,Santa Cruz de la Sierra,3
+2020-10-26,70101,Santa Cruz de la Sierra,27
+2020-10-26,70105,El Torno,1
+2020-10-26,70503,Roboré,2
+2020-10-26,71301,Comarapa,1
+2020-10-27,70101,Santa Cruz de la Sierra,38
+2020-10-27,70105,El Torno,3
+2020-10-27,70603,Colpa Bélgica,1
+2020-10-27,70707,Boyuibe,6
+2020-10-28,70101,Santa Cruz de la Sierra,46
+2020-10-28,70104,La Guardia,2
+2020-10-28,70105,El Torno,2
+2020-10-28,70706,Camiri,1
+2020-10-29,70101,Santa Cruz de la Sierra,36
+2020-10-29,70104,La Guardia,1
+2020-10-29,70105,El Torno,1
+2020-10-30,70101,Santa Cruz de la Sierra,22
+2020-10-31,70101,Santa Cruz de la Sierra,13
+2020-10-31,70706,Camiri,1
+2020-11-01,70101,Santa Cruz de la Sierra,23
+2020-11-01,70706,Camiri,1
+2020-11-02,70101,Santa Cruz de la Sierra,5
+2020-11-02,70104,La Guardia,1
+2020-11-02,70105,El Torno,1
+2020-11-02,70603,Colpa Bélgica,1
+2020-11-03,70101,Santa Cruz de la Sierra,19
+2020-11-03,70105,El Torno,2
+2020-11-03,70201,Warnes,1
+2020-11-03,71101,Concepción,1
+2020-11-04,70101,Santa Cruz de la Sierra,25
+2020-11-04,70105,El Torno,1
+2020-11-04,70503,Roboré,16
+2020-11-04,70706,Camiri,3
+2020-11-04,71401,Puerto Suarez,1
+2020-11-05,70101,Santa Cruz de la Sierra,32
+2020-11-05,70104,La Guardia,1
+2020-11-05,70105,El Torno,1
+2020-11-05,70201,Warnes,1
+2020-11-05,70403,Yapacaní,1
+2020-11-05,70501,San José,1
+2020-11-05,71001,Montero,2
+2020-11-05,71301,Comarapa,1
+2020-11-06,70101,Santa Cruz de la Sierra,43
+2020-11-06,70102,Cotoca,1
+2020-11-06,70104,La Guardia,1
+2020-11-06,70105,El Torno,2
+2020-11-06,70201,Warnes,1
+2020-11-06,71001,Montero,1
+2020-11-06,71101,Concepción,1
+2020-11-07,70101,Santa Cruz de la Sierra,10
+2020-11-07,70706,Camiri,2
+2020-11-08,70101,Santa Cruz de la Sierra,6
+2020-11-09,70101,Santa Cruz de la Sierra,33
+2020-11-09,70104,La Guardia,1
+2020-11-09,70105,El Torno,4
+2020-11-09,70706,Camiri,1
+2020-11-09,71502,Urubicha,1
+2020-11-10,70101,Santa Cruz de la Sierra,20
+2020-11-10,70103,Porongo,1
+2020-11-10,70104,La Guardia,2
+2020-11-10,70105,El Torno,1
+2020-11-10,70202,Okinawa Uno,1
+2020-11-10,71001,Montero,3
+2020-11-10,71101,Concepción,1
+2020-11-10,71301,Comarapa,1
+2020-11-11,70101,Santa Cruz de la Sierra,29
+2020-11-11,70104,La Guardia,3
+2020-11-11,70501,San José,5
+2020-11-12,70101,Santa Cruz de la Sierra,29
+2020-11-12,70104,La Guardia,1
+2020-11-12,70105,El Torno,2
+2020-11-12,70702,Charagua,3
+2020-11-13,70101,Santa Cruz de la Sierra,35
+2020-11-13,70105,El Torno,2
+2020-11-13,70201,Warnes,2
+2020-11-13,70202,Okinawa Uno,4
+2020-11-13,70501,San José,4
+2020-11-13,71001,Montero,3
+2020-11-14,70101,Santa Cruz de la Sierra,9
+2020-11-14,71001,Montero,3
+2020-11-15,70101,Santa Cruz de la Sierra,25
+2020-11-15,70706,Camiri,1
+2020-11-16,70101,Santa Cruz de la Sierra,25
+2020-11-16,70104,La Guardia,3
+2020-11-16,70105,El Torno,2
+2020-11-16,70202,Okinawa Uno,1
+2020-11-16,70501,San José,1
+2020-11-16,70503,Roboré,5
+2020-11-16,71001,Montero,2
+2020-11-16,71005,San Pedro,1
+2020-11-17,70101,Santa Cruz de la Sierra,36
+2020-11-17,70104,La Guardia,4
+2020-11-17,70105,El Torno,1
+2020-11-17,71001,Montero,2
+2020-11-17,71104,San Antonio de Lomerio,2
+2020-11-18,70101,Santa Cruz de la Sierra,20
+2020-11-18,70104,La Guardia,1
+2020-11-18,70105,El Torno,3
+2020-11-18,70706,Camiri,3
+2020-11-18,71001,Montero,1
+2020-11-19,70101,Santa Cruz de la Sierra,31
+2020-11-19,70104,La Guardia,3
+2020-11-19,70202,Okinawa Uno,1
+2020-11-19,71402,Puerto Quijarro,1
+2020-11-20,70101,Santa Cruz de la Sierra,35
+2020-11-20,70104,La Guardia,2
+2020-11-20,70403,Yapacaní,1
+2020-11-20,70703,Cabezas,1
+2020-11-20,71001,Montero,3
+2020-11-21,70101,Santa Cruz de la Sierra,19
+2020-11-21,71001,Montero,1
+2020-11-22,70101,Santa Cruz de la Sierra,4
+2020-11-23,70101,Santa Cruz de la Sierra,18
+2020-11-23,70104,La Guardia,1
+2020-11-23,70105,El Torno,2
+2020-11-23,70202,Okinawa Uno,1
+2020-11-23,70403,Yapacaní,2
+2020-11-23,70503,Roboré,3
+2020-11-23,71005,San Pedro,1
+2020-11-23,71104,San Antonio de Lomerio,1
+2020-11-23,71105,San Ramón,1
+2020-11-24,70101,Santa Cruz de la Sierra,43
+2020-11-24,70103,Porongo,2
+2020-11-24,70104,La Guardia,3
+2020-11-24,70105,El Torno,5
+2020-11-24,71001,Montero,2
+2020-11-25,70101,Santa Cruz de la Sierra,37
+2020-11-25,70102,Cotoca,1
+2020-11-25,70105,El Torno,3
+2020-11-25,70702,Charagua,1
+2020-11-25,70706,Camiri,2
+2020-11-26,70101,Santa Cruz de la Sierra,36
+2020-11-26,70102,Cotoca,1
+2020-11-26,70202,Okinawa Uno,1
+2020-11-26,71001,Montero,1
+2020-11-26,71402,Puerto Quijarro,1
+2020-11-27,70101,Santa Cruz de la Sierra,21
+2020-11-27,70104,La Guardia,2
+2020-11-27,70105,El Torno,4
+2020-11-27,70301,San Ignacio,1
+2020-11-27,70503,Roboré,2
+2020-11-27,71101,Concepción,1
+2020-11-28,70101,Santa Cruz de la Sierra,16
+2020-11-29,70101,Santa Cruz de la Sierra,7
+2020-11-29,70104,La Guardia,1
+2020-11-30,70101,Santa Cruz de la Sierra,35
+2020-11-30,70103,Porongo,2
+2020-11-30,70104,La Guardia,3
+2020-11-30,70105,El Torno,3
+2020-11-30,70202,Okinawa Uno,1
+2020-11-30,71104,San Antonio de Lomerio,1
+2020-12-01,70101,Santa Cruz de la Sierra,55
+2020-12-01,70104,La Guardia,3
+2020-12-01,70105,El Torno,1
+2020-12-01,70603,Colpa Bélgica,1
+2020-12-01,71001,Montero,2
+2020-12-02,70101,Santa Cruz de la Sierra,89
+2020-12-02,70102,Cotoca,2
+2020-12-03,70101,Santa Cruz de la Sierra,75
+2020-12-03,70103,Porongo,1
+2020-12-03,70104,La Guardia,1
+2020-12-03,70105,El Torno,2
+2020-12-03,70201,Warnes,1
+2020-12-03,70502,Pailón,1
+2020-12-03,70904,Quirusillas,4
+2020-12-03,71001,Montero,2
+2020-12-03,71104,San Antonio de Lomerio,1
+2020-12-04,70101,Santa Cruz de la Sierra,35
+2020-12-04,70102,Cotoca,1
+2020-12-04,70103,Porongo,1
+2020-12-04,70104,La Guardia,8
+2020-12-04,70105,El Torno,4
+2020-12-04,70801,Vallegrande,1
+2020-12-04,71003,Mineros,1
+2020-12-05,70101,Santa Cruz de la Sierra,53
+2020-12-05,70104,La Guardia,1
+2020-12-05,70301,San Ignacio,1
+2020-12-05,70402,San Carlos,5
+2020-12-05,71001,Montero,1
+2020-12-05,71105,San Ramón,1
+2020-12-06,70101,Santa Cruz de la Sierra,20
+2020-12-07,70101,Santa Cruz de la Sierra,53
+2020-12-07,70401,Buena Vista,1
+2020-12-07,70801,Vallegrande,1
+2020-12-08,70101,Santa Cruz de la Sierra,85
+2020-12-08,70103,Porongo,2
+2020-12-08,70104,La Guardia,5
+2020-12-08,70105,El Torno,1
+2020-12-08,70904,Quirusillas,3
+2020-12-09,70101,Santa Cruz de la Sierra,127
+2020-12-09,70104,La Guardia,4
+2020-12-09,70105,El Torno,3
+2020-12-09,70403,Yapacaní,1
+2020-12-09,70501,San José,2
+2020-12-09,70706,Camiri,1
+2020-12-09,70904,Quirusillas,2
+2020-12-09,71001,Montero,1
+2020-12-10,70101,Santa Cruz de la Sierra,146
+2020-12-10,70102,Cotoca,3
+2020-12-10,70103,Porongo,2
+2020-12-10,70104,La Guardia,3
+2020-12-10,70202,Okinawa Uno,2
+2020-12-10,71001,Montero,4
+2020-12-10,71402,Puerto Quijarro,1
+2020-12-11,70101,Santa Cruz de la Sierra,176
+2020-12-11,70102,Cotoca,3
+2020-12-11,70103,Porongo,1
+2020-12-11,70104,La Guardia,3
+2020-12-11,70201,Warnes,1
+2020-12-11,71106,Cuatro Cañadas,1
+2020-12-11,71301,Comarapa,1
+2020-12-12,70101,Santa Cruz de la Sierra,193
+2020-12-12,70103,Porongo,2
+2020-12-12,70104,La Guardia,6
+2020-12-12,70105,El Torno,3
+2020-12-12,70202,Okinawa Uno,4
+2020-12-12,71001,Montero,3
+2020-12-12,71005,San Pedro,4
+2020-12-12,71105,San Ramón,1
+2020-12-13,70101,Santa Cruz de la Sierra,45
+2020-12-13,70706,Camiri,1
+2020-12-14,70101,Santa Cruz de la Sierra,141
+2020-12-14,70104,La Guardia,3
+2020-12-14,70105,El Torno,7
+2020-12-14,70201,Warnes,1
+2020-12-14,70202,Okinawa Uno,1
+2020-12-14,70503,Roboré,2
+2020-12-15,70101,Santa Cruz de la Sierra,238
+2020-12-15,70104,La Guardia,7
+2020-12-15,70105,El Torno,2
+2020-12-15,70201,Warnes,1
+2020-12-15,71001,Montero,2
+2020-12-16,70101,Santa Cruz de la Sierra,245
+2020-12-16,70103,Porongo,4
+2020-12-16,70104,La Guardia,11
+2020-12-16,70105,El Torno,1
+2020-12-16,70402,San Carlos,1
+2020-12-16,70502,Pailón,1
+2020-12-16,70601,Portachuelo,1
+2020-12-16,70706,Camiri,2
+2020-12-16,71001,Montero,3
+2020-12-16,71104,San Antonio de Lomerio,1
+2020-12-17,70101,Santa Cruz de la Sierra,216
+2020-12-17,70103,Porongo,7
+2020-12-17,70104,La Guardia,3
+2020-12-17,70105,El Torno,10
+2020-12-17,70502,Pailón,1
+2020-12-17,71001,Montero,2
+2020-12-17,71104,San Antonio de Lomerio,1
+2020-12-18,70101,Santa Cruz de la Sierra,259
+2020-12-18,70102,Cotoca,3
+2020-12-18,70103,Porongo,3
+2020-12-18,70105,El Torno,2
+2020-12-18,71001,Montero,3
+2020-12-18,71106,Cuatro Cañadas,1
+2020-12-18,71402,Puerto Quijarro,2
+2020-12-19,70101,Santa Cruz de la Sierra,346
+2020-12-19,70103,Porongo,2
+2020-12-19,70104,La Guardia,7
+2020-12-19,70105,El Torno,3
+2020-12-19,70201,Warnes,2
+2020-12-19,70202,Okinawa Uno,2
+2020-12-19,70301,San Ignacio,1
+2020-12-19,70706,Camiri,2
+2020-12-19,70903,Mairana,2
+2020-12-19,71001,Montero,3
+2020-12-19,71005,San Pedro,8
+2020-12-20,70101,Santa Cruz de la Sierra,33
+2020-12-21,70101,Santa Cruz de la Sierra,200
+2020-12-21,70102,Cotoca,1
+2020-12-21,70103,Porongo,2
+2020-12-21,70104,La Guardia,15
+2020-12-21,70202,Okinawa Uno,1
+2020-12-21,70503,Roboré,2
+2020-12-21,70706,Camiri,1
+2020-12-21,71005,San Pedro,4
+2020-12-21,71103,San Julián,1
+2020-12-22,70101,Santa Cruz de la Sierra,386
+2020-12-22,70102,Cotoca,4
+2020-12-22,70104,La Guardia,4
+2020-12-22,70105,El Torno,6
+2020-12-22,70503,Roboré,2
+2020-12-22,70602,Santa Rosa,1
+2020-12-22,71001,Montero,4
+2020-12-22,71104,San Antonio de Lomerio,1
+2020-12-23,70101,Santa Cruz de la Sierra,427
+2020-12-23,70102,Cotoca,1
+2020-12-23,70103,Porongo,7
+2020-12-23,70104,La Guardia,18
+2020-12-23,70105,El Torno,6
+2020-12-23,70201,Warnes,1
+2020-12-23,70402,San Carlos,1
+2020-12-23,70603,Colpa Bélgica,4
+2020-12-23,70702,Charagua,2
+2020-12-23,70801,Vallegrande,1
+2020-12-23,71001,Montero,5
+2020-12-23,71003,Mineros,2
+2020-12-23,71005,San Pedro,1
+2020-12-24,70101,Santa Cruz de la Sierra,396
+2020-12-24,70103,Porongo,6
+2020-12-24,70104,La Guardia,28
+2020-12-24,70105,El Torno,15
+2020-12-24,70202,Okinawa Uno,1
+2020-12-24,70601,Portachuelo,1
+2020-12-24,70602,Santa Rosa,1
+2020-12-24,70603,Colpa Bélgica,5
+2020-12-24,71001,Montero,2
+2020-12-24,71101,Concepción,2
+2020-12-24,71102,San Javier,6
+2020-12-24,71104,San Antonio de Lomerio,2
+2020-12-24,71401,Puerto Suarez,1
+2020-12-24,71503,El Puente,1
+2020-12-25,70101,Santa Cruz de la Sierra,127
+2020-12-25,70102,Cotoca,3
+2020-12-25,70105,El Torno,2
+2020-12-25,70602,Santa Rosa,1
+2020-12-25,71001,Montero,3
+2020-12-26,70101,Santa Cruz de la Sierra,366
+2020-12-26,70102,Cotoca,1
+2020-12-26,70103,Porongo,10
+2020-12-26,70104,La Guardia,4
+2020-12-26,70105,El Torno,12
+2020-12-26,70303,San Rafael,1
+2020-12-26,70503,Roboré,2
+2020-12-26,70602,Santa Rosa,1
+2020-12-26,70706,Camiri,1
+2020-12-26,70801,Vallegrande,1
+2020-12-26,71001,Montero,4
+2020-12-27,70101,Santa Cruz de la Sierra,200
+2020-12-27,70102,Cotoca,1
+2020-12-27,70103,Porongo,1
+2020-12-27,70706,Camiri,2
+2020-12-27,71402,Puerto Quijarro,2
+2020-12-28,70101,Santa Cruz de la Sierra,414
+2020-12-28,70102,Cotoca,5
+2020-12-28,70103,Porongo,8
+2020-12-28,70104,La Guardia,26
+2020-12-28,70105,El Torno,1
+2020-12-28,70201,Warnes,1
+2020-12-28,70202,Okinawa Uno,2
+2020-12-28,70301,San Ignacio,2
+2020-12-28,70603,Colpa Bélgica,5
+2020-12-28,71001,Montero,2
+2020-12-28,71005,San Pedro,9
+2020-12-29,70101,Santa Cruz de la Sierra,571
+2020-12-29,70104,La Guardia,29
+2020-12-29,70105,El Torno,8
+2020-12-29,70201,Warnes,1
+2020-12-29,70502,Pailón,1
+2020-12-29,70603,Colpa Bélgica,3
+2020-12-29,70801,Vallegrande,1
+2020-12-29,70903,Mairana,10
+2020-12-29,71001,Montero,20
+2020-12-29,71005,San Pedro,1
+2020-12-30,70101,Santa Cruz de la Sierra,569
+2020-12-30,70102,Cotoca,10
+2020-12-30,70103,Porongo,15
+2020-12-30,70104,La Guardia,33
+2020-12-30,70105,El Torno,23
+2020-12-30,70502,Pailón,3
+2020-12-30,70503,Roboré,2
+2020-12-30,70602,Santa Rosa,2
+2020-12-30,70603,Colpa Bélgica,5
+2020-12-30,71001,Montero,1
+2020-12-30,71104,San Antonio de Lomerio,3
+2020-12-31,70101,Santa Cruz de la Sierra,770
+2020-12-31,70104,La Guardia,59
+2020-12-31,70105,El Torno,27
+2020-12-31,71001,Montero,19
+2021-01-01,70101,Santa Cruz de la Sierra,173
+2021-01-01,70105,El Torno,4
+2021-01-01,70201,Warnes,1
+2021-01-01,71103,San Julián,3
+2021-01-02,70101,Santa Cruz de la Sierra,331
+2021-01-02,70103,Porongo,4
+2021-01-02,70104,La Guardia,9
+2021-01-02,70105,El Torno,14
+2021-01-02,70201,Warnes,12
+2021-01-02,70603,Colpa Bélgica,1
+2021-01-02,70903,Mairana,10
+2021-01-02,71001,Montero,8
+2021-01-03,70101,Santa Cruz de la Sierra,248
+2021-01-03,70103,Porongo,4
+2021-01-03,70104,La Guardia,37
+2021-01-03,71005,San Pedro,7
 2021-01-04,70101,Santa Cruz de la Sierra,433
 2021-01-04,70103,Porongo,2
 2021-01-04,70104,La Guardia,8
