@@ -3,6 +3,7 @@
 import requests
 import pandas as pd
 import datetime as dt
+from unicodedata import normalize
 
 def download():
     url = 'https://siip.produccion.gob.bo/repSIIP2/JsonAjaxCovid.php?flag=contagiados&num_dias=1'
@@ -34,7 +35,7 @@ def save(df):
     column_order = ['fecha', 'cod_ine', 'municipio', 'confirmados']
     
     for departamento in df.departamento.unique():
-        fn = '{}.csv'.format(departamento.lower().replace(' ','_'))
+        fn = normalize(u'NFKD', '{}.csv'.format(departamento.lower().replace(' ','_'))).encode('ascii', 'ignore').decode('utf8')
         pd.concat([pd.read_csv(fn, parse_dates=['fecha']), df[df.departamento == departamento][column_order]], axis=0).drop_duplicates(subset=['cod_ine','fecha']).to_csv(fn, index=False, date_format='%Y-%m-%d')
 
 df = get_data()
