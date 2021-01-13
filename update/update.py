@@ -8,7 +8,7 @@ from unicodedata import normalize
 
 
 URL = 'https://siip.produccion.gob.bo/repSIIP2/JsonAjaxCovid.php?flag=contagiados&num_dias={}'
-DAYS = 4
+DAYS = 9
 SLEEP_T = 10
 
 
@@ -49,7 +49,9 @@ def format(df):
     df = df[~df.iloc[:, :3].duplicated(keep='first')]
 
     # ajusta la fecha
-    df['fecha_temporal'] = df['fecha'].max() - df['num_dias'].apply(lambda _: pd.Timedelta(days=_))
+    df['fecha_temporal'] = df['fecha'].max() - df['num_dias'].apply(
+        lambda _: pd.Timedelta(days=_)
+    )
     df['fecha'] = df['fecha'].where(df['fecha'] < df['fecha_temporal'], df['fecha_temporal'])
     df = df.drop(['num_dias', 'fecha_temporal'], axis=1)
 
@@ -86,7 +88,10 @@ def save(df):
     column_order = ['fecha', 'cod_ine', 'municipio', 'confirmados']
 
     for departamento in df.departamento.unique():
-        fn = normalize(u'NFKD', '{}.csv'.format(departamento.lower().replace(' ','_'))).encode('ascii', 'ignore').decode('utf8')
+        fn = normalize(u'NFKD', '{}.csv'.format(
+            departamento.lower().replace(' ','_')
+        )).encode('ascii', 'ignore').decode('utf8')
+        
         pd.concat([
             pd.read_csv(fn, parse_dates=['fecha']),
             df[df.departamento == departamento][column_order]

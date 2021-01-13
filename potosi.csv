@@ -1015,6 +1015,7 @@ fecha,cod_ine,municipio,confirmados
 2020-12-13,50101,Potosí,6
 2020-12-13,50801,Tupiza,2
 2020-12-13,51201,Uyuni,1
+2020-12-13,51203,Porco,1
 2020-12-14,51201,Uyuni,6
 2020-12-14,51501,Villazón,1
 2020-12-15,50101,Potosí,4
@@ -1025,6 +1026,7 @@ fecha,cod_ine,municipio,confirmados
 2020-12-18,50801,Tupiza,6
 2020-12-18,51201,Uyuni,2
 2020-12-19,50101,Potosí,9
+2020-12-19,50102,Tinguipaya,3
 2020-12-19,50203,Llallagua,1
 2020-12-19,50801,Tupiza,5
 2020-12-19,50901,"Colcha ""K""",2
@@ -1072,6 +1074,12 @@ fecha,cod_ine,municipio,confirmados
 2021-01-07,50101,Potosí,31
 2021-01-07,50301,Betanzos,1
 2021-01-07,50901,"Colcha ""K""",16
+2021-01-08,50101,Potosí,6
+2021-01-08,50201,Uncía,1
+2021-01-08,50202,Chayanta,4
+2021-01-08,50801,Tupiza,6
+2021-01-08,50901,"Colcha ""K""",1
+2021-01-08,51601,San Agustín,1
 2021-01-09,50101,Potosí,26
 2021-01-09,50203,Llallagua,1
 2021-01-09,50601,Cotagaita,4

@@ -1130,6 +1130,7 @@ fecha,cod_ine,municipio,confirmados
 2020-12-11,20101,Nuestra Señora de La Paz,46
 2020-12-11,20105,El Alto,17
 2020-12-11,20801,Viacha,2
+2020-12-11,21102,Irupana,1
 2020-12-11,21701,Copacabana,1
 2020-12-12,20101,Nuestra Señora de La Paz,26
 2020-12-12,20103,Mecapaca,2
@@ -1137,8 +1138,11 @@ fecha,cod_ine,municipio,confirmados
 2020-12-13,20101,Nuestra Señora de La Paz,44
 2020-12-13,20105,El Alto,3
 2020-12-13,20201,Achacachi,1
+2020-12-13,21103,Yanacachi,1
 2020-12-14,20101,Nuestra Señora de La Paz,7
 2020-12-14,20105,El Alto,4
+2020-12-14,21001,Inquisivi,1
+2020-12-14,21305,Patacamaya,1
 2020-12-15,20101,Nuestra Señora de La Paz,36
 2020-12-15,20103,Mecapaca,2
 2020-12-15,20105,El Alto,21
@@ -1150,6 +1154,7 @@ fecha,cod_ine,municipio,confirmados
 2020-12-17,20105,El Alto,19
 2020-12-18,20101,Nuestra Señora de La Paz,72
 2020-12-18,20105,El Alto,29
+2020-12-18,20608,Teoponte,1
 2020-12-19,20101,Nuestra Señora de La Paz,104
 2020-12-19,20105,El Alto,11
 2020-12-19,20801,Viacha,1
@@ -1193,11 +1198,16 @@ fecha,cod_ine,municipio,confirmados
 2020-12-31,20105,El Alto,51
 2020-12-31,20801,Viacha,2
 2021-01-01,20101,Nuestra Señora de La Paz,261
+2021-01-01,20103,Mecapaca,2
 2021-01-01,20104,Achocalla,1
 2021-01-01,20105,El Alto,112
+2021-01-01,20602,Guanay,5
 2021-01-01,22001,Caranavi,1
 2021-01-02,20101,Nuestra Señora de La Paz,324
+2021-01-02,20104,Achocalla,3
 2021-01-02,20105,El Alto,57
+2021-01-02,20201,Achacachi,1
+2021-01-02,22001,Caranavi,1
 2021-01-03,20101,Nuestra Señora de La Paz,83
 2021-01-03,20105,El Alto,25
 2021-01-04,20101,Nuestra Señora de La Paz,100
@@ -1214,6 +1224,12 @@ fecha,cod_ine,municipio,confirmados
 2021-01-07,20801,Viacha,23
 2021-01-07,21101,Chulumani,1
 2021-01-07,21105,La Asunta,2
+2021-01-08,20101,Nuestra Señora de La Paz,436
+2021-01-08,20105,El Alto,209
+2021-01-08,20801,Viacha,20
+2021-01-08,21101,Chulumani,1
+2021-01-08,21203,Batallas,1
+2021-01-08,21701,Copacabana,1
 2021-01-09,20101,Nuestra Señora de La Paz,377
 2021-01-09,20105,El Alto,53
 2021-01-09,20801,Viacha,4

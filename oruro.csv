@@ -555,7 +555,9 @@ fecha,cod_ine,municipio,confirmados
 2020-12-11,40101,Oruro,3
 2020-12-11,40901,Sabaya,1
 2020-12-12,40101,Oruro,11
+2020-12-12,40603,Antequera,1
 2020-12-12,40701,Huanuni,1
+2020-12-12,41001,Toledo,2
 2020-12-13,40101,Oruro,3
 2020-12-13,40201,Challapata,2
 2020-12-14,40101,Oruro,2
@@ -568,7 +570,9 @@ fecha,cod_ine,municipio,confirmados
 2020-12-18,40503,Cruz de Machacamarca,1
 2020-12-18,40601,Poopó,1
 2020-12-18,40701,Huanuni,3
+2020-12-18,41001,Toledo,2
 2020-12-19,40101,Oruro,17
+2020-12-19,40603,Antequera,5
 2020-12-20,40101,Oruro,20
 2020-12-20,40501,Huachacalla,3
 2020-12-20,40901,Sabaya,1
@@ -598,6 +602,7 @@ fecha,cod_ine,municipio,confirmados
 2020-12-31,40701,Huanuni,1
 2021-01-01,40101,Oruro,45
 2021-01-01,40701,Huanuni,2
+2021-01-01,40801,Salinas de Garcí Mendoza,1
 2021-01-02,40101,Oruro,11
 2021-01-03,40101,Oruro,12
 2021-01-04,40101,Oruro,12
@@ -611,6 +616,10 @@ fecha,cod_ine,municipio,confirmados
 2021-01-07,40503,Cruz de Machacamarca,2
 2021-01-07,40601,Poopó,1
 2021-01-07,40701,Huanuni,2
+2021-01-08,40101,Oruro,50
+2021-01-08,40201,Challapata,5
+2021-01-08,40701,Huanuni,2
+2021-01-08,40901,Sabaya,1
 2021-01-09,40101,Oruro,67
 2021-01-09,40201,Challapata,2
 2021-01-09,40503,Cruz de Machacamarca,5
