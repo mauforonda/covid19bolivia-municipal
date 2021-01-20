@@ -613,8 +613,16 @@ fecha,cod_ine,municipio,confirmados
 2021-01-12,80801,Magdalena,2
 2021-01-13,80101,Trinidad,107
 2021-01-13,80201,Riberalta,5
+2021-01-13,80202,Guayaramerín,12
+2021-01-13,80301,Reyes,2
 2021-01-13,80304,Puerto Menor de Rurrenabaque,8
+2021-01-13,80401,Santa Ana,10
+2021-01-13,80501,San Ignacio,1
+2021-01-13,80602,San Andrés,2
+2021-01-13,80801,Magdalena,48
+2021-01-13,80803,Huacaraje,4
 2021-01-14,80101,Trinidad,136
+2021-01-14,80201,Riberalta,5
 2021-01-14,80202,Guayaramerín,7
 2021-01-14,80301,Reyes,1
 2021-01-14,80302,San Borja,5
@@ -633,6 +641,7 @@ fecha,cod_ine,municipio,confirmados
 2021-01-16,80202,Guayaramerín,18
 2021-01-16,80802,Baures,15
 2021-01-17,80101,Trinidad,22
+2021-01-17,80202,Guayaramerín,18
 2021-01-17,80303,Santa Rosa,26
 2021-01-18,80101,Trinidad,67
 2021-01-18,80202,Guayaramerín,27

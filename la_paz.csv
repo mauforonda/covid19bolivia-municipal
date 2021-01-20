@@ -1254,6 +1254,7 @@ fecha,cod_ine,municipio,confirmados
 2021-01-13,22001,Caranavi,2
 2021-01-14,20101,Nuestra Señora de La Paz,429
 2021-01-14,20103,Mecapaca,1
+2021-01-14,20104,Achocalla,8
 2021-01-14,20105,El Alto,85
 2021-01-14,20201,Achacachi,1
 2021-01-14,20801,Viacha,5
@@ -1266,18 +1267,25 @@ fecha,cod_ine,municipio,confirmados
 2021-01-15,20102,Palca,1
 2021-01-15,20103,Mecapaca,2
 2021-01-15,20105,El Alto,233
+2021-01-15,20201,Achacachi,1
 2021-01-15,20602,Guanay,3
 2021-01-15,20801,Viacha,35
 2021-01-15,21101,Chulumani,1
 2021-01-15,21102,Irupana,4
+2021-01-15,21203,Batallas,1
 2021-01-15,21401,Coroico,1
+2021-01-15,21701,Copacabana,2
+2021-01-15,22001,Caranavi,2
 2021-01-16,20101,Nuestra Señora de La Paz,409
+2021-01-16,20103,Mecapaca,2
 2021-01-16,20105,El Alto,114
 2021-01-16,20801,Viacha,3
+2021-01-16,21101,Chulumani,1
 2021-01-16,21202,Laja,4
 2021-01-16,21203,Batallas,1
 2021-01-16,21305,Patacamaya,1
 2021-01-16,21306,Colquencha,1
+2021-01-16,21401,Coroico,1
 2021-01-16,21701,Copacabana,3
 2021-01-16,22001,Caranavi,6
 2021-01-17,20101,Nuestra Señora de La Paz,411

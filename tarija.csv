@@ -1110,18 +1110,24 @@ fecha,cod_ine,municipio,confirmados
 2021-01-12,60402,Yunchará,1
 2021-01-12,60601,Entre Ríos,1
 2021-01-13,60101,Tarija,38
+2021-01-13,60202,Bermejo,1
 2021-01-13,60301,Yacuiba,4
 2021-01-13,60302,Caraparí,5
 2021-01-13,60303,Villa Montes,13
+2021-01-13,60502,El Puente,1
 2021-01-14,60101,Tarija,69
 2021-01-14,60202,Bermejo,2
+2021-01-14,60301,Yacuiba,4
+2021-01-14,60302,Caraparí,5
 2021-01-14,60303,Villa Montes,7
 2021-01-14,60501,San Lorenzo,2
 2021-01-15,60101,Tarija,22
 2021-01-15,60201,Padcaya,1
+2021-01-15,60202,Bermejo,2
 2021-01-15,60301,Yacuiba,5
 2021-01-15,60303,Villa Montes,4
 2021-01-15,60401,Uriondo,2
+2021-01-15,60501,San Lorenzo,2
 2021-01-15,60502,El Puente,3
 2021-01-16,60101,Tarija,88
 2021-01-16,60301,Yacuiba,1
@@ -1131,6 +1137,7 @@ fecha,cod_ine,municipio,confirmados
 2021-01-16,60601,Entre Ríos,1
 2021-01-17,60101,Tarija,2
 2021-01-17,60202,Bermejo,2
+2021-01-17,60301,Yacuiba,1
 2021-01-17,60302,Caraparí,2
 2021-01-17,60303,Villa Montes,4
 2021-01-17,60402,Yunchará,2
