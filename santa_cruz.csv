@@ -4012,9 +4012,11 @@ fecha,cod_ine,municipio,confirmados
 2021-02-24,70703,Cabezas,3
 2021-02-24,70706,Camiri,1
 2021-02-24,70801,Vallegrande,10
+2021-02-24,70803,Moromoro,1
 2021-02-24,70901,Samaipata,2
 2021-02-24,71001,Montero,8
 2021-02-24,71002,General Saavedra,3
+2021-02-24,71004,Fernández Alonso,1
 2021-02-24,71101,Concepción,2
 2021-02-24,71103,San Julián,1
 2021-02-24,71301,Comarapa,5
@@ -4091,3 +4093,21 @@ fecha,cod_ine,municipio,confirmados
 2021-03-01,71104,San Antonio de Lomerio,1
 2021-03-01,71301,Comarapa,1
 2021-03-02,70101,Santa Cruz de la Sierra,339
+2021-03-02,70102,Cotoca,3
+2021-03-02,70103,Porongo,2
+2021-03-02,70104,La Guardia,11
+2021-03-02,70105,El Torno,9
+2021-03-02,70201,Warnes,4
+2021-03-02,70501,San José,1
+2021-03-02,70601,Portachuelo,1
+2021-03-02,70701,Lagunillas,2
+2021-03-02,70704,Cuevo,1
+2021-03-02,70705,Gutiérrez,1
+2021-03-02,70706,Camiri,4
+2021-03-02,70801,Vallegrande,3
+2021-03-02,70901,Samaipata,2
+2021-03-02,70902,Pampa Grande,1
+2021-03-02,71001,Montero,6
+2021-03-02,71005,San Pedro,1
+2021-03-02,71501,Ascención de Guarayos,1
+2021-03-03,70101,Santa Cruz de la Sierra,299
