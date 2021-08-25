@@ -5,11 +5,19 @@ import requests
 import pandas as pd
 import datetime as dt
 from unicodedata import normalize
+import json
 
 
 URL = 'https://siip.produccion.gob.bo/repSIIP2/JsonAjaxCovid.php?flag=contagiados&num_dias={}'
 DAYS = 9
 SLEEP_T = 10
+
+
+def sanitize_response(response):
+    return json.loads(response.text
+                      .replace(',"coordinates":}', '}')
+                      .replace('"pob2020": ,', '')
+                      .replace('"_pib2006": ,', ''))
 
 
 def download():
@@ -20,7 +28,7 @@ def download():
         ddf = pd.DataFrame([
             {
                 key: feature['properties'][key] for key in json_keys
-            } for feature in requests.get(URL.format(num_dias)).json()['data_mapa']['features']
+            } for feature in sanitize_response(requests.get(URL.format(num_dias)))['data_mapa']['features']
         ])
         ddf['num_dias'] = num_dias - 1
 
