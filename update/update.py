@@ -110,7 +110,7 @@ if __name__ == '__main__':
 departamentos = ["la_paz","cochabamba","santa_cruz","oruro","potosi","tarija","chuquisaca","beni","pando"]
 
 for i in range(9):
-    departamentos[i] = pd.read_csv("../{}.csv".format(departamentos[i]))
+    departamentos[i] = pd.read_csv("./{}.csv".format(departamentos[i]))
 
 df = pd.concat(departamentos[0:9])
 
