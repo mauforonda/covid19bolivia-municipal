@@ -1067,6 +1067,38 @@ fecha,cod_ine,municipio,confirmados
 2021-04-04,80101,Trinidad,1
 2021-04-04,80202,Guayaramerín,43
 2021-04-04,80401,Santa Ana,4
+2021-04-05,80101,Trinidad,37
+2021-04-05,80201,Riberalta,33
+2021-04-05,80302,San Borja,2
+2021-04-05,80304,Puerto Menor de Rurrenabaque,1
+2021-04-05,80401,Santa Ana,3
+2021-04-05,80701,San Joaquín,9
+2021-04-05,80702,San Ramón,5
+2021-04-06,80101,Trinidad,37
+2021-04-06,80201,Riberalta,55
+2021-04-06,80202,Guayaramerín,22
+2021-04-06,80301,Reyes,7
+2021-04-06,80303,Santa Rosa,1
+2021-04-06,80401,Santa Ana,2
+2021-04-06,80701,San Joaquín,2
+2021-04-06,80702,San Ramón,1
+2021-04-07,80101,Trinidad,7
+2021-04-07,80201,Riberalta,28
+2021-04-07,80202,Guayaramerín,24
+2021-04-07,80302,San Borja,1
+2021-04-07,80303,Santa Rosa,1
+2021-04-07,80401,Santa Ana,3
+2021-04-07,80701,San Joaquín,5
+2021-04-07,80702,San Ramón,2
+2021-04-08,80101,Trinidad,16
+2021-04-08,80201,Riberalta,26
+2021-04-08,80202,Guayaramerín,39
+2021-04-08,80303,Santa Rosa,6
+2021-04-08,80304,Puerto Menor de Rurrenabaque,1
+2021-04-08,80401,Santa Ana,5
+2021-04-08,80501,San Ignacio,1
+2021-04-08,80602,San Andrés,1
+2021-04-08,80701,San Joaquín,4
 2021-04-09,80101,Trinidad,22
 2021-04-09,80201,Riberalta,35
 2021-04-09,80202,Guayaramerín,32
@@ -1500,6 +1532,50 @@ fecha,cod_ine,municipio,confirmados
 2021-06-06,80302,San Borja,1
 2021-06-06,80304,Puerto Menor de Rurrenabaque,2
 2021-06-06,80702,San Ramón,1
+2021-06-07,80101,Trinidad,54
+2021-06-07,80102,San Javier,1
+2021-06-07,80202,Guayaramerín,15
+2021-06-07,80302,San Borja,3
+2021-06-07,80304,Puerto Menor de Rurrenabaque,3
+2021-06-07,80401,Santa Ana,1
+2021-06-07,80501,San Ignacio,1
+2021-06-07,80601,Loreto,3
+2021-06-07,80602,San Andrés,2
+2021-06-08,80101,Trinidad,53
+2021-06-08,80201,Riberalta,1
+2021-06-08,80302,San Borja,5
+2021-06-08,80304,Puerto Menor de Rurrenabaque,3
+2021-06-08,80401,Santa Ana,1
+2021-06-08,80501,San Ignacio,3
+2021-06-08,80601,Loreto,3
+2021-06-08,80701,San Joaquín,1
+2021-06-08,80702,San Ramón,1
+2021-06-09,80101,Trinidad,64
+2021-06-09,80201,Riberalta,1
+2021-06-09,80202,Guayaramerín,1
+2021-06-09,80301,Reyes,2
+2021-06-09,80302,San Borja,14
+2021-06-09,80401,Santa Ana,17
+2021-06-09,80501,San Ignacio,8
+2021-06-09,80602,San Andrés,1
+2021-06-09,80702,San Ramón,3
+2021-06-10,80101,Trinidad,33
+2021-06-10,80202,Guayaramerín,11
+2021-06-10,80301,Reyes,1
+2021-06-10,80302,San Borja,9
+2021-06-10,80304,Puerto Menor de Rurrenabaque,1
+2021-06-10,80401,Santa Ana,5
+2021-06-10,80501,San Ignacio,5
+2021-06-10,80601,Loreto,6
+2021-06-10,80602,San Andrés,1
+2021-06-11,80101,Trinidad,90
+2021-06-11,80102,San Javier,2
+2021-06-11,80304,Puerto Menor de Rurrenabaque,2
+2021-06-11,80501,San Ignacio,2
+2021-06-11,80701,San Joaquín,1
+2021-06-11,80702,San Ramón,3
+2021-06-11,80801,Magdalena,1
+2021-06-11,80802,Baures,12
 2021-06-12,80101,Trinidad,51
 2021-06-12,80202,Guayaramerín,3
 2021-06-12,80501,San Ignacio,2
@@ -1552,6 +1628,80 @@ fecha,cod_ine,municipio,confirmados
 2021-06-20,80202,Guayaramerín,1
 2021-06-20,80401,Santa Ana,1
 2021-06-20,80702,San Ramón,2
+2021-06-21,80101,Trinidad,12
+2021-06-21,80102,San Javier,4
+2021-06-21,80302,San Borja,1
+2021-06-22,80101,Trinidad,14
+2021-06-22,80102,San Javier,1
+2021-06-22,80304,Puerto Menor de Rurrenabaque,4
+2021-06-22,80401,Santa Ana,1
+2021-06-22,80501,San Ignacio,3
+2021-06-22,80601,Loreto,9
+2021-06-22,80602,San Andrés,1
+2021-06-22,80702,San Ramón,2
+2021-06-23,80101,Trinidad,62
+2021-06-23,80201,Riberalta,1
+2021-06-23,80302,San Borja,2
+2021-06-23,80303,Santa Rosa,5
+2021-06-23,80501,San Ignacio,4
+2021-06-23,80601,Loreto,5
+2021-06-23,80602,San Andrés,2
+2021-06-23,80701,San Joaquín,1
+2021-06-23,80702,San Ramón,2
+2021-06-24,80101,Trinidad,41
+2021-06-24,80202,Guayaramerín,4
+2021-06-24,80302,San Borja,4
+2021-06-24,80304,Puerto Menor de Rurrenabaque,6
+2021-06-24,80401,Santa Ana,3
+2021-06-24,80501,San Ignacio,2
+2021-06-25,80101,Trinidad,61
+2021-06-25,80102,San Javier,7
+2021-06-25,80201,Riberalta,1
+2021-06-25,80302,San Borja,1
+2021-06-25,80303,Santa Rosa,3
+2021-06-25,80501,San Ignacio,3
+2021-06-25,80701,San Joaquín,1
+2021-06-25,80702,San Ramón,1
+2021-06-26,80101,Trinidad,13
+2021-06-26,80201,Riberalta,1
+2021-06-26,80302,San Borja,1
+2021-06-26,80501,San Ignacio,4
+2021-06-26,80802,Baures,4
+2021-06-27,80101,Trinidad,7
+2021-06-27,80302,San Borja,1
+2021-06-27,80303,Santa Rosa,2
+2021-06-27,80501,San Ignacio,1
+2021-06-28,80101,Trinidad,15
+2021-06-28,80202,Guayaramerín,20
+2021-06-28,80304,Puerto Menor de Rurrenabaque,3
+2021-06-28,80401,Santa Ana,2
+2021-06-28,80601,Loreto,1
+2021-06-29,80101,Trinidad,29
+2021-06-29,80304,Puerto Menor de Rurrenabaque,8
+2021-06-29,80501,San Ignacio,2
+2021-06-29,80602,San Andrés,1
+2021-06-30,80101,Trinidad,10
+2021-06-30,80202,Guayaramerín,5
+2021-06-30,80303,Santa Rosa,1
+2021-06-30,80304,Puerto Menor de Rurrenabaque,5
+2021-06-30,80501,San Ignacio,1
+2021-06-30,80602,San Andrés,1
+2021-06-30,80702,San Ramón,1
+2021-07-01,80101,Trinidad,33
+2021-07-01,80102,San Javier,1
+2021-07-01,80202,Guayaramerín,2
+2021-07-01,80302,San Borja,1
+2021-07-01,80303,Santa Rosa,1
+2021-07-01,80304,Puerto Menor de Rurrenabaque,7
+2021-07-01,80601,Loreto,1
+2021-07-01,80702,San Ramón,1
+2021-07-02,80101,Trinidad,13
+2021-07-02,80201,Riberalta,2
+2021-07-02,80202,Guayaramerín,1
+2021-07-02,80302,San Borja,4
+2021-07-02,80304,Puerto Menor de Rurrenabaque,6
+2021-07-02,80601,Loreto,4
+2021-07-02,80701,San Joaquín,1
 2021-07-03,80101,Trinidad,4
 2021-07-03,80303,Santa Rosa,6
 2021-07-03,80601,Loreto,4
@@ -1642,6 +1792,28 @@ fecha,cod_ine,municipio,confirmados
 2021-07-24,80101,Trinidad,2
 2021-07-24,80202,Guayaramerín,1
 2021-07-24,80602,San Andrés,1
+2021-07-25,80101,Trinidad,1
+2021-07-26,80101,Trinidad,1
+2021-07-26,80302,San Borja,3
+2021-07-26,80304,Puerto Menor de Rurrenabaque,6
+2021-07-27,80101,Trinidad,1
+2021-07-27,80202,Guayaramerín,1
+2021-07-27,80302,San Borja,1
+2021-07-27,80304,Puerto Menor de Rurrenabaque,8
+2021-07-27,80701,San Joaquín,7
+2021-07-27,80702,San Ramón,1
+2021-07-28,80101,Trinidad,2
+2021-07-28,80302,San Borja,1
+2021-07-28,80303,Santa Rosa,2
+2021-07-28,80304,Puerto Menor de Rurrenabaque,2
+2021-07-28,80602,San Andrés,2
+2021-07-29,80101,Trinidad,1
+2021-07-29,80302,San Borja,4
+2021-07-29,80303,Santa Rosa,8
+2021-07-29,80304,Puerto Menor de Rurrenabaque,3
+2021-07-30,80101,Trinidad,2
+2021-07-30,80201,Riberalta,1
+2021-07-30,80304,Puerto Menor de Rurrenabaque,3
 2021-07-31,80101,Trinidad,3
 2021-08-01,80101,Trinidad,2
 2021-08-01,80202,Guayaramerín,2
@@ -1785,6 +1957,11 @@ fecha,cod_ine,municipio,confirmados
 2021-09-22,80303,Santa Rosa,1
 2021-09-23,80303,Santa Rosa,2
 2021-09-24,80101,Trinidad,2
+2021-09-27,80202,Guayaramerín,1
+2021-09-29,80101,Trinidad,2
+2021-09-29,80202,Guayaramerín,6
+2021-09-30,80202,Guayaramerín,16
+2021-10-01,80303,Santa Rosa,1
 2021-10-02,80101,Trinidad,3
 2021-10-02,80202,Guayaramerín,14
 2021-10-02,80302,San Borja,2
