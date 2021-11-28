@@ -1813,6 +1813,16 @@ fecha,cod_ine,municipio,confirmados
 2021-04-04,20105,El Alto,7
 2021-04-04,20801,Viacha,1
 2021-04-04,21006,Villa Libertad Licoma,1
+2021-04-05,20101,Nuestra Señora de La Paz,66
+2021-04-05,20105,El Alto,20
+2021-04-05,20801,Viacha,2
+2021-04-06,20101,Nuestra Señora de La Paz,19
+2021-04-06,20105,El Alto,35
+2021-04-07,20101,Nuestra Señora de La Paz,84
+2021-04-07,20105,El Alto,26
+2021-04-08,20101,Nuestra Señora de La Paz,163
+2021-04-08,20105,El Alto,48
+2021-04-08,21305,Patacamaya,5
 2021-04-09,20101,Nuestra Señora de La Paz,83
 2021-04-09,20105,El Alto,68
 2021-04-09,20801,Viacha,4
@@ -2294,6 +2304,66 @@ fecha,cod_ine,municipio,confirmados
 2021-06-06,20801,Viacha,31
 2021-06-06,21003,Cajuata,4
 2021-06-06,21203,Batallas,4
+2021-06-07,20101,Nuestra Señora de La Paz,256
+2021-06-07,20102,Palca,2
+2021-06-07,20105,El Alto,118
+2021-06-07,20801,Viacha,1
+2021-06-07,21001,Inquisivi,1
+2021-06-07,21004,Colquiri,2
+2021-06-07,21601,Charazani,2
+2021-06-08,20101,Nuestra Señora de La Paz,263
+2021-06-08,20102,Palca,4
+2021-06-08,20103,Mecapaca,1
+2021-06-08,20105,El Alto,68
+2021-06-08,20204,Santiago de Huata,1
+2021-06-08,20701,Apolo,3
+2021-06-08,20801,Viacha,27
+2021-06-08,20802,Puerto Mayor de Guaqui,1
+2021-06-08,20804,Desaguadero,1
+2021-06-08,21004,Colquiri,1
+2021-06-09,20101,Nuestra Señora de La Paz,468
+2021-06-09,20103,Mecapaca,1
+2021-06-09,20104,Achocalla,17
+2021-06-09,20105,El Alto,228
+2021-06-09,20201,Achacachi,1
+2021-06-09,20601,Sorata,1
+2021-06-09,20701,Apolo,1
+2021-06-09,20801,Viacha,16
+2021-06-09,21004,Colquiri,1
+2021-06-09,21006,Villa Libertad Licoma,2
+2021-06-09,21101,Chulumani,18
+2021-06-09,21105,La Asunta,1
+2021-06-09,21201,Pucarani,3
+2021-06-09,21204,Puerto Pérez,2
+2021-06-09,21305,Patacamaya,6
+2021-06-09,21306,Colquencha,1
+2021-06-09,22001,Caranavi,20
+2021-06-10,20101,Nuestra Señora de La Paz,424
+2021-06-10,20102,Palca,2
+2021-06-10,20103,Mecapaca,2
+2021-06-10,20105,El Alto,177
+2021-06-10,20801,Viacha,11
+2021-06-10,21002,Quime,2
+2021-06-10,21004,Colquiri,2
+2021-06-10,21301,Sicasica,1
+2021-06-10,21307,Collana,1
+2021-06-10,21501,Ixiamas,1
+2021-06-10,21701,Copacabana,2
+2021-06-10,22002,Alto Beni,1
+2021-06-11,20101,Nuestra Señora de La Paz,469
+2021-06-11,20102,Palca,1
+2021-06-11,20103,Mecapaca,1
+2021-06-11,20104,Achocalla,7
+2021-06-11,20105,El Alto,164
+2021-06-11,20201,Achacachi,1
+2021-06-11,20204,Santiago de Huata,2
+2021-06-11,20602,Guanay,4
+2021-06-11,20701,Apolo,1
+2021-06-11,20801,Viacha,5
+2021-06-11,20803,Tiahuanacu,1
+2021-06-11,21002,Quime,5
+2021-06-11,21203,Batallas,1
+2021-06-11,21601,Charazani,1
 2021-06-12,20101,Nuestra Señora de La Paz,506
 2021-06-12,20102,Palca,2
 2021-06-12,20103,Mecapaca,1
@@ -2393,6 +2463,122 @@ fecha,cod_ine,municipio,confirmados
 2021-06-20,21502,San Buenaventura,1
 2021-06-20,21902,Catacora,1
 2021-06-20,22001,Caranavi,5
+2021-06-21,20101,Nuestra Señora de La Paz,157
+2021-06-21,20103,Mecapaca,1
+2021-06-21,20105,El Alto,42
+2021-06-21,20605,Combaya,1
+2021-06-21,20701,Apolo,1
+2021-06-21,20801,Viacha,2
+2021-06-21,21001,Inquisivi,1
+2021-06-21,21101,Chulumani,3
+2021-06-21,21102,Irupana,1
+2021-06-21,21201,Pucarani,2
+2021-06-21,21202,Laja,1
+2021-06-21,21305,Patacamaya,1
+2021-06-22,20101,Nuestra Señora de La Paz,81
+2021-06-22,20104,Achocalla,9
+2021-06-22,20105,El Alto,27
+2021-06-22,20201,Achacachi,1
+2021-06-22,20801,Viacha,5
+2021-06-22,21001,Inquisivi,1
+2021-06-23,20101,Nuestra Señora de La Paz,283
+2021-06-23,20102,Palca,1
+2021-06-23,20103,Mecapaca,2
+2021-06-23,20104,Achocalla,3
+2021-06-23,20105,El Alto,89
+2021-06-23,20405,Escoma,1
+2021-06-23,20801,Viacha,21
+2021-06-23,20802,Puerto Mayor de Guaqui,6
+2021-06-23,21001,Inquisivi,2
+2021-06-23,21006,Villa Libertad Licoma,1
+2021-06-23,21103,Yanacachi,3
+2021-06-23,21105,La Asunta,2
+2021-06-23,21201,Pucarani,2
+2021-06-23,21401,Coroico,1
+2021-06-23,21803,Chacarilla,1
+2021-06-23,22001,Caranavi,1
+2021-06-24,20101,Nuestra Señora de La Paz,264
+2021-06-24,20104,Achocalla,1
+2021-06-24,20105,El Alto,162
+2021-06-24,20201,Achacachi,1
+2021-06-24,20301,Corocoro,1
+2021-06-24,20701,Apolo,1
+2021-06-24,20801,Viacha,10
+2021-06-24,21001,Inquisivi,1
+2021-06-24,21004,Colquiri,2
+2021-06-24,21103,Yanacachi,12
+2021-06-24,21203,Batallas,1
+2021-06-24,21401,Coroico,1
+2021-06-25,20101,Nuestra Señora de La Paz,215
+2021-06-25,20104,Achocalla,4
+2021-06-25,20105,El Alto,125
+2021-06-25,20201,Achacachi,2
+2021-06-25,20307,Nazacara de Pacajes,1
+2021-06-25,20405,Escoma,1
+2021-06-25,20801,Viacha,7
+2021-06-25,21202,Laja,2
+2021-06-25,21306,Colquencha,1
+2021-06-25,22001,Caranavi,1
+2021-06-26,20101,Nuestra Señora de La Paz,184
+2021-06-26,20102,Palca,1
+2021-06-26,20105,El Alto,85
+2021-06-26,20302,Caquiaviri,1
+2021-06-26,20405,Escoma,1
+2021-06-26,20801,Viacha,8
+2021-06-26,21003,Cajuata,1
+2021-06-26,21006,Villa Libertad Licoma,2
+2021-06-26,21307,Collana,1
+2021-06-27,20101,Nuestra Señora de La Paz,95
+2021-06-27,20105,El Alto,38
+2021-06-27,20801,Viacha,2
+2021-06-27,21006,Villa Libertad Licoma,1
+2021-06-28,20101,Nuestra Señora de La Paz,173
+2021-06-28,20104,Achocalla,4
+2021-06-28,20105,El Alto,55
+2021-06-29,20101,Nuestra Señora de La Paz,318
+2021-06-29,20102,Palca,2
+2021-06-29,20103,Mecapaca,1
+2021-06-29,20104,Achocalla,9
+2021-06-29,20105,El Alto,149
+2021-06-29,20201,Achacachi,2
+2021-06-29,20801,Viacha,7
+2021-06-29,20901,Luribay,4
+2021-06-29,21003,Cajuata,1
+2021-06-29,21006,Villa Libertad Licoma,1
+2021-06-29,21101,Chulumani,6
+2021-06-29,21201,Pucarani,3
+2021-06-29,21307,Collana,3
+2021-06-29,21702,San Pedro de Tiquina,1
+2021-06-30,20101,Nuestra Señora de La Paz,226
+2021-06-30,20102,Palca,2
+2021-06-30,20105,El Alto,120
+2021-06-30,20201,Achacachi,1
+2021-06-30,20601,Sorata,1
+2021-06-30,20701,Apolo,1
+2021-06-30,20801,Viacha,4
+2021-06-30,20802,Puerto Mayor de Guaqui,5
+2021-06-30,20905,Cairoma,1
+2021-06-30,21004,Colquiri,2
+2021-06-30,21302,Umala,2
+2021-06-30,21305,Patacamaya,1
+2021-06-30,21307,Collana,1
+2021-06-30,21401,Coroico,1
+2021-06-30,22001,Caranavi,21
+2021-07-01,20101,Nuestra Señora de La Paz,149
+2021-07-01,20103,Mecapaca,1
+2021-07-01,20105,El Alto,117
+2021-07-01,20606,Tipuani,1
+2021-07-01,20801,Viacha,1
+2021-07-01,21001,Inquisivi,1
+2021-07-02,20101,Nuestra Señora de La Paz,158
+2021-07-02,20105,El Alto,71
+2021-07-02,20201,Achacachi,1
+2021-07-02,20601,Sorata,1
+2021-07-02,20801,Viacha,4
+2021-07-02,21006,Villa Libertad Licoma,1
+2021-07-02,21307,Collana,1
+2021-07-02,21502,San Buenaventura,42
+2021-07-02,21901,Santiago de Machaca,1
 2021-07-03,20101,Nuestra Señora de La Paz,315
 2021-07-03,20104,Achocalla,8
 2021-07-03,20105,El Alto,137
@@ -2609,6 +2795,58 @@ fecha,cod_ine,municipio,confirmados
 2021-07-24,21401,Coroico,2
 2021-07-24,21501,Ixiamas,2
 2021-07-24,21502,San Buenaventura,6
+2021-07-25,20101,Nuestra Señora de La Paz,60
+2021-07-25,20104,Achocalla,2
+2021-07-25,20105,El Alto,61
+2021-07-25,20204,Santiago de Huata,6
+2021-07-25,20206,Chua Cocani,1
+2021-07-25,20302,Caquiaviri,1
+2021-07-25,20601,Sorata,1
+2021-07-25,20801,Viacha,5
+2021-07-25,21502,San Buenaventura,2
+2021-07-26,20101,Nuestra Señora de La Paz,27
+2021-07-26,20102,Palca,1
+2021-07-26,20104,Achocalla,1
+2021-07-26,20105,El Alto,22
+2021-07-26,20802,Puerto Mayor de Guaqui,1
+2021-07-26,21005,Ichoca,1
+2021-07-26,21401,Coroico,1
+2021-07-27,20101,Nuestra Señora de La Paz,67
+2021-07-27,20103,Mecapaca,1
+2021-07-27,20105,El Alto,47
+2021-07-27,20801,Viacha,1
+2021-07-27,21001,Inquisivi,2
+2021-07-27,21005,Ichoca,2
+2021-07-27,21101,Chulumani,1
+2021-07-27,21501,Ixiamas,2
+2021-07-28,20101,Nuestra Señora de La Paz,94
+2021-07-28,20102,Palca,1
+2021-07-28,20105,El Alto,64
+2021-07-28,20801,Viacha,1
+2021-07-28,21104,Palos Blancos,1
+2021-07-29,20101,Nuestra Señora de La Paz,141
+2021-07-29,20103,Mecapaca,1
+2021-07-29,20104,Achocalla,1
+2021-07-29,20105,El Alto,76
+2021-07-29,20201,Achacachi,2
+2021-07-29,20701,Apolo,3
+2021-07-29,20801,Viacha,9
+2021-07-29,20901,Luribay,1
+2021-07-29,21201,Pucarani,2
+2021-07-29,21203,Batallas,1
+2021-07-29,21306,Colquencha,1
+2021-07-29,21502,San Buenaventura,1
+2021-07-30,20101,Nuestra Señora de La Paz,93
+2021-07-30,20102,Palca,3
+2021-07-30,20103,Mecapaca,1
+2021-07-30,20104,Achocalla,1
+2021-07-30,20105,El Alto,58
+2021-07-30,20201,Achacachi,4
+2021-07-30,20601,Sorata,1
+2021-07-30,20701,Apolo,3
+2021-07-30,20801,Viacha,2
+2021-07-30,21305,Patacamaya,1
+2021-07-30,21901,Santiago de Machaca,1
 2021-07-31,20101,Nuestra Señora de La Paz,109
 2021-07-31,20103,Mecapaca,1
 2021-07-31,20104,Achocalla,8
@@ -3060,6 +3298,31 @@ fecha,cod_ine,municipio,confirmados
 2021-09-26,20905,Cairoma,1
 2021-09-26,21401,Coroico,1
 2021-09-26,22001,Caranavi,2
+2021-09-27,20101,Nuestra Señora de La Paz,7
+2021-09-27,20105,El Alto,5
+2021-09-27,20701,Apolo,5
+2021-09-28,20101,Nuestra Señora de La Paz,30
+2021-09-28,20105,El Alto,15
+2021-09-28,20701,Apolo,4
+2021-09-28,21101,Chulumani,4
+2021-09-29,20101,Nuestra Señora de La Paz,47
+2021-09-29,20105,El Alto,6
+2021-09-29,20701,Apolo,5
+2021-09-29,20801,Viacha,2
+2021-09-29,20802,Puerto Mayor de Guaqui,4
+2021-09-29,21201,Pucarani,1
+2021-09-29,21306,Colquencha,1
+2021-09-30,20101,Nuestra Señora de La Paz,41
+2021-09-30,20105,El Alto,19
+2021-09-30,20801,Viacha,3
+2021-09-30,21003,Cajuata,1
+2021-09-30,21305,Patacamaya,1
+2021-10-01,20101,Nuestra Señora de La Paz,39
+2021-10-01,20105,El Alto,29
+2021-10-01,21001,Inquisivi,2
+2021-10-01,21101,Chulumani,3
+2021-10-01,21105,La Asunta,1
+2021-10-01,21502,San Buenaventura,1
 2021-10-02,20101,Nuestra Señora de La Paz,60
 2021-10-02,20105,El Alto,23
 2021-10-02,20601,Sorata,2

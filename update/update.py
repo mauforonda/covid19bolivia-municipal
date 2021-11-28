@@ -9,8 +9,10 @@ import json
 
 
 URL = 'https://siip.produccion.gob.bo/repSIIP2/JsonAjaxCovid.php?flag=contagiados&num_dias={}'
-DAYS = 9
+DAYS = 14
 SLEEP_T = 10
+TIMEOUT = 10
+MAX_TRY = 5
 
 
 def sanitize_response(response):
@@ -20,15 +22,29 @@ def sanitize_response(response):
                       .replace('"_pib2006": ,', ''))
 
 
+def do_download(url, _try=0):
+    try:
+        return requests.get(url, timeout=TIMEOUT)
+    except:
+        if _try > MAX_TRY:
+            return
+        return do_download(url, _try + 1)
+
+
 def download():
     json_keys = ['cod_mun', '_fecha_ultimo', '_f_0709202']
     df = pd.DataFrame([])
 
     for num_dias in range(1, DAYS + 1):
+        response = do_download(URL.format(num_dias))
+
+        if response is None:
+            continue
+
         ddf = pd.DataFrame([
             {
                 key: feature['properties'][key] for key in json_keys
-            } for feature in sanitize_response(requests.get(URL.format(num_dias)))['data_mapa']['features']
+            } for feature in sanitize_response(response)['data_mapa']['features']
         ])
         ddf['num_dias'] = num_dias - 1
 
@@ -99,7 +115,7 @@ def save(df):
         fn = normalize(u'NFKD', '{}.csv'.format(
             departamento.lower().replace(' ','_')
         )).encode('ascii', 'ignore').decode('utf8')
-        
+
         pd.concat([
             pd.read_csv(fn, parse_dates=['fecha']),
             df[df.departamento == departamento][column_order]

@@ -4553,6 +4553,80 @@ fecha,cod_ine,municipio,confirmados
 2021-04-04,70105,El Torno,6
 2021-04-04,70501,San José,3
 2021-04-04,70901,Samaipata,3
+2021-04-05,70101,Santa Cruz de la Sierra,396
+2021-04-05,70104,La Guardia,4
+2021-04-05,70105,El Torno,4
+2021-04-05,70501,San José,1
+2021-04-05,70503,Roboré,1
+2021-04-05,70704,Cuevo,5
+2021-04-05,70707,Boyuibe,4
+2021-04-05,70801,Vallegrande,1
+2021-04-05,70901,Samaipata,1
+2021-04-05,71001,Montero,5
+2021-04-05,71004,Fernández Alonso,1
+2021-04-05,71005,San Pedro,1
+2021-04-05,71301,Comarapa,1
+2021-04-05,71402,Puerto Quijarro,1
+2021-04-06,70101,Santa Cruz de la Sierra,501
+2021-04-06,70104,La Guardia,4
+2021-04-06,70105,El Torno,4
+2021-04-06,70201,Warnes,1
+2021-04-06,70301,San Ignacio,1
+2021-04-06,70302,San Miguel,1
+2021-04-06,70501,San José,1
+2021-04-06,70503,Roboré,4
+2021-04-06,70602,Santa Rosa,6
+2021-04-06,70702,Charagua,1
+2021-04-06,70704,Cuevo,5
+2021-04-06,70707,Boyuibe,4
+2021-04-06,70801,Vallegrande,1
+2021-04-06,70901,Samaipata,1
+2021-04-06,71001,Montero,10
+2021-04-06,71002,General Saavedra,1
+2021-04-06,71004,Fernández Alonso,1
+2021-04-06,71005,San Pedro,1
+2021-04-06,71102,San Javier,1
+2021-04-06,71301,Comarapa,1
+2021-04-06,71501,Ascención de Guarayos,3
+2021-04-07,70101,Santa Cruz de la Sierra,442
+2021-04-07,70103,Porongo,8
+2021-04-07,70104,La Guardia,10
+2021-04-07,70105,El Torno,4
+2021-04-07,70301,San Ignacio,1
+2021-04-07,70501,San José,4
+2021-04-07,70602,Santa Rosa,4
+2021-04-07,70603,Colpa Bélgica,1
+2021-04-07,70702,Charagua,5
+2021-04-07,70704,Cuevo,3
+2021-04-07,70706,Camiri,3
+2021-04-07,70707,Boyuibe,1
+2021-04-07,70804,Postrervalle,2
+2021-04-07,71001,Montero,9
+2021-04-07,71004,Fernández Alonso,1
+2021-04-07,71101,Concepción,1
+2021-04-07,71102,San Javier,4
+2021-04-07,71103,San Julián,1
+2021-04-07,71104,San Antonio de Lomerio,2
+2021-04-07,71106,Cuatro Cañadas,1
+2021-04-07,71301,Comarapa,4
+2021-04-08,70101,Santa Cruz de la Sierra,512
+2021-04-08,70102,Cotoca,6
+2021-04-08,70104,La Guardia,2
+2021-04-08,70105,El Torno,4
+2021-04-08,70301,San Ignacio,5
+2021-04-08,70501,San José,1
+2021-04-08,70503,Roboré,3
+2021-04-08,70602,Santa Rosa,2
+2021-04-08,70704,Cuevo,1
+2021-04-08,70706,Camiri,1
+2021-04-08,70801,Vallegrande,1
+2021-04-08,70803,Moromoro,1
+2021-04-08,70901,Samaipata,1
+2021-04-08,71001,Montero,13
+2021-04-08,71005,San Pedro,2
+2021-04-08,71102,San Javier,1
+2021-04-08,71106,Cuatro Cañadas,1
+2021-04-08,71301,Comarapa,2
 2021-04-09,70101,Santa Cruz de la Sierra,672
 2021-04-09,70103,Porongo,5
 2021-04-09,70104,La Guardia,17
@@ -4850,10 +4924,24 @@ fecha,cod_ine,municipio,confirmados
 2021-04-29,70101,Santa Cruz de la Sierra,609
 2021-04-29,70102,Cotoca,14
 2021-04-29,70104,La Guardia,10
+2021-04-29,70105,El Torno,3
 2021-04-29,70201,Warnes,6
+2021-04-29,70301,San Ignacio,3
+2021-04-29,70302,San Miguel,1
+2021-04-29,70501,San José,1
+2021-04-29,70602,Santa Rosa,2
+2021-04-29,70603,Colpa Bélgica,1
+2021-04-29,70702,Charagua,1
+2021-04-29,70706,Camiri,1
+2021-04-29,70801,Vallegrande,2
+2021-04-29,70901,Samaipata,4
+2021-04-29,70902,Pampa Grande,1
 2021-04-29,71001,Montero,14
 2021-04-29,71005,San Pedro,8
+2021-04-29,71301,Comarapa,2
+2021-04-29,71302,Saipina,2
 2021-04-29,71501,Ascención de Guarayos,6
+2021-04-29,71503,El Puente,1
 2021-04-30,70101,Santa Cruz de la Sierra,799
 2021-04-30,70102,Cotoca,4
 2021-04-30,70104,La Guardia,15
@@ -5775,6 +5863,203 @@ fecha,cod_ine,municipio,confirmados
 2021-06-06,71104,San Antonio de Lomerio,5
 2021-06-06,71106,Cuatro Cañadas,4
 2021-06-06,71503,El Puente,1
+2021-06-07,70101,Santa Cruz de la Sierra,649
+2021-06-07,70102,Cotoca,4
+2021-06-07,70103,Porongo,6
+2021-06-07,70104,La Guardia,25
+2021-06-07,70105,El Torno,11
+2021-06-07,70201,Warnes,1
+2021-06-07,70202,Okinawa Uno,3
+2021-06-07,70301,San Ignacio,89
+2021-06-07,70302,San Miguel,4
+2021-06-07,70401,Buena Vista,6
+2021-06-07,70402,San Carlos,2
+2021-06-07,70501,San José,4
+2021-06-07,70502,Pailón,1
+2021-06-07,70601,Portachuelo,3
+2021-06-07,70602,Santa Rosa,8
+2021-06-07,70603,Colpa Bélgica,1
+2021-06-07,70703,Cabezas,6
+2021-06-07,70704,Cuevo,1
+2021-06-07,70705,Gutiérrez,4
+2021-06-07,70706,Camiri,4
+2021-06-07,70801,Vallegrande,4
+2021-06-07,70804,Postrervalle,2
+2021-06-07,70902,Pampa Grande,1
+2021-06-07,70903,Mairana,2
+2021-06-07,70904,Quirusillas,2
+2021-06-07,71001,Montero,44
+2021-06-07,71002,General Saavedra,4
+2021-06-07,71004,Fernández Alonso,1
+2021-06-07,71005,San Pedro,1
+2021-06-07,71102,San Javier,2
+2021-06-07,71103,San Julián,4
+2021-06-07,71104,San Antonio de Lomerio,2
+2021-06-07,71106,Cuatro Cañadas,10
+2021-06-07,71301,Comarapa,4
+2021-06-07,71503,El Puente,1
+2021-06-08,70101,Santa Cruz de la Sierra,758
+2021-06-08,70102,Cotoca,1
+2021-06-08,70103,Porongo,6
+2021-06-08,70104,La Guardia,36
+2021-06-08,70105,El Torno,28
+2021-06-08,70201,Warnes,14
+2021-06-08,70202,Okinawa Uno,1
+2021-06-08,70301,San Ignacio,2
+2021-06-08,70302,San Miguel,3
+2021-06-08,70303,San Rafael,1
+2021-06-08,70401,Buena Vista,5
+2021-06-08,70402,San Carlos,3
+2021-06-08,70404,San Juan,1
+2021-06-08,70501,San José,6
+2021-06-08,70502,Pailón,3
+2021-06-08,70503,Roboré,2
+2021-06-08,70601,Portachuelo,7
+2021-06-08,70602,Santa Rosa,6
+2021-06-08,70603,Colpa Bélgica,1
+2021-06-08,70703,Cabezas,2
+2021-06-08,70705,Gutiérrez,3
+2021-06-08,70706,Camiri,1
+2021-06-08,70707,Boyuibe,2
+2021-06-08,70801,Vallegrande,6
+2021-06-08,70803,Moromoro,4
+2021-06-08,70804,Postrervalle,3
+2021-06-08,70901,Samaipata,2
+2021-06-08,70903,Mairana,4
+2021-06-08,71001,Montero,32
+2021-06-08,71002,General Saavedra,2
+2021-06-08,71004,Fernández Alonso,7
+2021-06-08,71005,San Pedro,6
+2021-06-08,71101,Concepción,5
+2021-06-08,71102,San Javier,5
+2021-06-08,71104,San Antonio de Lomerio,4
+2021-06-08,71301,Comarapa,3
+2021-06-08,71302,Saipina,2
+2021-06-08,71403,El Carmen Rivero Tórrez,1
+2021-06-08,71502,Urubicha,1
+2021-06-08,71503,El Puente,2
+2021-06-09,70101,Santa Cruz de la Sierra,957
+2021-06-09,70102,Cotoca,22
+2021-06-09,70103,Porongo,2
+2021-06-09,70104,La Guardia,32
+2021-06-09,70105,El Torno,5
+2021-06-09,70201,Warnes,22
+2021-06-09,70202,Okinawa Uno,6
+2021-06-09,70301,San Ignacio,2
+2021-06-09,70303,San Rafael,2
+2021-06-09,70402,San Carlos,2
+2021-06-09,70404,San Juan,9
+2021-06-09,70501,San José,5
+2021-06-09,70502,Pailón,26
+2021-06-09,70503,Roboré,9
+2021-06-09,70601,Portachuelo,5
+2021-06-09,70602,Santa Rosa,4
+2021-06-09,70603,Colpa Bélgica,3
+2021-06-09,70701,Lagunillas,1
+2021-06-09,70703,Cabezas,7
+2021-06-09,70704,Cuevo,2
+2021-06-09,70705,Gutiérrez,3
+2021-06-09,70706,Camiri,15
+2021-06-09,70801,Vallegrande,2
+2021-06-09,70802,Trigal,2
+2021-06-09,70804,Postrervalle,2
+2021-06-09,70901,Samaipata,1
+2021-06-09,70902,Pampa Grande,3
+2021-06-09,70903,Mairana,1
+2021-06-09,71001,Montero,40
+2021-06-09,71002,General Saavedra,5
+2021-06-09,71003,Mineros,16
+2021-06-09,71004,Fernández Alonso,3
+2021-06-09,71005,San Pedro,4
+2021-06-09,71101,Concepción,3
+2021-06-09,71102,San Javier,3
+2021-06-09,71103,San Julián,4
+2021-06-09,71104,San Antonio de Lomerio,4
+2021-06-09,71105,San Ramón,1
+2021-06-09,71301,Comarapa,1
+2021-06-09,71401,Puerto Suarez,2
+2021-06-09,71402,Puerto Quijarro,3
+2021-06-09,71503,El Puente,10
+2021-06-10,70101,Santa Cruz de la Sierra,724
+2021-06-10,70102,Cotoca,16
+2021-06-10,70103,Porongo,2
+2021-06-10,70104,La Guardia,30
+2021-06-10,70105,El Torno,26
+2021-06-10,70201,Warnes,17
+2021-06-10,70202,Okinawa Uno,2
+2021-06-10,70301,San Ignacio,16
+2021-06-10,70303,San Rafael,2
+2021-06-10,70403,Yapacaní,6
+2021-06-10,70404,San Juan,3
+2021-06-10,70502,Pailón,1
+2021-06-10,70503,Roboré,12
+2021-06-10,70601,Portachuelo,10
+2021-06-10,70602,Santa Rosa,1
+2021-06-10,70701,Lagunillas,1
+2021-06-10,70702,Charagua,1
+2021-06-10,70703,Cabezas,1
+2021-06-10,70705,Gutiérrez,1
+2021-06-10,70706,Camiri,6
+2021-06-10,70707,Boyuibe,3
+2021-06-10,70801,Vallegrande,6
+2021-06-10,70803,Moromoro,2
+2021-06-10,70804,Postrervalle,5
+2021-06-10,70805,Pucará,1
+2021-06-10,70901,Samaipata,5
+2021-06-10,70903,Mairana,2
+2021-06-10,71001,Montero,57
+2021-06-10,71003,Mineros,9
+2021-06-10,71004,Fernández Alonso,1
+2021-06-10,71005,San Pedro,13
+2021-06-10,71101,Concepción,1
+2021-06-10,71103,San Julián,8
+2021-06-10,71106,Cuatro Cañadas,5
+2021-06-10,71301,Comarapa,4
+2021-06-10,71401,Puerto Suarez,8
+2021-06-10,71402,Puerto Quijarro,3
+2021-06-10,71502,Urubicha,1
+2021-06-10,71503,El Puente,1
+2021-06-11,70101,Santa Cruz de la Sierra,703
+2021-06-11,70102,Cotoca,2
+2021-06-11,70103,Porongo,3
+2021-06-11,70104,La Guardia,6
+2021-06-11,70105,El Torno,10
+2021-06-11,70201,Warnes,19
+2021-06-11,70202,Okinawa Uno,7
+2021-06-11,70301,San Ignacio,2
+2021-06-11,70302,San Miguel,1
+2021-06-11,70401,Buena Vista,2
+2021-06-11,70402,San Carlos,4
+2021-06-11,70404,San Juan,8
+2021-06-11,70502,Pailón,5
+2021-06-11,70503,Roboré,8
+2021-06-11,70601,Portachuelo,3
+2021-06-11,70602,Santa Rosa,1
+2021-06-11,70702,Charagua,2
+2021-06-11,70703,Cabezas,1
+2021-06-11,70704,Cuevo,3
+2021-06-11,70705,Gutiérrez,2
+2021-06-11,70706,Camiri,2
+2021-06-11,70707,Boyuibe,24
+2021-06-11,70801,Vallegrande,5
+2021-06-11,70803,Moromoro,1
+2021-06-11,70805,Pucará,1
+2021-06-11,70901,Samaipata,1
+2021-06-11,70902,Pampa Grande,1
+2021-06-11,70903,Mairana,2
+2021-06-11,71001,Montero,34
+2021-06-11,71002,General Saavedra,3
+2021-06-11,71003,Mineros,4
+2021-06-11,71005,San Pedro,22
+2021-06-11,71101,Concepción,3
+2021-06-11,71102,San Javier,1
+2021-06-11,71103,San Julián,1
+2021-06-11,71104,San Antonio de Lomerio,1
+2021-06-11,71106,Cuatro Cañadas,2
+2021-06-11,71401,Puerto Suarez,23
+2021-06-11,71402,Puerto Quijarro,6
+2021-06-11,71502,Urubicha,1
+2021-06-11,71503,El Puente,5
 2021-06-12,70101,Santa Cruz de la Sierra,415
 2021-06-12,70102,Cotoca,2
 2021-06-12,70104,La Guardia,7
@@ -6014,6 +6299,317 @@ fecha,cod_ine,municipio,confirmados
 2021-06-20,71103,San Julián,1
 2021-06-20,71201,San Matías,6
 2021-06-20,71402,Puerto Quijarro,1
+2021-06-21,70101,Santa Cruz de la Sierra,92
+2021-06-21,70104,La Guardia,1
+2021-06-21,70201,Warnes,1
+2021-06-21,70302,San Miguel,1
+2021-06-21,70703,Cabezas,3
+2021-06-21,71001,Montero,5
+2021-06-21,71102,San Javier,1
+2021-06-21,71104,San Antonio de Lomerio,2
+2021-06-21,71201,San Matías,6
+2021-06-21,71501,Ascención de Guarayos,2
+2021-06-21,71503,El Puente,1
+2021-06-22,70101,Santa Cruz de la Sierra,527
+2021-06-22,70102,Cotoca,2
+2021-06-22,70103,Porongo,8
+2021-06-22,70104,La Guardia,11
+2021-06-22,70201,Warnes,5
+2021-06-22,70202,Okinawa Uno,1
+2021-06-22,70302,San Miguel,1
+2021-06-22,70401,Buena Vista,1
+2021-06-22,70402,San Carlos,2
+2021-06-22,70404,San Juan,3
+2021-06-22,70502,Pailón,7
+2021-06-22,70503,Roboré,5
+2021-06-22,70601,Portachuelo,3
+2021-06-22,70602,Santa Rosa,4
+2021-06-22,70603,Colpa Bélgica,1
+2021-06-22,70702,Charagua,3
+2021-06-22,70704,Cuevo,3
+2021-06-22,70705,Gutiérrez,2
+2021-06-22,70706,Camiri,5
+2021-06-22,70801,Vallegrande,4
+2021-06-22,70901,Samaipata,4
+2021-06-22,70902,Pampa Grande,1
+2021-06-22,71001,Montero,32
+2021-06-22,71002,General Saavedra,1
+2021-06-22,71005,San Pedro,5
+2021-06-22,71106,Cuatro Cañadas,2
+2021-06-22,71201,San Matías,9
+2021-06-22,71301,Comarapa,3
+2021-06-22,71402,Puerto Quijarro,1
+2021-06-22,71501,Ascención de Guarayos,1
+2021-06-22,71503,El Puente,1
+2021-06-23,70101,Santa Cruz de la Sierra,565
+2021-06-23,70103,Porongo,1
+2021-06-23,70104,La Guardia,11
+2021-06-23,70105,El Torno,15
+2021-06-23,70201,Warnes,8
+2021-06-23,70301,San Ignacio,1
+2021-06-23,70401,Buena Vista,1
+2021-06-23,70402,San Carlos,1
+2021-06-23,70404,San Juan,3
+2021-06-23,70501,San José,3
+2021-06-23,70502,Pailón,6
+2021-06-23,70503,Roboré,2
+2021-06-23,70601,Portachuelo,1
+2021-06-23,70602,Santa Rosa,13
+2021-06-23,70702,Charagua,5
+2021-06-23,70703,Cabezas,3
+2021-06-23,70704,Cuevo,1
+2021-06-23,70706,Camiri,2
+2021-06-23,70801,Vallegrande,8
+2021-06-23,70802,Trigal,1
+2021-06-23,70803,Moromoro,3
+2021-06-23,70805,Pucará,1
+2021-06-23,70901,Samaipata,2
+2021-06-23,70903,Mairana,1
+2021-06-23,71001,Montero,27
+2021-06-23,71002,General Saavedra,5
+2021-06-23,71004,Fernández Alonso,1
+2021-06-23,71005,San Pedro,5
+2021-06-23,71104,San Antonio de Lomerio,3
+2021-06-23,71106,Cuatro Cañadas,4
+2021-06-23,71201,San Matías,16
+2021-06-23,71301,Comarapa,1
+2021-06-23,71302,Saipina,4
+2021-06-23,71401,Puerto Suarez,1
+2021-06-23,71402,Puerto Quijarro,1
+2021-06-23,71403,El Carmen Rivero Tórrez,2
+2021-06-23,71501,Ascención de Guarayos,9
+2021-06-23,71503,El Puente,1
+2021-06-24,70101,Santa Cruz de la Sierra,712
+2021-06-24,70102,Cotoca,1
+2021-06-24,70104,La Guardia,13
+2021-06-24,70105,El Torno,4
+2021-06-24,70201,Warnes,12
+2021-06-24,70202,Okinawa Uno,1
+2021-06-24,70301,San Ignacio,4
+2021-06-24,70401,Buena Vista,2
+2021-06-24,70402,San Carlos,4
+2021-06-24,70403,Yapacaní,12
+2021-06-24,70501,San José,3
+2021-06-24,70502,Pailón,8
+2021-06-24,70503,Roboré,6
+2021-06-24,70601,Portachuelo,2
+2021-06-24,70602,Santa Rosa,8
+2021-06-24,70603,Colpa Bélgica,3
+2021-06-24,70705,Gutiérrez,4
+2021-06-24,70706,Camiri,9
+2021-06-24,70801,Vallegrande,5
+2021-06-24,70803,Moromoro,3
+2021-06-24,70901,Samaipata,1
+2021-06-24,71001,Montero,48
+2021-06-24,71002,General Saavedra,1
+2021-06-24,71004,Fernández Alonso,1
+2021-06-24,71005,San Pedro,9
+2021-06-24,71102,San Javier,1
+2021-06-24,71103,San Julián,1
+2021-06-24,71106,Cuatro Cañadas,4
+2021-06-24,71201,San Matías,9
+2021-06-24,71301,Comarapa,2
+2021-06-24,71402,Puerto Quijarro,5
+2021-06-24,71503,El Puente,2
+2021-06-25,70101,Santa Cruz de la Sierra,599
+2021-06-25,70102,Cotoca,2
+2021-06-25,70103,Porongo,2
+2021-06-25,70104,La Guardia,5
+2021-06-25,70105,El Torno,8
+2021-06-25,70201,Warnes,4
+2021-06-25,70202,Okinawa Uno,9
+2021-06-25,70403,Yapacaní,1
+2021-06-25,70404,San Juan,3
+2021-06-25,70503,Roboré,7
+2021-06-25,70601,Portachuelo,4
+2021-06-25,70602,Santa Rosa,1
+2021-06-25,70603,Colpa Bélgica,1
+2021-06-25,70703,Cabezas,5
+2021-06-25,70705,Gutiérrez,1
+2021-06-25,70706,Camiri,3
+2021-06-25,70707,Boyuibe,2
+2021-06-25,70801,Vallegrande,1
+2021-06-25,70901,Samaipata,3
+2021-06-25,70902,Pampa Grande,3
+2021-06-25,71001,Montero,44
+2021-06-25,71005,San Pedro,28
+2021-06-25,71104,San Antonio de Lomerio,2
+2021-06-25,71106,Cuatro Cañadas,3
+2021-06-25,71201,San Matías,4
+2021-06-25,71301,Comarapa,5
+2021-06-25,71401,Puerto Suarez,2
+2021-06-25,71402,Puerto Quijarro,1
+2021-06-25,71403,El Carmen Rivero Tórrez,4
+2021-06-25,71501,Ascención de Guarayos,7
+2021-06-26,70101,Santa Cruz de la Sierra,487
+2021-06-26,70102,Cotoca,1
+2021-06-26,70104,La Guardia,21
+2021-06-26,70105,El Torno,4
+2021-06-26,70201,Warnes,6
+2021-06-26,70303,San Rafael,3
+2021-06-26,70402,San Carlos,7
+2021-06-26,70403,Yapacaní,1
+2021-06-26,70502,Pailón,2
+2021-06-26,70602,Santa Rosa,3
+2021-06-26,70603,Colpa Bélgica,1
+2021-06-26,70703,Cabezas,1
+2021-06-26,70801,Vallegrande,3
+2021-06-26,70901,Samaipata,1
+2021-06-26,71001,Montero,21
+2021-06-26,71005,San Pedro,12
+2021-06-26,71104,San Antonio de Lomerio,2
+2021-06-26,71106,Cuatro Cañadas,1
+2021-06-26,71201,San Matías,10
+2021-06-27,70101,Santa Cruz de la Sierra,235
+2021-06-27,70105,El Torno,3
+2021-06-27,70201,Warnes,4
+2021-06-27,70707,Boyuibe,1
+2021-06-27,70804,Postrervalle,3
+2021-06-27,70901,Samaipata,1
+2021-06-27,70903,Mairana,3
+2021-06-27,71001,Montero,2
+2021-06-27,71102,San Javier,1
+2021-06-27,71104,San Antonio de Lomerio,2
+2021-06-27,71201,San Matías,3
+2021-06-27,71403,El Carmen Rivero Tórrez,2
+2021-06-28,70101,Santa Cruz de la Sierra,452
+2021-06-28,70104,La Guardia,6
+2021-06-28,70105,El Torno,3
+2021-06-28,70201,Warnes,4
+2021-06-28,70301,San Ignacio,1
+2021-06-28,70303,San Rafael,1
+2021-06-28,70402,San Carlos,2
+2021-06-28,70502,Pailón,5
+2021-06-28,70503,Roboré,3
+2021-06-28,70601,Portachuelo,3
+2021-06-28,70602,Santa Rosa,6
+2021-06-28,70603,Colpa Bélgica,2
+2021-06-28,70703,Cabezas,1
+2021-06-28,70706,Camiri,4
+2021-06-28,70801,Vallegrande,3
+2021-06-28,70803,Moromoro,1
+2021-06-28,70901,Samaipata,2
+2021-06-28,70903,Mairana,2
+2021-06-28,71001,Montero,38
+2021-06-28,71005,San Pedro,1
+2021-06-28,71101,Concepción,9
+2021-06-28,71106,Cuatro Cañadas,1
+2021-06-28,71501,Ascención de Guarayos,4
+2021-06-28,71503,El Puente,2
+2021-06-29,70101,Santa Cruz de la Sierra,400
+2021-06-29,70102,Cotoca,4
+2021-06-29,70103,Porongo,1
+2021-06-29,70104,La Guardia,19
+2021-06-29,70105,El Torno,16
+2021-06-29,70201,Warnes,22
+2021-06-29,70301,San Ignacio,5
+2021-06-29,70302,San Miguel,1
+2021-06-29,70303,San Rafael,1
+2021-06-29,70401,Buena Vista,1
+2021-06-29,70402,San Carlos,1
+2021-06-29,70404,San Juan,1
+2021-06-29,70502,Pailón,8
+2021-06-29,70702,Charagua,1
+2021-06-29,70703,Cabezas,2
+2021-06-29,70705,Gutiérrez,1
+2021-06-29,70706,Camiri,7
+2021-06-29,70801,Vallegrande,1
+2021-06-29,70802,Trigal,2
+2021-06-29,70803,Moromoro,1
+2021-06-29,70804,Postrervalle,1
+2021-06-29,70901,Samaipata,5
+2021-06-29,71001,Montero,25
+2021-06-29,71002,General Saavedra,4
+2021-06-29,71004,Fernández Alonso,2
+2021-06-29,71005,San Pedro,1
+2021-06-29,71101,Concepción,2
+2021-06-29,71103,San Julián,1
+2021-06-29,71106,Cuatro Cañadas,7
+2021-06-29,71201,San Matías,4
+2021-06-29,71401,Puerto Suarez,2
+2021-06-29,71501,Ascención de Guarayos,5
+2021-06-29,71503,El Puente,3
+2021-06-30,70101,Santa Cruz de la Sierra,559
+2021-06-30,70102,Cotoca,5
+2021-06-30,70103,Porongo,2
+2021-06-30,70104,La Guardia,8
+2021-06-30,70105,El Torno,10
+2021-06-30,70201,Warnes,2
+2021-06-30,70301,San Ignacio,1
+2021-06-30,70303,San Rafael,1
+2021-06-30,70402,San Carlos,8
+2021-06-30,70502,Pailón,1
+2021-06-30,70503,Roboré,4
+2021-06-30,70601,Portachuelo,2
+2021-06-30,70703,Cabezas,1
+2021-06-30,70706,Camiri,8
+2021-06-30,70801,Vallegrande,4
+2021-06-30,70901,Samaipata,4
+2021-06-30,71001,Montero,29
+2021-06-30,71002,General Saavedra,1
+2021-06-30,71005,San Pedro,2
+2021-06-30,71101,Concepción,1
+2021-06-30,71104,San Antonio de Lomerio,5
+2021-06-30,71105,San Ramón,1
+2021-06-30,71301,Comarapa,3
+2021-06-30,71401,Puerto Suarez,1
+2021-06-30,71403,El Carmen Rivero Tórrez,2
+2021-06-30,71503,El Puente,1
+2021-07-01,70101,Santa Cruz de la Sierra,461
+2021-07-01,70102,Cotoca,3
+2021-07-01,70104,La Guardia,6
+2021-07-01,70105,El Torno,1
+2021-07-01,70201,Warnes,6
+2021-07-01,70303,San Rafael,1
+2021-07-01,70503,Roboré,3
+2021-07-01,70602,Santa Rosa,1
+2021-07-01,70702,Charagua,1
+2021-07-01,70703,Cabezas,3
+2021-07-01,70705,Gutiérrez,1
+2021-07-01,70706,Camiri,1
+2021-07-01,70707,Boyuibe,5
+2021-07-01,70801,Vallegrande,2
+2021-07-01,70802,Trigal,6
+2021-07-01,70901,Samaipata,2
+2021-07-01,71001,Montero,28
+2021-07-01,71003,Mineros,1
+2021-07-01,71005,San Pedro,6
+2021-07-01,71102,San Javier,1
+2021-07-01,71103,San Julián,2
+2021-07-01,71104,San Antonio de Lomerio,1
+2021-07-01,71106,Cuatro Cañadas,4
+2021-07-01,71201,San Matías,1
+2021-07-01,71301,Comarapa,2
+2021-07-01,71401,Puerto Suarez,2
+2021-07-01,71501,Ascención de Guarayos,3
+2021-07-01,71502,Urubicha,2
+2021-07-01,71503,El Puente,2
+2021-07-02,70101,Santa Cruz de la Sierra,433
+2021-07-02,70102,Cotoca,1
+2021-07-02,70103,Porongo,4
+2021-07-02,70104,La Guardia,6
+2021-07-02,70105,El Torno,1
+2021-07-02,70201,Warnes,4
+2021-07-02,70202,Okinawa Uno,1
+2021-07-02,70301,San Ignacio,3
+2021-07-02,70302,San Miguel,1
+2021-07-02,70401,Buena Vista,1
+2021-07-02,70502,Pailón,3
+2021-07-02,70503,Roboré,5
+2021-07-02,70602,Santa Rosa,1
+2021-07-02,70702,Charagua,3
+2021-07-02,70706,Camiri,2
+2021-07-02,70801,Vallegrande,2
+2021-07-02,70804,Postrervalle,1
+2021-07-02,70904,Quirusillas,4
+2021-07-02,71001,Montero,17
+2021-07-02,71004,Fernández Alonso,1
+2021-07-02,71005,San Pedro,8
+2021-07-02,71101,Concepción,1
+2021-07-02,71104,San Antonio de Lomerio,2
+2021-07-02,71201,San Matías,13
+2021-07-02,71301,Comarapa,5
+2021-07-02,71501,Ascención de Guarayos,1
 2021-07-03,70101,Santa Cruz de la Sierra,230
 2021-07-03,70104,La Guardia,11
 2021-07-03,70105,El Torno,3
@@ -6517,6 +7113,114 @@ fecha,cod_ine,municipio,confirmados
 2021-07-24,70904,Quirusillas,1
 2021-07-24,71001,Montero,12
 2021-07-24,71104,San Antonio de Lomerio,2
+2021-07-25,70101,Santa Cruz de la Sierra,108
+2021-07-25,70104,La Guardia,4
+2021-07-25,70601,Portachuelo,2
+2021-07-25,71001,Montero,3
+2021-07-25,71104,San Antonio de Lomerio,2
+2021-07-26,70101,Santa Cruz de la Sierra,234
+2021-07-26,70104,La Guardia,9
+2021-07-26,70201,Warnes,2
+2021-07-26,70202,Okinawa Uno,2
+2021-07-26,70301,San Ignacio,1
+2021-07-26,70502,Pailón,7
+2021-07-26,70503,Roboré,4
+2021-07-26,70601,Portachuelo,3
+2021-07-26,70703,Cabezas,1
+2021-07-26,70706,Camiri,1
+2021-07-26,70901,Samaipata,4
+2021-07-26,70902,Pampa Grande,3
+2021-07-26,70903,Mairana,2
+2021-07-26,71001,Montero,17
+2021-07-26,71003,Mineros,1
+2021-07-26,71004,Fernández Alonso,1
+2021-07-26,71101,Concepción,2
+2021-07-26,71102,San Javier,3
+2021-07-26,71106,Cuatro Cañadas,3
+2021-07-26,71201,San Matías,1
+2021-07-26,71401,Puerto Suarez,2
+2021-07-26,71402,Puerto Quijarro,1
+2021-07-26,71502,Urubicha,2
+2021-07-26,71503,El Puente,1
+2021-07-27,70101,Santa Cruz de la Sierra,231
+2021-07-27,70102,Cotoca,2
+2021-07-27,70104,La Guardia,9
+2021-07-27,70105,El Torno,3
+2021-07-27,70201,Warnes,5
+2021-07-27,70401,Buena Vista,2
+2021-07-27,70404,San Juan,1
+2021-07-27,70502,Pailón,1
+2021-07-27,70603,Colpa Bélgica,1
+2021-07-27,70706,Camiri,3
+2021-07-27,70707,Boyuibe,2
+2021-07-27,71001,Montero,11
+2021-07-27,71002,General Saavedra,2
+2021-07-27,71101,Concepción,5
+2021-07-27,71104,San Antonio de Lomerio,3
+2021-07-28,70101,Santa Cruz de la Sierra,235
+2021-07-28,70104,La Guardia,9
+2021-07-28,70105,El Torno,5
+2021-07-28,70201,Warnes,5
+2021-07-28,70301,San Ignacio,1
+2021-07-28,70402,San Carlos,1
+2021-07-28,70404,San Juan,2
+2021-07-28,70503,Roboré,2
+2021-07-28,70601,Portachuelo,2
+2021-07-28,70701,Lagunillas,2
+2021-07-28,70703,Cabezas,1
+2021-07-28,70801,Vallegrande,1
+2021-07-28,70802,Trigal,1
+2021-07-28,70901,Samaipata,4
+2021-07-28,71001,Montero,10
+2021-07-28,71104,San Antonio de Lomerio,2
+2021-07-28,71106,Cuatro Cañadas,5
+2021-07-28,71301,Comarapa,1
+2021-07-28,71302,Saipina,1
+2021-07-28,71401,Puerto Suarez,11
+2021-07-28,71502,Urubicha,1
+2021-07-29,70101,Santa Cruz de la Sierra,245
+2021-07-29,70102,Cotoca,1
+2021-07-29,70104,La Guardia,3
+2021-07-29,70105,El Torno,3
+2021-07-29,70201,Warnes,2
+2021-07-29,70402,San Carlos,2
+2021-07-29,70404,San Juan,5
+2021-07-29,70501,San José,5
+2021-07-29,70503,Roboré,1
+2021-07-29,70703,Cabezas,2
+2021-07-29,70705,Gutiérrez,1
+2021-07-29,70706,Camiri,1
+2021-07-29,70803,Moromoro,1
+2021-07-29,70901,Samaipata,2
+2021-07-29,70903,Mairana,2
+2021-07-29,71001,Montero,13
+2021-07-29,71101,Concepción,3
+2021-07-29,71106,Cuatro Cañadas,2
+2021-07-29,71401,Puerto Suarez,4
+2021-07-30,70101,Santa Cruz de la Sierra,216
+2021-07-30,70103,Porongo,1
+2021-07-30,70104,La Guardia,10
+2021-07-30,70105,El Torno,7
+2021-07-30,70201,Warnes,3
+2021-07-30,70302,San Miguel,1
+2021-07-30,70402,San Carlos,2
+2021-07-30,70403,Yapacaní,5
+2021-07-30,70502,Pailón,1
+2021-07-30,70503,Roboré,6
+2021-07-30,70701,Lagunillas,2
+2021-07-30,70702,Charagua,1
+2021-07-30,70703,Cabezas,1
+2021-07-30,70706,Camiri,2
+2021-07-30,70803,Moromoro,5
+2021-07-30,70903,Mairana,2
+2021-07-30,71001,Montero,9
+2021-07-30,71002,General Saavedra,3
+2021-07-30,71005,San Pedro,5
+2021-07-30,71101,Concepción,1
+2021-07-30,71104,San Antonio de Lomerio,3
+2021-07-30,71106,Cuatro Cañadas,1
+2021-07-30,71301,Comarapa,1
+2021-07-30,71402,Puerto Quijarro,4
 2021-07-31,70101,Santa Cruz de la Sierra,216
 2021-07-31,70102,Cotoca,1
 2021-07-31,70104,La Guardia,1
@@ -7220,6 +7924,65 @@ fecha,cod_ine,municipio,confirmados
 2021-09-25,71001,Montero,2
 2021-09-26,70101,Santa Cruz de la Sierra,30
 2021-09-26,71001,Montero,1
+2021-09-27,70101,Santa Cruz de la Sierra,138
+2021-09-27,70102,Cotoca,1
+2021-09-27,70104,La Guardia,3
+2021-09-27,70105,El Torno,1
+2021-09-27,70303,San Rafael,2
+2021-09-27,70403,Yapacaní,1
+2021-09-27,70706,Camiri,1
+2021-09-27,70803,Moromoro,1
+2021-09-27,70901,Samaipata,4
+2021-09-27,71001,Montero,1
+2021-09-27,71201,San Matías,3
+2021-09-27,71301,Comarapa,1
+2021-09-27,71401,Puerto Suarez,2
+2021-09-28,70101,Santa Cruz de la Sierra,204
+2021-09-28,70104,La Guardia,2
+2021-09-28,70105,El Torno,2
+2021-09-28,70201,Warnes,3
+2021-09-28,70303,San Rafael,1
+2021-09-28,70503,Roboré,1
+2021-09-28,70601,Portachuelo,2
+2021-09-28,71001,Montero,4
+2021-09-28,71104,San Antonio de Lomerio,1
+2021-09-28,71106,Cuatro Cañadas,1
+2021-09-28,71201,San Matías,3
+2021-09-29,70101,Santa Cruz de la Sierra,151
+2021-09-29,70104,La Guardia,9
+2021-09-29,70105,El Torno,2
+2021-09-29,70201,Warnes,3
+2021-09-29,70301,San Ignacio,1
+2021-09-29,70303,San Rafael,2
+2021-09-29,70404,San Juan,1
+2021-09-29,70601,Portachuelo,2
+2021-09-29,70706,Camiri,2
+2021-09-29,70805,Pucará,1
+2021-09-29,70901,Samaipata,5
+2021-09-29,71001,Montero,8
+2021-09-29,71101,Concepción,3
+2021-09-29,71103,San Julián,1
+2021-09-29,71301,Comarapa,1
+2021-09-29,71403,El Carmen Rivero Tórrez,2
+2021-09-30,70101,Santa Cruz de la Sierra,116
+2021-09-30,70104,La Guardia,7
+2021-09-30,70201,Warnes,1
+2021-09-30,70503,Roboré,2
+2021-09-30,70801,Vallegrande,3
+2021-09-30,70805,Pucará,1
+2021-09-30,70901,Samaipata,1
+2021-09-30,71001,Montero,1
+2021-09-30,71102,San Javier,1
+2021-09-30,71201,San Matías,1
+2021-10-01,70101,Santa Cruz de la Sierra,141
+2021-10-01,70104,La Guardia,4
+2021-10-01,70105,El Torno,4
+2021-10-01,70301,San Ignacio,1
+2021-10-01,70706,Camiri,1
+2021-10-01,71001,Montero,2
+2021-10-01,71201,San Matías,1
+2021-10-01,71301,Comarapa,2
+2021-10-01,71402,Puerto Quijarro,2
 2021-10-02,70101,Santa Cruz de la Sierra,140
 2021-10-02,70104,La Guardia,1
 2021-10-02,70105,El Torno,1
