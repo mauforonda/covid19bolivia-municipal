@@ -6759,14 +6759,20 @@ fecha,cod_ine,municipio,confirmados
 2021-11-30,31601,Tiraque,1
 2021-11-30,31602,Shinahota,3
 2021-12-01,30101,Cochabamba,38
+2021-12-01,30201,Aiquile,4
+2021-12-01,30202,Pasorapa,1
+2021-12-01,30401,Tarata,2
+2021-12-01,30402,Anzaldo,1
 2021-12-01,30403,Arbieto,1
 2021-12-01,30404,Sacabamba,3
 2021-12-01,30501,Arani,2
+2021-12-01,30502,Vacas,1
 2021-12-01,30701,Capinota,3
 2021-12-01,30703,Sicaya,1
 2021-12-01,30801,Cliza,3
 2021-12-01,30901,Quillacollo,10
 2021-12-01,30902,Sipesipe,4
+2021-12-01,30903,Tiquipaya,4
 2021-12-01,30904,Vinto,3
 2021-12-01,30905,Colcapirhua,6
 2021-12-01,31001,Sacaba,9
@@ -6776,8 +6782,10 @@ fecha,cod_ine,municipio,confirmados
 2021-12-01,31204,Chimoré,1
 2021-12-01,31401,Punata,2
 2021-12-01,31402,Villa Rivero,2
+2021-12-01,31403,San Benito,1
 2021-12-01,31405,Villa Gualberto Villarroel,1
 2021-12-01,31601,Tiraque,2
+2021-12-01,31602,Shinahota,1
 2021-12-02,30101,Cochabamba,68
 2021-12-02,30201,Aiquile,4
 2021-12-02,30202,Pasorapa,1

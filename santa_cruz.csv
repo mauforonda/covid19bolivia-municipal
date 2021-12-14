@@ -9167,6 +9167,7 @@ fecha,cod_ine,municipio,confirmados
 2021-12-01,70302,San Miguel,2
 2021-12-01,70303,San Rafael,2
 2021-12-01,70401,Buena Vista,1
+2021-12-01,70402,San Carlos,3
 2021-12-01,70403,Yapacaní,1
 2021-12-01,70501,San José,1
 2021-12-01,70502,Pailón,8
@@ -9183,8 +9184,12 @@ fecha,cod_ine,municipio,confirmados
 2021-12-01,70803,Moromoro,2
 2021-12-01,70804,Postrervalle,3
 2021-12-01,70901,Samaipata,1
+2021-12-01,70902,Pampa Grande,3
+2021-12-01,70903,Mairana,1
 2021-12-01,71001,Montero,15
+2021-12-01,71002,General Saavedra,1
 2021-12-01,71003,Mineros,1
+2021-12-01,71004,Fernández Alonso,1
 2021-12-01,71005,San Pedro,1
 2021-12-01,71101,Concepción,19
 2021-12-01,71103,San Julián,2
