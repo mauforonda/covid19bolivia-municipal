@@ -56,17 +56,19 @@ def download():
 
 MES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic']
 MES = {mes:(idx + 1) for idx, mes in enumerate(MES)}
+AÑO = pd.date_range(dt.datetime.now() - dt.timedelta(days=14), dt.datetime.now())
+AÑO = {d.month: d.year for d in AÑO}
+
+def parse_date(fecha):
+    mes = MES[fecha.split(' ')[-1].lower()[:3]]
+    return dt.datetime(AÑO[mes], mes, int(fecha.split(' ')[0]))
 
 def format(df):
     df.columns = ['cod_ine', 'fecha', 'confirmados', 'num_dias']
 
     df.cod_ine = df.cod_ine.astype(int)
     df.confirmados = df.confirmados.astype(int)
-    df.fecha = df.fecha.apply(
-        lambda _: dt.datetime(
-            2021, MES[_.split(' ')[-1].lower()[:3]], int(_.split(' ')[0])
-        )
-    )
+    df.fecha = df.fecha.apply(lambda _: parse_date(_))
 
     # elimina dias sin actualizacion
     df = df.sort_values(['cod_ine', 'fecha', 'num_dias'])
