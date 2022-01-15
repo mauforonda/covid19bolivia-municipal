@@ -56,7 +56,7 @@ def download():
 
 MES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic']
 MES = {mes:(idx + 1) for idx, mes in enumerate(MES)}
-AÑO = pd.date_range(dt.datetime.now() - dt.timedelta(days=DAYS), dt.datetime.now())
+AÑO = pd.date_range(dt.datetime.now() - dt.timedelta(days=DAYS * 3), dt.datetime.now())
 AÑO = {d.month: d.year for d in AÑO}
 
 def parse_date(fecha):
