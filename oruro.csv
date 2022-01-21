@@ -2407,11 +2407,15 @@ fecha,cod_ine,municipio,confirmados
 2022-01-07,40102,Caracollo,3
 2022-01-07,40103,El Choro,1
 2022-01-07,40201,Challapata,15
+2022-01-07,40202,Santuario de Quillacas,1
 2022-01-07,40503,Cruz de Machacamarca,6
+2022-01-07,40505,Esmeralda,9
 2022-01-07,40601,Poopó,6
 2022-01-07,40603,Antequera,3
 2022-01-07,40701,Huanuni,21
 2022-01-07,40801,Salinas de Garcí Mendoza,10
+2022-01-07,40901,Sabaya,3
+2022-01-07,40902,Coipasa,1
 2022-01-07,41001,Toledo,7
 2022-01-07,41101,Eucaliptus,1
 2022-01-07,41201,Andamarca,8
@@ -2423,15 +2427,21 @@ fecha,cod_ine,municipio,confirmados
 2022-01-08,40102,Caracollo,7
 2022-01-08,40201,Challapata,8
 2022-01-08,40202,Santuario de Quillacas,1
+2022-01-08,40301,Corque,4
 2022-01-08,40302,Choquecota,4
 2022-01-08,40402,Turco,1
+2022-01-08,40503,Cruz de Machacamarca,1
+2022-01-08,40505,Esmeralda,5
 2022-01-08,40601,Poopó,4
 2022-01-08,40602,Pazña,4
 2022-01-08,40603,Antequera,3
 2022-01-08,40701,Huanuni,27
 2022-01-08,40801,Salinas de Garcí Mendoza,1
+2022-01-08,40802,Pampa Aullagas,1
 2022-01-08,40901,Sabaya,10
+2022-01-08,40902,Coipasa,1
 2022-01-08,41001,Toledo,7
+2022-01-08,41101,Eucaliptus,27
 2022-01-08,41201,Andamarca,2
 2022-01-08,41401,Santiago de Huari,1
 2022-01-08,41503,Carangas,5
@@ -2441,14 +2451,18 @@ fecha,cod_ine,municipio,confirmados
 2022-01-09,40201,Challapata,13
 2022-01-09,40301,Corque,1
 2022-01-09,40402,Turco,3
+2022-01-09,40502,Escara,1
 2022-01-09,40503,Cruz de Machacamarca,1
+2022-01-09,40505,Esmeralda,5
 2022-01-09,40601,Poopó,9
 2022-01-09,40603,Antequera,1
 2022-01-09,40701,Huanuni,16
 2022-01-09,40801,Salinas de Garcí Mendoza,2
 2022-01-09,40802,Pampa Aullagas,1
 2022-01-09,40901,Sabaya,8
+2022-01-09,40902,Coipasa,4
 2022-01-09,41001,Toledo,9
+2022-01-09,41101,Eucaliptus,16
 2022-01-09,41401,Santiago de Huari,4
 2022-01-09,41503,Carangas,5
 2022-01-10,40101,Oruro,150
@@ -2458,26 +2472,39 @@ fecha,cod_ine,municipio,confirmados
 2022-01-10,40402,Turco,1
 2022-01-10,40501,Huachacalla,3
 2022-01-10,40503,Cruz de Machacamarca,3
+2022-01-10,40505,Esmeralda,3
+2022-01-10,40601,Poopó,3
+2022-01-10,40603,Antequera,3
 2022-01-10,40701,Huanuni,9
 2022-01-10,40801,Salinas de Garcí Mendoza,3
+2022-01-10,40802,Pampa Aullagas,1
 2022-01-10,40901,Sabaya,4
 2022-01-10,41001,Toledo,3
+2022-01-10,41101,Eucaliptus,9
+2022-01-10,41401,Santiago de Huari,3
 2022-01-10,41503,Carangas,3
 2022-01-11,40101,Oruro,466
+2022-01-11,40102,Caracollo,2
 2022-01-11,40201,Challapata,18
+2022-01-11,40202,Santuario de Quillacas,1
 2022-01-11,40301,Corque,11
+2022-01-11,40402,Turco,11
 2022-01-11,40501,Huachacalla,2
 2022-01-11,40502,Escara,2
 2022-01-11,40503,Cruz de Machacamarca,13
+2022-01-11,40505,Esmeralda,1
 2022-01-11,40601,Poopó,7
 2022-01-11,40602,Pazña,2
+2022-01-11,40603,Antequera,3
 2022-01-11,40701,Huanuni,25
 2022-01-11,40801,Salinas de Garcí Mendoza,4
 2022-01-11,40901,Sabaya,11
+2022-01-11,40902,Coipasa,3
 2022-01-11,41001,Toledo,3
 2022-01-11,41101,Eucaliptus,1
 2022-01-11,41301,Totora,1
 2022-01-11,41401,Santiago de Huari,3
+2022-01-11,41501,La Rivera,2
 2022-01-11,41503,Carangas,1
 2022-01-11,41601,Huayllamarca,7
 2022-01-12,40101,Oruro,772
@@ -2486,8 +2513,11 @@ fecha,cod_ine,municipio,confirmados
 2022-01-12,40202,Santuario de Quillacas,5
 2022-01-12,40301,Corque,6
 2022-01-12,40302,Choquecota,3
+2022-01-12,40402,Turco,12
 2022-01-12,40501,Huachacalla,2
+2022-01-12,40502,Escara,14
 2022-01-12,40503,Cruz de Machacamarca,3
+2022-01-12,40505,Esmeralda,5
 2022-01-12,40601,Poopó,8
 2022-01-12,40602,Pazña,2
 2022-01-12,40603,Antequera,2
@@ -2498,6 +2528,7 @@ fecha,cod_ine,municipio,confirmados
 2022-01-12,41001,Toledo,12
 2022-01-12,41101,Eucaliptus,4
 2022-01-12,41301,Totora,3
+2022-01-12,41401,Santiago de Huari,3
 2022-01-12,41503,Carangas,5
 2022-01-12,41601,Huayllamarca,1
 2022-01-13,40101,Oruro,906
@@ -2505,10 +2536,13 @@ fecha,cod_ine,municipio,confirmados
 2022-01-13,40103,El Choro,6
 2022-01-13,40104,Paria,1
 2022-01-13,40201,Challapata,33
+2022-01-13,40202,Santuario de Quillacas,8
 2022-01-13,40301,Corque,8
 2022-01-13,40402,Turco,5
 2022-01-13,40501,Huachacalla,5
+2022-01-13,40502,Escara,19
 2022-01-13,40503,Cruz de Machacamarca,16
+2022-01-13,40505,Esmeralda,9
 2022-01-13,40601,Poopó,8
 2022-01-13,40602,Pazña,5
 2022-01-13,40603,Antequera,10
@@ -2520,6 +2554,7 @@ fecha,cod_ine,municipio,confirmados
 2022-01-13,41101,Eucaliptus,8
 2022-01-13,41201,Andamarca,5
 2022-01-13,41301,Totora,2
+2022-01-13,41401,Santiago de Huari,9
 2022-01-13,41503,Carangas,9
 2022-01-13,41601,Huayllamarca,5
 2022-01-14,40101,Oruro,945
@@ -2530,7 +2565,9 @@ fecha,cod_ine,municipio,confirmados
 2022-01-14,40302,Choquecota,1
 2022-01-14,40402,Turco,13
 2022-01-14,40501,Huachacalla,10
+2022-01-14,40502,Escara,11
 2022-01-14,40503,Cruz de Machacamarca,7
+2022-01-14,40505,Esmeralda,6
 2022-01-14,40601,Poopó,6
 2022-01-14,40602,Pazña,18
 2022-01-14,40603,Antequera,13
@@ -2538,7 +2575,9 @@ fecha,cod_ine,municipio,confirmados
 2022-01-14,40801,Salinas de Garcí Mendoza,5
 2022-01-14,40802,Pampa Aullagas,11
 2022-01-14,40901,Sabaya,36
+2022-01-14,40902,Coipasa,5
 2022-01-14,41001,Toledo,10
+2022-01-14,41101,Eucaliptus,56
 2022-01-14,41201,Andamarca,2
 2022-01-14,41301,Totora,8
 2022-01-14,41401,Santiago de Huari,5
@@ -2547,24 +2586,34 @@ fecha,cod_ine,municipio,confirmados
 2022-01-15,40101,Oruro,935
 2022-01-15,40102,Caracollo,4
 2022-01-15,40201,Challapata,19
+2022-01-15,40202,Santuario de Quillacas,3
 2022-01-15,40301,Corque,5
 2022-01-15,40402,Turco,8
 2022-01-15,40501,Huachacalla,2
 2022-01-15,40503,Cruz de Machacamarca,13
+2022-01-15,40505,Esmeralda,6
+2022-01-15,40601,Poopó,13
 2022-01-15,40603,Antequera,6
 2022-01-15,40701,Huanuni,25
 2022-01-15,40801,Salinas de Garcí Mendoza,15
+2022-01-15,40802,Pampa Aullagas,8
 2022-01-15,40901,Sabaya,2
 2022-01-15,41001,Toledo,4
 2022-01-15,41101,Eucaliptus,3
 2022-01-15,41301,Totora,1
+2022-01-15,41401,Santiago de Huari,15
 2022-01-15,41503,Carangas,6
 2022-01-16,40101,Oruro,699
 2022-01-16,40102,Caracollo,2
 2022-01-16,40103,El Choro,9
 2022-01-16,40201,Challapata,21
+2022-01-16,40202,Santuario de Quillacas,3
+2022-01-16,40301,Corque,2
+2022-01-16,40402,Turco,5
 2022-01-16,40501,Huachacalla,6
+2022-01-16,40502,Escara,5
 2022-01-16,40503,Cruz de Machacamarca,4
+2022-01-16,40505,Esmeralda,3
 2022-01-16,40601,Poopó,5
 2022-01-16,40602,Pazña,2
 2022-01-16,40603,Antequera,2
@@ -2572,8 +2621,77 @@ fecha,cod_ine,municipio,confirmados
 2022-01-16,40801,Salinas de Garcí Mendoza,16
 2022-01-16,40802,Pampa Aullagas,5
 2022-01-16,40901,Sabaya,5
+2022-01-16,40902,Coipasa,2
 2022-01-16,41101,Eucaliptus,3
 2022-01-16,41301,Totora,1
 2022-01-16,41401,Santiago de Huari,2
 2022-01-16,41503,Carangas,3
 2022-01-16,41601,Huayllamarca,2
+2022-01-17,40101,Oruro,225
+2022-01-17,40102,Caracollo,3
+2022-01-17,40505,Esmeralda,1
+2022-01-17,40603,Antequera,2
+2022-01-17,40701,Huanuni,5
+2022-01-17,40801,Salinas de Garcí Mendoza,4
+2022-01-17,40802,Pampa Aullagas,17
+2022-01-17,40901,Sabaya,2
+2022-01-17,41101,Eucaliptus,8
+2022-01-17,41201,Andamarca,3
+2022-01-17,41301,Totora,3
+2022-01-17,41401,Santiago de Huari,4
+2022-01-17,41503,Carangas,3
+2022-01-18,40101,Oruro,608
+2022-01-18,40102,Caracollo,3
+2022-01-18,40103,El Choro,6
+2022-01-18,40202,Santuario de Quillacas,2
+2022-01-18,40402,Turco,1
+2022-01-18,40505,Esmeralda,2
+2022-01-18,40601,Poopó,2
+2022-01-18,40603,Antequera,3
+2022-01-18,40701,Huanuni,25
+2022-01-18,40801,Salinas de Garcí Mendoza,3
+2022-01-18,40802,Pampa Aullagas,16
+2022-01-18,40901,Sabaya,12
+2022-01-18,40902,Coipasa,6
+2022-01-18,41001,Toledo,6
+2022-01-18,41101,Eucaliptus,26
+2022-01-18,41201,Andamarca,4
+2022-01-18,41301,Totora,1
+2022-01-18,41401,Santiago de Huari,3
+2022-01-18,41503,Carangas,3
+2022-01-19,40101,Oruro,771
+2022-01-19,40102,Caracollo,4
+2022-01-19,40103,El Choro,3
+2022-01-19,40202,Santuario de Quillacas,2
+2022-01-19,40402,Turco,1
+2022-01-19,40501,Huachacalla,1
+2022-01-19,40505,Esmeralda,8
+2022-01-19,40601,Poopó,19
+2022-01-19,40603,Antequera,2
+2022-01-19,40701,Huanuni,10
+2022-01-19,40801,Salinas de Garcí Mendoza,4
+2022-01-19,40802,Pampa Aullagas,9
+2022-01-19,40901,Sabaya,8
+2022-01-19,41001,Toledo,2
+2022-01-19,41101,Eucaliptus,26
+2022-01-19,41301,Totora,2
+2022-01-19,41401,Santiago de Huari,6
+2022-01-19,41503,Carangas,14
+2022-01-20,40101,Oruro,661
+2022-01-20,40102,Caracollo,2
+2022-01-20,40103,El Choro,8
+2022-01-20,40201,Challapata,4
+2022-01-20,40202,Santuario de Quillacas,1
+2022-01-20,40402,Turco,6
+2022-01-20,40502,Escara,1
+2022-01-20,40503,Cruz de Machacamarca,1
+2022-01-20,40601,Poopó,1
+2022-01-20,40603,Antequera,3
+2022-01-20,40701,Huanuni,12
+2022-01-20,40801,Salinas de Garcí Mendoza,7
+2022-01-20,40802,Pampa Aullagas,6
+2022-01-20,40901,Sabaya,13
+2022-01-20,41001,Toledo,8
+2022-01-20,41101,Eucaliptus,16
+2022-01-20,41401,Santiago de Huari,2
+2022-01-20,41503,Carangas,1
